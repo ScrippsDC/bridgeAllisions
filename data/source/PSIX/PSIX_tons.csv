@@ -1,0 +1,4289 @@
+measure_of_weight,tonnage_type_id,tonnage_type_name,unit_of_measure_id,unit_of_measure_name,primary_vessel_id
+15,4,Simplified,64,Long Ton,240646
+13,4,Simplified,111,Short Ton,240646
+11,4,Simplified,111,Short Ton,275040
+14,4,Simplified,64,Long Ton,275040
+15,4,Simplified,64,Long Ton,240646
+13,4,Simplified,111,Short Ton,240646
+11,4,Simplified,111,Short Ton,275040
+14,4,Simplified,64,Long Ton,275040
+29,4,Simplified,64,Long Ton,577674
+23,4,Simplified,111,Short Ton,577674
+6,4,Simplified,64,Long Ton,624078
+5,4,Simplified,111,Short Ton,624078
+21,4,Simplified,111,Short Ton,641758
+27,4,Simplified,64,Long Ton,641758
+11,4,Simplified,64,Long Ton,293548
+10,4,Simplified,111,Short Ton,293548
+16,4,Simplified,64,Long Ton,287444
+13,4,Simplified,111,Short Ton,287444
+24,4,Simplified,64,Long Ton,284057
+19,4,Simplified,111,Short Ton,284057
+29,4,Simplified,111,Short Ton,276023
+32,4,Simplified,64,Long Ton,276023
+41,4,Simplified,64,Long Ton,562649
+32,4,Simplified,111,Short Ton,562649
+30,4,Simplified,111,Short Ton,608953
+37,4,Simplified,64,Long Ton,608953
+36007,4,Simplified,64,Long Ton,1106231
+15938,4,Simplified,111,Short Ton,1106231
+8,4,Simplified,64,Long Ton,623711
+8,4,Simplified,111,Short Ton,623711
+31,4,Simplified,111,Short Ton,1077105
+31,4,Simplified,64,Long Ton,1077105
+6,4,Simplified,111,Short Ton,270746
+7,4,Simplified,64,Long Ton,270746
+12,4,Simplified,64,Long Ton,240322
+10,4,Simplified,111,Short Ton,240322
+12,4,Simplified,64,Long Ton,2985
+10,4,Simplified,111,Short Ton,2985
+5,4,Simplified,64,Long Ton,263089
+5,4,Simplified,111,Short Ton,263089
+7,4,Simplified,111,Short Ton,282380
+8,4,Simplified,64,Long Ton,282380
+17,4,Simplified,64,Long Ton,287456
+13,4,Simplified,111,Short Ton,287456
+13,4,Simplified,64,Long Ton,910264
+10,4,Simplified,111,Short Ton,910264
+22,4,Simplified,64,Long Ton,560349
+17,4,Simplified,111,Short Ton,560349
+105,4,Simplified,111,Short Ton,505341
+113,4,Simplified,64,Long Ton,505341
+23,4,Simplified,64,Long Ton,294735
+19,4,Simplified,111,Short Ton,294735
+15,4,Simplified,111,Short Ton,593419
+19,4,Simplified,64,Long Ton,593419
+8,4,Simplified,111,Short Ton,1080262
+8,4,Simplified,64,Long Ton,1080262
+37,4,Simplified,64,Long Ton,1109840
+29,4,Simplified,111,Short Ton,1109840
+716,4,Simplified,64,Long Ton,505721
+716,4,Simplified,111,Short Ton,505721
+18,4,Simplified,64,Long Ton,247490
+14,4,Simplified,111,Short Ton,247490
+90,4,Simplified,111,Short Ton,610267
+113,4,Simplified,64,Long Ton,610267
+15,4,Simplified,64,Long Ton,240646
+13,4,Simplified,111,Short Ton,240646
+11,4,Simplified,111,Short Ton,275040
+14,4,Simplified,64,Long Ton,275040
+29,4,Simplified,64,Long Ton,577674
+23,4,Simplified,111,Short Ton,577674
+6,4,Simplified,64,Long Ton,624078
+5,4,Simplified,111,Short Ton,624078
+21,4,Simplified,111,Short Ton,641758
+27,4,Simplified,64,Long Ton,641758
+11,4,Simplified,64,Long Ton,293548
+10,4,Simplified,111,Short Ton,293548
+16,4,Simplified,64,Long Ton,287444
+13,4,Simplified,111,Short Ton,287444
+24,4,Simplified,64,Long Ton,284057
+19,4,Simplified,111,Short Ton,284057
+29,4,Simplified,111,Short Ton,276023
+32,4,Simplified,64,Long Ton,276023
+41,4,Simplified,64,Long Ton,562649
+32,4,Simplified,111,Short Ton,562649
+30,4,Simplified,111,Short Ton,608953
+37,4,Simplified,64,Long Ton,608953
+36007,4,Simplified,64,Long Ton,1106231
+15938,4,Simplified,111,Short Ton,1106231
+8,4,Simplified,64,Long Ton,623711
+8,4,Simplified,111,Short Ton,623711
+31,4,Simplified,111,Short Ton,1077105
+31,4,Simplified,64,Long Ton,1077105
+6,4,Simplified,111,Short Ton,270746
+7,4,Simplified,64,Long Ton,270746
+12,4,Simplified,64,Long Ton,240322
+10,4,Simplified,111,Short Ton,240322
+12,4,Simplified,64,Long Ton,2985
+10,4,Simplified,111,Short Ton,2985
+5,4,Simplified,64,Long Ton,263089
+5,4,Simplified,111,Short Ton,263089
+7,4,Simplified,111,Short Ton,282380
+8,4,Simplified,64,Long Ton,282380
+17,4,Simplified,64,Long Ton,287456
+13,4,Simplified,111,Short Ton,287456
+13,4,Simplified,64,Long Ton,910264
+10,4,Simplified,111,Short Ton,910264
+22,4,Simplified,64,Long Ton,560349
+17,4,Simplified,111,Short Ton,560349
+105,4,Simplified,111,Short Ton,505341
+113,4,Simplified,64,Long Ton,505341
+23,4,Simplified,64,Long Ton,294735
+19,4,Simplified,111,Short Ton,294735
+15,4,Simplified,111,Short Ton,593419
+19,4,Simplified,64,Long Ton,593419
+8,4,Simplified,111,Short Ton,1080262
+8,4,Simplified,64,Long Ton,1080262
+37,4,Simplified,64,Long Ton,1109840
+29,4,Simplified,111,Short Ton,1109840
+716,4,Simplified,64,Long Ton,505721
+716,4,Simplified,111,Short Ton,505721
+18,4,Simplified,64,Long Ton,247490
+14,4,Simplified,111,Short Ton,247490
+90,4,Simplified,111,Short Ton,610267
+113,4,Simplified,64,Long Ton,610267
+35,4,Simplified,64,Long Ton,576387
+28,4,Simplified,111,Short Ton,576387
+7,4,Simplified,111,Short Ton,588466
+8,4,Simplified,64,Long Ton,588466
+20,4,Simplified,111,Short Ton,594275
+25,4,Simplified,64,Long Ton,594275
+25,4,Simplified,111,Short Ton,615297
+31,4,Simplified,64,Long Ton,615297
+6528,5,Dead Weight,120,Ton,278337
+1643,3,Regulatory (Subpart C or D),111,Short Ton,278337
+2393,3,Regulatory (Subpart C or D),64,Long Ton,278337
+15,4,Simplified,111,Short Ton,590177
+18,4,Simplified,64,Long Ton,590177
+11,4,Simplified,111,Short Ton,503918
+13,4,Simplified,64,Long Ton,503918
+20,4,Simplified,111,Short Ton,260969
+25,4,Simplified,64,Long Ton,260969
+11,4,Simplified,111,Short Ton,298799
+12,4,Simplified,64,Long Ton,298799
+5,4,Simplified,111,Short Ton,299737
+7,4,Simplified,64,Long Ton,299737
+18,4,Simplified,64,Long Ton,269456
+16,4,Simplified,111,Short Ton,269456
+23,4,Simplified,111,Short Ton,501192
+29,4,Simplified,64,Long Ton,501192
+1619,4,Simplified,111,Short Ton,615290
+1619,4,Simplified,64,Long Ton,615290
+57,4,Simplified,111,Short Ton,569214
+72,4,Simplified,64,Long Ton,569214
+12665,1,Convention (Subpart B),111,Short Ton,272708
+22145,1,Convention (Subpart B),64,Long Ton,272708
+7140,6,Displacement,120,Ton,272708
+38888,5,Dead Weight,120,Ton,272708
+24,4,Simplified,111,Short Ton,611846
+31,4,Simplified,64,Long Ton,611846
+11,4,Simplified,64,Long Ton,293828
+8,4,Simplified,111,Short Ton,293828
+14,4,Simplified,64,Long Ton,628726
+14,4,Simplified,111,Short Ton,628726
+21,4,Simplified,64,Long Ton,204860
+19,4,Simplified,111,Short Ton,204860
+5,4,Simplified,111,Short Ton,211745
+5,4,Simplified,64,Long Ton,211745
+8,4,Simplified,64,Long Ton,255570
+7,4,Simplified,111,Short Ton,255570
+11,4,Simplified,64,Long Ton,253784
+10,4,Simplified,111,Short Ton,253784
+5,4,Simplified,111,Short Ton,278833
+5,4,Simplified,64,Long Ton,278833
+10,4,Simplified,111,Short Ton,505400
+12,4,Simplified,64,Long Ton,505400
+7,4,Simplified,111,Short Ton,513745
+8,4,Simplified,64,Long Ton,513745
+20,4,Simplified,64,Long Ton,561560
+16,4,Simplified,111,Short Ton,561560
+16,4,Simplified,64,Long Ton,562640
+12,4,Simplified,111,Short Ton,562640
+25703,4,Simplified,64,Long Ton,564170
+25703,1,Convention (Subpart B),64,Long Ton,564170
+12028,4,Simplified,111,Short Ton,564170
+12028,1,Convention (Subpart B),111,Short Ton,564170
+44521,6,Displacement,120,Ton,564170
+33691,5,Dead Weight,120,Ton,564170
+9,4,Simplified,64,Long Ton,611587
+7,4,Simplified,111,Short Ton,611587
+16,4,Simplified,64,Long Ton,616286
+14,4,Simplified,111,Short Ton,616286
+24,4,Simplified,64,Long Ton,622258
+19,4,Simplified,111,Short Ton,622258
+11,4,Simplified,111,Short Ton,626872
+14,4,Simplified,64,Long Ton,626872
+11,4,Simplified,111,Short Ton,270292
+14,4,Simplified,64,Long Ton,270292
+20,4,Simplified,64,Long Ton,600552
+18,4,Simplified,111,Short Ton,600552
+17,4,Simplified,64,Long Ton,603410
+13,4,Simplified,111,Short Ton,603410
+8,4,Simplified,111,Short Ton,297054
+10,4,Simplified,64,Long Ton,297054
+147,3,Regulatory (Subpart C or D),64,Long Ton,288198
+100,3,Regulatory (Subpart C or D),111,Short Ton,288198
+6,4,Simplified,111,Short Ton,272713
+7,4,Simplified,64,Long Ton,272713
+5,4,Simplified,111,Short Ton,298912
+6,4,Simplified,64,Long Ton,298912
+10,4,Simplified,111,Short Ton,275606
+11,4,Simplified,64,Long Ton,275606
+7,4,Simplified,64,Long Ton,296459
+6,4,Simplified,111,Short Ton,296459
+11,4,Simplified,111,Short Ton,503918
+13,4,Simplified,64,Long Ton,503918
+5,4,Simplified,111,Short Ton,280046
+5,4,Simplified,64,Long Ton,280046
+1619,4,Simplified,64,Long Ton,560944
+1619,4,Simplified,111,Short Ton,560944
+31,4,Simplified,111,Short Ton,638315
+39,4,Simplified,64,Long Ton,638315
+21,4,Simplified,64,Long Ton,509434
+17,4,Simplified,111,Short Ton,509434
+9013,3,Regulatory (Subpart C or D),64,Long Ton,221204
+5190,3,Regulatory (Subpart C or D),111,Short Ton,221204
+13031,5,Dead Weight,120,Ton,221204
+49,4,Simplified,111,Short Ton,501262
+62,4,Simplified,64,Long Ton,501262
+45,3,Regulatory (Subpart C or D),64,Long Ton,285776
+45,3,Regulatory (Subpart C or D),111,Short Ton,285776
+6,4,Simplified,64,Long Ton,271177
+5,4,Simplified,111,Short Ton,271177
+72,4,Simplified,64,Long Ton,615817
+57,4,Simplified,111,Short Ton,615817
+22,4,Simplified,64,Long Ton,511892
+20,4,Simplified,111,Short Ton,511892
+7,4,Simplified,111,Short Ton,597176
+8,4,Simplified,64,Long Ton,597176
+9,4,Simplified,111,Short Ton,612435
+11,4,Simplified,64,Long Ton,612435
+18,4,Simplified,64,Long Ton,247490
+14,4,Simplified,111,Short Ton,247490
+90,4,Simplified,111,Short Ton,610267
+113,4,Simplified,64,Long Ton,610267
+35981,1,Convention (Subpart B),64,Long Ton,1106232
+15938,1,Convention (Subpart B),111,Short Ton,1106232
+42004,5,Dead Weight,120,Ton,1106232
+51012,6,Displacement,120,Ton,1106232
+30,4,Simplified,64,Long Ton,596820
+24,4,Simplified,111,Short Ton,596820
+10,4,Simplified,64,Long Ton,293747
+9,4,Simplified,111,Short Ton,293747
+8,4,Simplified,111,Short Ton,513005
+10,4,Simplified,64,Long Ton,513005
+177,3,Regulatory (Subpart C or D),64,Long Ton,248919
+142,3,Regulatory (Subpart C or D),111,Short Ton,248919
+19,4,Simplified,64,Long Ton,257991
+15,4,Simplified,111,Short Ton,257991
+26,4,Simplified,64,Long Ton,500965
+21,4,Simplified,111,Short Ton,500965
+11,4,Simplified,64,Long Ton,293828
+8,4,Simplified,111,Short Ton,293828
+14,4,Simplified,64,Long Ton,259926
+11,4,Simplified,111,Short Ton,259926
+8,4,Simplified,111,Short Ton,270840
+10,4,Simplified,64,Long Ton,270840
+6528,5,Dead Weight,120,Ton,278337
+1643,3,Regulatory (Subpart C or D),111,Short Ton,278337
+2393,3,Regulatory (Subpart C or D),64,Long Ton,278337
+24,4,Simplified,111,Short Ton,602253
+31,4,Simplified,64,Long Ton,602253
+8,4,Simplified,111,Short Ton,605293
+9,4,Simplified,64,Long Ton,605293
+6,4,Simplified,64,Long Ton,643284
+5,4,Simplified,111,Short Ton,643284
+17,4,Simplified,64,Long Ton,293607
+16,4,Simplified,111,Short Ton,293607
+13,4,Simplified,111,Short Ton,502693
+16,4,Simplified,64,Long Ton,502693
+6,4,Simplified,111,Short Ton,638616
+6,4,Simplified,64,Long Ton,638616
+43121,6,Displacement,75,Metric Ton,1106302
+23426,1,Convention (Subpart B),64,Long Ton,1106302
+11082,1,Convention (Subpart B),111,Short Ton,1106302
+33730,5,Dead Weight,75,Metric Ton,1106302
+16,4,Simplified,111,Short Ton,627497
+18,4,Simplified,64,Long Ton,627497
+14,4,Simplified,64,Long Ton,272036
+11,4,Simplified,111,Short Ton,272036
+17,4,Simplified,111,Short Ton,645710
+22,4,Simplified,64,Long Ton,645710
+20,4,Simplified,111,Short Ton,1052081
+25,4,Simplified,64,Long Ton,1052081
+601,4,Simplified,64,Long Ton,1138868
+601,4,Simplified,111,Short Ton,1138868
+601,4,Simplified,64,Long Ton,1138870
+601,4,Simplified,111,Short Ton,1138870
+19,4,Simplified,111,Short Ton,1074503
+19,4,Simplified,64,Long Ton,1074503
+28,4,Simplified,64,Long Ton,574682
+22,4,Simplified,111,Short Ton,574682
+11,4,Simplified,111,Short Ton,1063994
+14,4,Simplified,64,Long Ton,1063994
+17,4,Simplified,111,Short Ton,1112950
+21,4,Simplified,64,Long Ton,1112950
+17,4,Simplified,64,Long Ton,509856
+13,4,Simplified,111,Short Ton,509856
+16,4,Simplified,111,Short Ton,504892
+20,4,Simplified,64,Long Ton,504892
+9,4,Simplified,111,Short Ton,503023
+10,4,Simplified,64,Long Ton,503023
+10,4,Simplified,111,Short Ton,504705
+13,4,Simplified,64,Long Ton,504705
+14,4,Simplified,64,Long Ton,505911
+11,4,Simplified,111,Short Ton,505911
+38,4,Simplified,64,Long Ton,629747
+30,4,Simplified,111,Short Ton,629747
+10,4,Simplified,111,Short Ton,594307
+12,4,Simplified,64,Long Ton,594307
+9,4,Simplified,111,Short Ton,503023
+10,4,Simplified,64,Long Ton,503023
+169,3,Regulatory (Subpart C or D),64,Long Ton,284059
+124,3,Regulatory (Subpart C or D),111,Short Ton,284059
+22,4,Simplified,111,Short Ton,298992
+28,4,Simplified,64,Long Ton,298992
+19,4,Simplified,64,Long Ton,506864
+15,4,Simplified,111,Short Ton,506864
+10,4,Simplified,64,Long Ton,508214
+8,4,Simplified,111,Short Ton,508214
+687,4,Simplified,111,Short Ton,261833
+687,4,Simplified,64,Long Ton,261833
+27,4,Simplified,64,Long Ton,511846
+21,4,Simplified,111,Short Ton,511846
+8,4,Simplified,64,Long Ton,500160
+6,4,Simplified,111,Short Ton,500160
+22,4,Simplified,111,Short Ton,298992
+28,4,Simplified,64,Long Ton,298992
+19,4,Simplified,64,Long Ton,506864
+15,4,Simplified,111,Short Ton,506864
+10,4,Simplified,64,Long Ton,508214
+8,4,Simplified,111,Short Ton,508214
+18,4,Simplified,64,Long Ton,610638
+16,4,Simplified,111,Short Ton,610638
+20,4,Simplified,64,Long Ton,280305
+18,4,Simplified,111,Short Ton,280305
+13,4,Simplified,64,Long Ton,294295
+11,4,Simplified,111,Short Ton,294295
+30,4,Simplified,111,Short Ton,505538
+38,4,Simplified,64,Long Ton,505538
+29,4,Simplified,64,Long Ton,560863
+23,4,Simplified,111,Short Ton,560863
+8,4,Simplified,64,Long Ton,564110
+6,4,Simplified,111,Short Ton,564110
+16,4,Simplified,111,Short Ton,595603
+21,4,Simplified,64,Long Ton,595603
+19,4,Simplified,64,Long Ton,611584
+15,4,Simplified,111,Short Ton,611584
+9,4,Simplified,111,Short Ton,627540
+9,4,Simplified,64,Long Ton,627540
+91,4,Simplified,111,Short Ton,627545
+114,4,Simplified,64,Long Ton,627545
+15,4,Simplified,111,Short Ton,653127
+19,4,Simplified,64,Long Ton,653127
+672,4,Simplified,64,Long Ton,273238
+672,4,Simplified,111,Short Ton,273238
+55,4,Simplified,64,Long Ton,1050374
+44,4,Simplified,111,Short Ton,1050374
+19,4,Simplified,64,Long Ton,565147
+15,4,Simplified,111,Short Ton,565147
+5,4,Simplified,111,Short Ton,274333
+6,4,Simplified,64,Long Ton,274333
+12,4,Simplified,64,Long Ton,562275
+9,4,Simplified,111,Short Ton,562275
+10,4,Simplified,111,Short Ton,512604
+13,4,Simplified,64,Long Ton,512604
+19,4,Simplified,64,Long Ton,565147
+15,4,Simplified,111,Short Ton,565147
+17,4,Simplified,111,Short Ton,1048184
+19,4,Simplified,64,Long Ton,1048184
+27,4,Simplified,64,Long Ton,562765
+21,4,Simplified,111,Short Ton,562765
+16,4,Simplified,111,Short Ton,504892
+20,4,Simplified,64,Long Ton,504892
+19,3,Regulatory (Subpart C or D),111,Short Ton,298198
+28,3,Regulatory (Subpart C or D),64,Long Ton,298198
+31,4,Simplified,64,Long Ton,296549
+25,4,Simplified,111,Short Ton,296549
+13,3,Regulatory (Subpart C or D),111,Short Ton,277696
+14,3,Regulatory (Subpart C or D),64,Long Ton,277696
+36324,1,Convention (Subpart B),64,Long Ton,628786
+15847,1,Convention (Subpart B),111,Short Ton,628786
+53204,5,Dead Weight,75,Metric Ton,628786
+66262,6,Displacement,75,Metric Ton,628786
+764,4,Simplified,111,Short Ton,1114101
+764,4,Simplified,64,Long Ton,1114101
+10,4,Simplified,111,Short Ton,626454
+13,4,Simplified,64,Long Ton,626454
+104,4,Simplified,111,Short Ton,1080247
+130,4,Simplified,64,Long Ton,1080247
+41,4,Simplified,64,Long Ton,562649
+32,4,Simplified,111,Short Ton,562649
+5,4,Simplified,111,Short Ton,277141
+7,4,Simplified,64,Long Ton,277141
+1810,5,Dead Weight,120,Ton,587247
+4407,1,Convention (Subpart B),64,Long Ton,587247
+1632,4,Simplified,64,Long Ton,1117702
+1632,4,Simplified,111,Short Ton,1117702
+16,4,Simplified,111,Short Ton,504892
+20,4,Simplified,64,Long Ton,504892
+15,4,Simplified,64,Long Ton,254291
+12,4,Simplified,111,Short Ton,254291
+18,4,Simplified,64,Long Ton,247490
+14,4,Simplified,111,Short Ton,247490
+90,4,Simplified,111,Short Ton,610267
+113,4,Simplified,64,Long Ton,610267
+10,4,Simplified,64,Long Ton,287408
+8,4,Simplified,111,Short Ton,287408
+7,4,Simplified,64,Long Ton,506316
+7,4,Simplified,111,Short Ton,506316
+12,4,Simplified,64,Long Ton,506317
+10,4,Simplified,111,Short Ton,506317
+764,4,Simplified,111,Short Ton,672687
+764,4,Simplified,64,Long Ton,672687
+7,4,Simplified,111,Short Ton,277402
+9,4,Simplified,64,Long Ton,277402
+11,4,Simplified,64,Long Ton,294049
+8,4,Simplified,111,Short Ton,294049
+6653,3,Regulatory (Subpart C or D),111,Short Ton,274081
+10104,3,Regulatory (Subpart C or D),64,Long Ton,274081
+15767,5,Dead Weight,120,Ton,274081
+28,4,Simplified,111,Short Ton,651232
+31,4,Simplified,64,Long Ton,651232
+15,4,Simplified,64,Long Ton,260503
+12,4,Simplified,111,Short Ton,260503
+5,4,Simplified,64,Long Ton,604749
+5,4,Simplified,111,Short Ton,604749
+6,4,Simplified,111,Short Ton,626574
+6,4,Simplified,64,Long Ton,626574
+8,4,Simplified,111,Short Ton,270761
+10,4,Simplified,64,Long Ton,270761
+8,4,Simplified,64,Long Ton,272150
+6,4,Simplified,111,Short Ton,272150
+20,4,Simplified,111,Short Ton,5465
+23,4,Simplified,64,Long Ton,5465
+5,4,Simplified,111,Short Ton,290297
+5,4,Simplified,64,Long Ton,290297
+33,4,Simplified,111,Short Ton,680236
+42,4,Simplified,64,Long Ton,680236
+15,4,Simplified,111,Short Ton,651210
+18,4,Simplified,64,Long Ton,651210
+46,4,Simplified,111,Short Ton,914225
+99,4,Simplified,64,Long Ton,914225
+14,4,Simplified,64,Long Ton,955890
+11,4,Simplified,111,Short Ton,955890
+16,4,Simplified,64,Long Ton,511297
+14,4,Simplified,111,Short Ton,511297
+11,4,Simplified,64,Long Ton,241175
+10,4,Simplified,111,Short Ton,241175
+764,4,Simplified,111,Short Ton,603955
+764,4,Simplified,64,Long Ton,603955
+9,3,Regulatory (Subpart C or D),111,Short Ton,299166
+11,3,Regulatory (Subpart C or D),64,Long Ton,299166
+7,4,Simplified,64,Long Ton,296384
+5,4,Simplified,111,Short Ton,296384
+19,4,Simplified,111,Short Ton,273851
+23,4,Simplified,64,Long Ton,273851
+8,4,Simplified,64,Long Ton,280898
+8,4,Simplified,111,Short Ton,280898
+20,4,Simplified,64,Long Ton,294085
+16,4,Simplified,111,Short Ton,294085
+9,4,Simplified,64,Long Ton,577669
+7,4,Simplified,111,Short Ton,577669
+8,4,Simplified,64,Long Ton,237958
+7,4,Simplified,111,Short Ton,237958
+14,4,Simplified,111,Short Ton,512615
+18,4,Simplified,64,Long Ton,512615
+16947,3,Regulatory (Subpart C or D),64,Long Ton,506330
+5084,3,Regulatory (Subpart C or D),111,Short Ton,506330
+7,4,Simplified,111,Short Ton,1174301
+7,4,Simplified,64,Long Ton,1174301
+7,4,Simplified,64,Long Ton,562018
+5,4,Simplified,111,Short Ton,562018
+74,4,Simplified,111,Short Ton,1091946
+83,4,Simplified,64,Long Ton,1091946
+82,4,Simplified,111,Short Ton,1091987
+103,4,Simplified,64,Long Ton,1091987
+8,4,Simplified,64,Long Ton,506729
+7,4,Simplified,111,Short Ton,506729
+687,4,Simplified,111,Short Ton,261833
+687,4,Simplified,64,Long Ton,261833
+5,4,Simplified,111,Short Ton,1151255
+5,4,Simplified,64,Long Ton,1151255
+24,4,Simplified,111,Short Ton,614999
+30,4,Simplified,64,Long Ton,614999
+33,4,Simplified,111,Short Ton,505347
+41,4,Simplified,64,Long Ton,505347
+11,4,Simplified,64,Long Ton,560873
+8,4,Simplified,111,Short Ton,560873
+29,4,Simplified,111,Short Ton,612458
+37,4,Simplified,64,Long Ton,612458
+4,3,Regulatory (Subpart C or D),64,Long Ton,46101
+4,3,Regulatory (Subpart C or D),111,Short Ton,46101
+159981,5,Dead Weight,120,Ton,565797
+83616,3,Regulatory (Subpart C or D),64,Long Ton,565797
+83616,1,Convention (Subpart B),64,Long Ton,565797
+48679,1,Convention (Subpart B),111,Short Ton,565797
+48679,3,Regulatory (Subpart C or D),111,Short Ton,565797
+499,1,Convention (Subpart B),64,Long Ton,578740
+499,3,Regulatory (Subpart C or D),64,Long Ton,578740
+161,1,Convention (Subpart B),111,Short Ton,578740
+161,3,Regulatory (Subpart C or D),111,Short Ton,578740
+5,4,Simplified,111,Short Ton,1119010
+5,4,Simplified,64,Long Ton,1119010
+15,4,Simplified,64,Long Ton,1119069
+12,4,Simplified,111,Short Ton,1119069
+37,4,Simplified,64,Long Ton,604836
+29,4,Simplified,111,Short Ton,604836
+12,4,Simplified,64,Long Ton,618507
+9,4,Simplified,111,Short Ton,618507
+37,4,Simplified,111,Short Ton,680632
+47,4,Simplified,64,Long Ton,680632
+17,4,Simplified,64,Long Ton,967782
+17,4,Simplified,111,Short Ton,967782
+9,4,Simplified,111,Short Ton,1025487
+9,4,Simplified,64,Long Ton,1025487
+735,4,Simplified,111,Short Ton,1053442
+735,4,Simplified,64,Long Ton,1053442
+11,4,Simplified,111,Short Ton,1060118
+14,4,Simplified,64,Long Ton,1060118
+764,4,Simplified,64,Long Ton,1102692
+764,4,Simplified,111,Short Ton,1102692
+16,4,Simplified,111,Short Ton,278099
+18,4,Simplified,64,Long Ton,278099
+6,4,Simplified,111,Short Ton,290084
+7,4,Simplified,64,Long Ton,290084
+6,4,Simplified,64,Long Ton,607008
+6,4,Simplified,111,Short Ton,607008
+26,4,Simplified,64,Long Ton,629888
+20,4,Simplified,111,Short Ton,629888
+26,4,Simplified,111,Short Ton,277709
+32,4,Simplified,64,Long Ton,277709
+5,4,Simplified,111,Short Ton,671641
+5,4,Simplified,64,Long Ton,671641
+6,4,Simplified,111,Short Ton,348868
+7,4,Simplified,64,Long Ton,348868
+34676,5,Dead Weight,120,Ton,606613
+43735,6,Displacement,120,Ton,606613
+22072,1,Convention (Subpart B),64,Long Ton,606613
+22072,3,Regulatory (Subpart C or D),64,Long Ton,606613
+11132,1,Convention (Subpart B),111,Short Ton,606613
+11132,3,Regulatory (Subpart C or D),111,Short Ton,606613
+51,4,Simplified,64,Long Ton,1126097
+41,4,Simplified,111,Short Ton,1126097
+7,4,Simplified,64,Long Ton,1163486
+5,4,Simplified,111,Short Ton,1163486
+13,4,Simplified,64,Long Ton,1110974
+10,4,Simplified,111,Short Ton,1110974
+26,4,Simplified,111,Short Ton,941900
+32,4,Simplified,64,Long Ton,941900
+10,4,Simplified,64,Long Ton,1098901
+8,4,Simplified,111,Short Ton,1098901
+20763,1,Convention (Subpart B),64,Long Ton,1115791
+41799,6,Displacement,75,Metric Ton,1115791
+33035,5,Dead Weight,75,Metric Ton,1115791
+11627,1,Convention (Subpart B),111,Short Ton,1115791
+12,4,Simplified,64,Long Ton,1159550
+9,4,Simplified,111,Short Ton,1159550
+5,4,Simplified,111,Short Ton,604387
+6,4,Simplified,64,Long Ton,604387
+7,4,Simplified,111,Short Ton,1054537
+8,4,Simplified,64,Long Ton,1054537
+6,4,Simplified,111,Short Ton,611868
+7,4,Simplified,64,Long Ton,611868
+26,4,Simplified,111,Short Ton,277709
+32,4,Simplified,64,Long Ton,277709
+7,4,Simplified,64,Long Ton,643403
+5,4,Simplified,111,Short Ton,643403
+7,4,Simplified,111,Short Ton,356765
+9,4,Simplified,64,Long Ton,356765
+137287,6,Displacement,75,Metric Ton,1055355
+101473,5,Dead Weight,75,Metric Ton,1055355
+55432,1,Convention (Subpart B),111,Short Ton,1055355
+91498,1,Convention (Subpart B),64,Long Ton,1055355
+72884,1,Convention (Subpart B),64,Long Ton,1055361
+44818,1,Convention (Subpart B),111,Short Ton,1055361
+83318,5,Dead Weight,120,Ton,1055361
+109822,6,Displacement,120,Ton,1055361
+17,4,Simplified,64,Long Ton,509679
+13,4,Simplified,111,Short Ton,509679
+203,3,Regulatory (Subpart C or D),64,Long Ton,506129
+155,6,Displacement,120,Ton,506129
+50,1,Convention (Subpart B),111,Short Ton,506129
+53,3,Regulatory (Subpart C or D),111,Short Ton,506129
+167,1,Convention (Subpart B),64,Long Ton,506129
+5,4,Simplified,111,Short Ton,567590
+6,4,Simplified,64,Long Ton,567590
+20,4,Simplified,111,Short Ton,614428
+23,4,Simplified,64,Long Ton,614428
+39,4,Simplified,111,Short Ton,1080253
+49,4,Simplified,64,Long Ton,1080253
+32,4,Simplified,64,Long Ton,262832
+25,4,Simplified,111,Short Ton,262832
+7,4,Simplified,111,Short Ton,261329
+8,4,Simplified,64,Long Ton,261329
+7,4,Simplified,111,Short Ton,1054537
+8,4,Simplified,64,Long Ton,1054537
+7,4,Simplified,111,Short Ton,1054537
+8,4,Simplified,64,Long Ton,1054537
+12,4,Simplified,111,Short Ton,613454
+16,4,Simplified,64,Long Ton,613454
+8,4,Simplified,64,Long Ton,280898
+8,4,Simplified,111,Short Ton,280898
+39,4,Simplified,64,Long Ton,291061
+31,4,Simplified,111,Short Ton,291061
+8,4,Simplified,64,Long Ton,280898
+8,4,Simplified,111,Short Ton,280898
+54005,4,Simplified,64,Long Ton,1050938
+32333,4,Simplified,111,Short Ton,1050938
+15,4,Simplified,111,Short Ton,684952
+18,4,Simplified,64,Long Ton,684952
+9,4,Simplified,111,Short Ton,601343
+9,4,Simplified,64,Long Ton,601343
+10,4,Simplified,64,Long Ton,263222
+9,4,Simplified,111,Short Ton,263222
+8,4,Simplified,64,Long Ton,500160
+6,4,Simplified,111,Short Ton,500160
+5,4,Simplified,111,Short Ton,567778
+5,4,Simplified,64,Long Ton,567778
+19,3,Regulatory (Subpart C or D),111,Short Ton,295974
+28,3,Regulatory (Subpart C or D),64,Long Ton,295974
+11,4,Simplified,111,Short Ton,277245
+14,4,Simplified,64,Long Ton,277245
+9,4,Simplified,111,Short Ton,503023
+10,4,Simplified,64,Long Ton,503023
+24,1,Convention (Subpart B),111,Short Ton,1055423
+81,1,Convention (Subpart B),64,Long Ton,1055423
+15,4,Simplified,111,Short Ton,593419
+19,4,Simplified,64,Long Ton,593419
+35,4,Simplified,111,Short Ton,612394
+44,4,Simplified,64,Long Ton,612394
+33,4,Simplified,64,Long Ton,633525
+27,4,Simplified,111,Short Ton,633525
+20,4,Simplified,111,Short Ton,641571
+25,4,Simplified,64,Long Ton,641571
+12,4,Simplified,64,Long Ton,634198
+10,4,Simplified,111,Short Ton,634198
+42,4,Simplified,64,Long Ton,634199
+33,4,Simplified,111,Short Ton,634199
+10,4,Simplified,64,Long Ton,967590
+9,4,Simplified,111,Short Ton,967590
+43,4,Simplified,111,Short Ton,996607
+54,4,Simplified,64,Long Ton,996607
+8,4,Simplified,111,Short Ton,600679
+11,4,Simplified,64,Long Ton,600679
+13,4,Simplified,111,Short Ton,279030
+14,4,Simplified,64,Long Ton,279030
+11,4,Simplified,64,Long Ton,574379
+10,4,Simplified,111,Short Ton,574379
+26,4,Simplified,64,Long Ton,291558
+21,4,Simplified,111,Short Ton,291558
+6,4,Simplified,111,Short Ton,588468
+8,4,Simplified,64,Long Ton,588468
+18,4,Simplified,111,Short Ton,292728
+22,4,Simplified,64,Long Ton,292728
+8,4,Simplified,111,Short Ton,274998
+9,4,Simplified,64,Long Ton,274998
+17,4,Simplified,64,Long Ton,508204
+15,4,Simplified,111,Short Ton,508204
+34999,5,Dead Weight,75,Metric Ton,583859
+9438,1,Convention (Subpart B),111,Short Ton,583859
+22184,1,Convention (Subpart B),64,Long Ton,583859
+11,4,Simplified,111,Short Ton,275040
+14,4,Simplified,64,Long Ton,275040
+12,4,Simplified,64,Long Ton,500868
+11,4,Simplified,111,Short Ton,500868
+16,4,Simplified,111,Short Ton,283659
+18,4,Simplified,64,Long Ton,283659
+40037,1,Convention (Subpart B),64,Long Ton,611533
+20900,1,Convention (Subpart B),111,Short Ton,611533
+73004,5,Dead Weight,120,Ton,611533
+86123,6,Displacement,120,Ton,611533
+14,4,Simplified,64,Long Ton,561972
+11,4,Simplified,111,Short Ton,561972
+11,4,Simplified,111,Short Ton,275040
+14,4,Simplified,64,Long Ton,275040
+12,4,Simplified,64,Long Ton,500868
+11,4,Simplified,111,Short Ton,500868
+22,4,Simplified,111,Short Ton,567959
+28,4,Simplified,64,Long Ton,567959
+8,4,Simplified,64,Long Ton,264343
+7,4,Simplified,111,Short Ton,264343
+18,4,Simplified,64,Long Ton,643106
+15,4,Simplified,111,Short Ton,643106
+10,4,Simplified,64,Long Ton,989811
+8,4,Simplified,111,Short Ton,989811
+28,4,Simplified,64,Long Ton,989818
+22,4,Simplified,111,Short Ton,989818
+25754,1,Convention (Subpart B),111,Short Ton,1047764
+76636,5,Dead Weight,120,Ton,1047764
+86824,6,Displacement,120,Ton,1047764
+39737,1,Convention (Subpart B),64,Long Ton,1047764
+1589,4,Simplified,64,Long Ton,1163899
+1589,4,Simplified,111,Short Ton,1163899
+19,4,Simplified,64,Long Ton,630159
+15,4,Simplified,111,Short Ton,630159
+24,4,Simplified,111,Short Ton,501938
+26,4,Simplified,64,Long Ton,501938
+7,4,Simplified,111,Short Ton,647184
+9,4,Simplified,64,Long Ton,647184
+15,4,Simplified,111,Short Ton,652589
+19,4,Simplified,64,Long Ton,652589
+16,4,Simplified,111,Short Ton,275159
+18,4,Simplified,64,Long Ton,275159
+211,4,Simplified,111,Short Ton,503553
+211,4,Simplified,64,Long Ton,503553
+235,4,Simplified,111,Short Ton,503554
+235,4,Simplified,64,Long Ton,503554
+21,4,Simplified,64,Long Ton,1063763
+17,4,Simplified,111,Short Ton,1063763
+12,4,Simplified,111,Short Ton,645681
+15,4,Simplified,64,Long Ton,645681
+25,4,Simplified,111,Short Ton,614221
+28,4,Simplified,64,Long Ton,614221
+31,4,Simplified,64,Long Ton,296549
+25,4,Simplified,111,Short Ton,296549
+8,4,Simplified,111,Short Ton,950303
+8,4,Simplified,64,Long Ton,950303
+30,4,Simplified,64,Long Ton,596820
+24,4,Simplified,111,Short Ton,596820
+19,3,Regulatory (Subpart C or D),64,Long Ton,1116538
+2,3,Regulatory (Subpart C or D),111,Short Ton,1116538
+27,4,Simplified,111,Short Ton,506508
+34,4,Simplified,64,Long Ton,506508
+11,4,Simplified,64,Long Ton,285422
+10,4,Simplified,111,Short Ton,285422
+62,1,Convention (Subpart B),111,Short Ton,506463
+52,3,Regulatory (Subpart C or D),111,Short Ton,506463
+173,1,Convention (Subpart B),64,Long Ton,506463
+77,3,Regulatory (Subpart C or D),64,Long Ton,506463
+30,4,Simplified,64,Long Ton,596820
+24,4,Simplified,111,Short Ton,596820
+10,4,Simplified,64,Long Ton,630132
+8,4,Simplified,111,Short Ton,630132
+11,4,Simplified,64,Long Ton,289220
+9,4,Simplified,111,Short Ton,289220
+16,4,Simplified,64,Long Ton,266359
+15,4,Simplified,111,Short Ton,266359
+110,1,Convention (Subpart B),64,Long Ton,1050399
+18,4,Simplified,111,Short Ton,505143
+22,4,Simplified,64,Long Ton,505143
+25074,4,Simplified,64,Long Ton,1051527
+8,4,Simplified,64,Long Ton,623711
+8,4,Simplified,111,Short Ton,623711
+57,4,Simplified,64,Long Ton,1108222
+45,4,Simplified,111,Short Ton,1108222
+11,4,Simplified,111,Short Ton,622281
+12,4,Simplified,64,Long Ton,622281
+13,4,Simplified,111,Short Ton,279030
+14,4,Simplified,64,Long Ton,279030
+5,4,Simplified,111,Short Ton,504262
+6,4,Simplified,64,Long Ton,504262
+19,4,Simplified,64,Long Ton,665783
+15,4,Simplified,111,Short Ton,665783
+20763,1,Convention (Subpart B),64,Long Ton,1115792
+41799,6,Displacement,120,Ton,1115792
+33270,5,Dead Weight,120,Ton,1115792
+11627,1,Convention (Subpart B),111,Short Ton,1115792
+10780,1,Convention (Subpart B),111,Short Ton,600672
+39650,6,Displacement,75,Metric Ton,600672
+32259,5,Dead Weight,75,Metric Ton,600672
+19882,1,Convention (Subpart B),64,Long Ton,600672
+6,4,Simplified,64,Long Ton,1138860
+5,4,Simplified,111,Short Ton,1138860
+7,4,Simplified,111,Short Ton,1091988
+8,4,Simplified,64,Long Ton,1091988
+11,4,Simplified,64,Long Ton,628626
+9,4,Simplified,111,Short Ton,628626
+2172,1,Convention (Subpart B),111,Short Ton,1084088
+6292,1,Convention (Subpart B),64,Long Ton,1084088
+9226,5,Dead Weight,75,Metric Ton,1084088
+12891,6,Displacement,75,Metric Ton,1084088
+202,3,Regulatory (Subpart C or D),111,Short Ton,1178245
+116,1,Convention (Subpart B),111,Short Ton,1178245
+297,3,Regulatory (Subpart C or D),64,Long Ton,1178245
+387,1,Convention (Subpart B),64,Long Ton,1178245
+23,4,Simplified,64,Long Ton,262621
+19,4,Simplified,111,Short Ton,262621
+52352,1,Convention (Subpart B),111,Short Ton,1037410
+79936,1,Convention (Subpart B),64,Long Ton,1037410
+158267,5,Dead Weight,75,Metric Ton,1037410
+173443,6,Displacement,75,Metric Ton,1037410
+11,4,Simplified,111,Short Ton,264934
+14,4,Simplified,64,Long Ton,264934
+7,4,Simplified,64,Long Ton,568175
+6,4,Simplified,111,Short Ton,568175
+20,4,Simplified,64,Long Ton,291059
+16,4,Simplified,111,Short Ton,291059
+802,4,Simplified,111,Short Ton,1059904
+802,4,Simplified,64,Long Ton,1059904
+10,4,Simplified,111,Short Ton,284004
+11,4,Simplified,64,Long Ton,284004
+13,4,Simplified,64,Long Ton,637332
+10,4,Simplified,111,Short Ton,637332
+31,4,Simplified,64,Long Ton,284066
+28,4,Simplified,111,Short Ton,284066
+16,4,Simplified,64,Long Ton,571638
+13,4,Simplified,111,Short Ton,571638
+14,4,Simplified,64,Long Ton,599084
+11,4,Simplified,111,Short Ton,599084
+11,4,Simplified,64,Long Ton,285422
+10,4,Simplified,111,Short Ton,285422
+62,1,Convention (Subpart B),111,Short Ton,506463
+52,3,Regulatory (Subpart C or D),111,Short Ton,506463
+173,1,Convention (Subpart B),64,Long Ton,506463
+77,3,Regulatory (Subpart C or D),64,Long Ton,506463
+31,4,Simplified,64,Long Ton,296549
+25,4,Simplified,111,Short Ton,296549
+52352,1,Convention (Subpart B),111,Short Ton,1037410
+79936,1,Convention (Subpart B),64,Long Ton,1037410
+158267,5,Dead Weight,75,Metric Ton,1037410
+173443,6,Displacement,75,Metric Ton,1037410
+6,4,Simplified,64,Long Ton,664958
+5,4,Simplified,111,Short Ton,664958
+31,4,Simplified,64,Long Ton,284066
+28,4,Simplified,111,Short Ton,284066
+10,4,Simplified,64,Long Ton,990989
+8,4,Simplified,111,Short Ton,990989
+7,4,Simplified,64,Long Ton,568175
+6,4,Simplified,111,Short Ton,568175
+16,4,Simplified,64,Long Ton,266359
+15,4,Simplified,111,Short Ton,266359
+23,4,Simplified,64,Long Ton,272950
+18,4,Simplified,111,Short Ton,272950
+28,4,Simplified,111,Short Ton,1054885
+35,4,Simplified,64,Long Ton,1054885
+60,4,Simplified,64,Long Ton,1060718
+48,4,Simplified,111,Short Ton,1060718
+159943,3,Regulatory (Subpart C or D),64,Long Ton,1108809
+97999,1,Convention (Subpart B),111,Short Ton,1108809
+97999,3,Regulatory (Subpart C or D),111,Short Ton,1108809
+344106,6,Displacement,120,Ton,1108809
+159943,1,Convention (Subpart B),64,Long Ton,1108809
+302303,5,Dead Weight,120,Ton,1108809
+9,4,Simplified,64,Long Ton,621265
+7,4,Simplified,111,Short Ton,621265
+7,4,Simplified,111,Short Ton,609219
+9,4,Simplified,64,Long Ton,609219
+14,4,Simplified,64,Long Ton,606075
+11,4,Simplified,111,Short Ton,606075
+15,4,Simplified,64,Long Ton,571493
+12,4,Simplified,111,Short Ton,571493
+19,4,Simplified,111,Short Ton,513477
+21,4,Simplified,64,Long Ton,513477
+36,4,Simplified,111,Short Ton,612203
+45,4,Simplified,64,Long Ton,612203
+8,4,Simplified,111,Short Ton,1156600
+11,4,Simplified,64,Long Ton,1156600
+8,4,Simplified,111,Short Ton,260029
+9,4,Simplified,64,Long Ton,260029
+13,4,Simplified,64,Long Ton,637332
+10,4,Simplified,111,Short Ton,637332
+8,4,Simplified,64,Long Ton,623711
+8,4,Simplified,111,Short Ton,623711
+9,4,Simplified,111,Short Ton,1058066
+11,4,Simplified,64,Long Ton,1058066
+8,4,Simplified,111,Short Ton,292945
+9,4,Simplified,64,Long Ton,292945
+10,4,Simplified,64,Long Ton,564792
+8,4,Simplified,111,Short Ton,564792
+416,1,Convention (Subpart B),64,Long Ton,508632
+124,1,Convention (Subpart B),111,Short Ton,508632
+20,4,Simplified,111,Short Ton,507220
+25,4,Simplified,64,Long Ton,507220
+13,4,Simplified,111,Short Ton,273791
+14,4,Simplified,64,Long Ton,273791
+54005,4,Simplified,64,Long Ton,1050938
+32333,4,Simplified,111,Short Ton,1050938
+7,4,Simplified,111,Short Ton,261329
+8,4,Simplified,64,Long Ton,261329
+11,4,Simplified,111,Short Ton,1114093
+14,4,Simplified,64,Long Ton,1114093
+14,4,Simplified,111,Short Ton,614262
+18,4,Simplified,64,Long Ton,614262
+8,4,Simplified,111,Short Ton,1130360
+10,4,Simplified,64,Long Ton,1130360
+25,4,Simplified,64,Long Ton,259205
+20,4,Simplified,111,Short Ton,259205
+11,4,Simplified,64,Long Ton,293828
+8,4,Simplified,111,Short Ton,293828
+30,4,Simplified,64,Long Ton,596820
+24,4,Simplified,111,Short Ton,596820
+60,4,Simplified,64,Long Ton,610632
+48,4,Simplified,111,Short Ton,610632
+12,4,Simplified,64,Long Ton,510117
+9,4,Simplified,111,Short Ton,510117
+6528,5,Dead Weight,120,Ton,278337
+1643,3,Regulatory (Subpart C or D),111,Short Ton,278337
+2393,3,Regulatory (Subpart C or D),64,Long Ton,278337
+19,4,Simplified,111,Short Ton,513477
+21,4,Simplified,64,Long Ton,513477
+24235,1,Convention (Subpart B),64,Long Ton,293407
+13052,1,Convention (Subpart B),111,Short Ton,293407
+39833,5,Dead Weight,120,Ton,293407
+48619,6,Displacement,120,Ton,293407
+14,4,Simplified,64,Long Ton,628726
+14,4,Simplified,111,Short Ton,628726
+10,4,Simplified,64,Long Ton,287282
+9,4,Simplified,111,Short Ton,287282
+12,4,Simplified,64,Long Ton,643366
+9,4,Simplified,111,Short Ton,643366
+11,4,Simplified,64,Long Ton,1110414
+9,4,Simplified,111,Short Ton,1110414
+11,4,Simplified,111,Short Ton,295510
+14,4,Simplified,64,Long Ton,295510
+14,4,Simplified,111,Short Ton,270809
+17,4,Simplified,64,Long Ton,270809
+867,1,Convention (Subpart B),64,Long Ton,228960
+260,1,Convention (Subpart B),111,Short Ton,228960
+14,4,Simplified,111,Short Ton,614262
+18,4,Simplified,64,Long Ton,614262
+24,4,Simplified,111,Short Ton,1040404
+30,4,Simplified,64,Long Ton,1040404
+8,4,Simplified,64,Long Ton,618394
+6,4,Simplified,111,Short Ton,618394
+14,4,Simplified,111,Short Ton,261919
+18,4,Simplified,64,Long Ton,261919
+838,5,Dead Weight,64,Long Ton,228886
+911,1,Convention (Subpart B),64,Long Ton,228886
+319,1,Convention (Subpart B),111,Short Ton,228886
+15705,5,Dead Weight,120,Ton,279362
+6614,3,Regulatory (Subpart C or D),111,Short Ton,279362
+9742,3,Regulatory (Subpart C or D),64,Long Ton,279362
+630,4,Simplified,111,Short Ton,268312
+630,4,Simplified,64,Long Ton,268312
+27,3,Regulatory (Subpart C or D),111,Short Ton,264675
+40,3,Regulatory (Subpart C or D),64,Long Ton,264675
+11,4,Simplified,111,Short Ton,505213
+14,4,Simplified,64,Long Ton,505213
+15,4,Simplified,64,Long Ton,565934
+14,4,Simplified,111,Short Ton,565934
+10,4,Simplified,111,Short Ton,609996
+12,4,Simplified,64,Long Ton,609996
+12,4,Simplified,64,Long Ton,618087
+12,4,Simplified,111,Short Ton,618087
+35,4,Simplified,111,Short Ton,680630
+44,4,Simplified,64,Long Ton,680630
+7,4,Simplified,64,Long Ton,565414
+6,4,Simplified,111,Short Ton,565414
+630,4,Simplified,111,Short Ton,268312
+630,4,Simplified,64,Long Ton,268312
+705,4,Simplified,111,Short Ton,613451
+705,4,Simplified,64,Long Ton,613451
+705,4,Simplified,111,Short Ton,613452
+705,4,Simplified,64,Long Ton,613452
+10,4,Simplified,111,Short Ton,613455
+11,4,Simplified,64,Long Ton,613455
+16,4,Simplified,111,Short Ton,613456
+20,4,Simplified,64,Long Ton,613456
+13,4,Simplified,64,Long Ton,508901
+10,4,Simplified,111,Short Ton,508901
+20,4,Simplified,64,Long Ton,291059
+16,4,Simplified,111,Short Ton,291059
+20,4,Simplified,64,Long Ton,280305
+18,4,Simplified,111,Short Ton,280305
+59,1,Convention (Subpart B),111,Short Ton,512141
+198,1,Convention (Subpart B),64,Long Ton,512141
+11,4,Simplified,111,Short Ton,638641
+14,4,Simplified,64,Long Ton,638641
+31,4,Simplified,64,Long Ton,296549
+25,4,Simplified,111,Short Ton,296549
+26,4,Simplified,64,Long Ton,268665
+21,4,Simplified,111,Short Ton,268665
+12,4,Simplified,111,Short Ton,289724
+15,4,Simplified,64,Long Ton,289724
+8,4,Simplified,111,Short Ton,987216
+10,4,Simplified,64,Long Ton,987216
+20,4,Simplified,64,Long Ton,291059
+16,4,Simplified,111,Short Ton,291059
+159981,5,Dead Weight,120,Ton,565797
+83616,3,Regulatory (Subpart C or D),64,Long Ton,565797
+83616,1,Convention (Subpart B),64,Long Ton,565797
+48679,1,Convention (Subpart B),111,Short Ton,565797
+48679,3,Regulatory (Subpart C or D),111,Short Ton,565797
+17,4,Simplified,64,Long Ton,564128
+14,4,Simplified,111,Short Ton,564128
+14,4,Simplified,111,Short Ton,627547
+15,4,Simplified,64,Long Ton,627547
+13,4,Simplified,64,Long Ton,631801
+10,4,Simplified,111,Short Ton,631801
+14,4,Simplified,64,Long Ton,637448
+11,4,Simplified,111,Short Ton,637448
+9,4,Simplified,64,Long Ton,606669
+7,4,Simplified,111,Short Ton,606669
+8,4,Simplified,111,Short Ton,614920
+10,4,Simplified,64,Long Ton,614920
+10,4,Simplified,111,Short Ton,260630
+12,4,Simplified,64,Long Ton,260630
+7,4,Simplified,64,Long Ton,575327
+6,4,Simplified,111,Short Ton,575327
+12435,3,Regulatory (Subpart C or D),111,Short Ton,224791
+19307,3,Regulatory (Subpart C or D),64,Long Ton,224791
+34995,5,Dead Weight,120,Ton,224791
+10,4,Simplified,64,Long Ton,218071
+9,4,Simplified,111,Short Ton,218071
+19,4,Simplified,111,Short Ton,271438
+23,4,Simplified,64,Long Ton,271438
+45336,6,Displacement,75,Metric Ton,1164306
+37186,5,Dead Weight,75,Metric Ton,1164306
+22662,1,Convention (Subpart B),64,Long Ton,1164306
+12531,1,Convention (Subpart B),111,Short Ton,1164306
+1562,4,Simplified,64,Long Ton,1164307
+1562,4,Simplified,111,Short Ton,1164307
+6,4,Simplified,111,Short Ton,507633
+8,4,Simplified,64,Long Ton,507633
+45336,6,Displacement,75,Metric Ton,1164306
+37186,5,Dead Weight,75,Metric Ton,1164306
+22662,1,Convention (Subpart B),64,Long Ton,1164306
+12531,1,Convention (Subpart B),111,Short Ton,1164306
+13,4,Simplified,111,Short Ton,613442
+16,4,Simplified,64,Long Ton,613442
+16,4,Simplified,64,Long Ton,637454
+12,4,Simplified,111,Short Ton,637454
+38,4,Simplified,111,Short Ton,1127918
+48,4,Simplified,64,Long Ton,1127918
+9,4,Simplified,111,Short Ton,512791
+12,4,Simplified,64,Long Ton,512791
+764,4,Simplified,111,Short Ton,1065218
+764,4,Simplified,64,Long Ton,1065218
+15,4,Simplified,64,Long Ton,560481
+12,4,Simplified,111,Short Ton,560481
+28484,5,Dead Weight,75,Metric Ton,560553
+16978,3,Regulatory (Subpart C or D),64,Long Ton,560553
+10498,3,Regulatory (Subpart C or D),111,Short Ton,560553
+10498,1,Convention (Subpart B),111,Short Ton,560553
+34589,6,Displacement,75,Metric Ton,560553
+16978,1,Convention (Subpart B),64,Long Ton,560553
+213,1,Convention (Subpart B),64,Long Ton,1077189
+14416,3,Regulatory (Subpart C or D),111,Short Ton,1101550
+26329,3,Regulatory (Subpart C or D),64,Long Ton,1101550
+46088,5,Dead Weight,75,Metric Ton,1101550
+57235,6,Displacement,75,Metric Ton,1101550
+14416,1,Convention (Subpart B),111,Short Ton,1101550
+26329,1,Convention (Subpart B),64,Long Ton,1101550
+9,4,Simplified,64,Long Ton,1164699
+7,4,Simplified,111,Short Ton,1164699
+8,4,Simplified,111,Short Ton,610149
+10,4,Simplified,64,Long Ton,610149
+41,4,Simplified,64,Long Ton,509435
+33,4,Simplified,111,Short Ton,509435
+8,4,Simplified,64,Long Ton,500160
+6,4,Simplified,111,Short Ton,500160
+6,4,Simplified,111,Short Ton,270746
+7,4,Simplified,64,Long Ton,270746
+8,4,Simplified,64,Long Ton,520414
+8,4,Simplified,111,Short Ton,520414
+19,4,Simplified,64,Long Ton,288407
+15,4,Simplified,111,Short Ton,288407
+9,4,Simplified,64,Long Ton,606669
+7,4,Simplified,111,Short Ton,606669
+9,4,Simplified,111,Short Ton,504813
+12,4,Simplified,64,Long Ton,504813
+802,4,Simplified,111,Short Ton,1059900
+802,4,Simplified,64,Long Ton,1059900
+4,4,Simplified,64,Long Ton,594624
+53096,1,Convention (Subpart B),64,Long Ton,633876
+28116,1,Convention (Subpart B),111,Short Ton,633876
+83885,6,Displacement,120,Ton,633876
+61441,5,Dead Weight,120,Ton,633876
+12,4,Simplified,111,Short Ton,567392
+15,4,Simplified,64,Long Ton,567392
+20,4,Simplified,111,Short Ton,1057083
+23,4,Simplified,64,Long Ton,1057083
+17,4,Simplified,64,Long Ton,508204
+15,4,Simplified,111,Short Ton,508204
+7,4,Simplified,64,Long Ton,607036
+5,4,Simplified,111,Short Ton,607036
+14,4,Simplified,111,Short Ton,274994
+18,4,Simplified,64,Long Ton,274994
+8,4,Simplified,64,Long Ton,623711
+8,4,Simplified,111,Short Ton,623711
+6,4,Simplified,111,Short Ton,512092
+8,4,Simplified,64,Long Ton,512092
+48,4,Simplified,111,Short Ton,501621
+52,4,Simplified,64,Long Ton,501621
+7,4,Simplified,111,Short Ton,512081
+8,4,Simplified,64,Long Ton,512081
+13,4,Simplified,111,Short Ton,279030
+14,4,Simplified,64,Long Ton,279030
+9,4,Simplified,64,Long Ton,606669
+7,4,Simplified,111,Short Ton,606669
+17,4,Simplified,64,Long Ton,621155
+15,4,Simplified,111,Short Ton,621155
+19,4,Simplified,64,Long Ton,637683
+15,4,Simplified,111,Short Ton,637683
+7,4,Simplified,111,Short Ton,261329
+8,4,Simplified,64,Long Ton,261329
+37,4,Simplified,111,Short Ton,505491
+47,4,Simplified,64,Long Ton,505491
+20,4,Simplified,64,Long Ton,508859
+16,4,Simplified,111,Short Ton,508859
+5,4,Simplified,111,Short Ton,595608
+7,4,Simplified,64,Long Ton,595608
+11,4,Simplified,111,Short Ton,595683
+14,4,Simplified,64,Long Ton,595683
+11,4,Simplified,64,Long Ton,620364
+9,4,Simplified,111,Short Ton,620364
+12,4,Simplified,64,Long Ton,635433
+9,4,Simplified,111,Short Ton,635433
+38,4,Simplified,111,Short Ton,602684
+47,4,Simplified,64,Long Ton,602684
+12,4,Simplified,64,Long Ton,630246
+9,4,Simplified,111,Short Ton,630246
+6,4,Simplified,111,Short Ton,626842
+8,4,Simplified,64,Long Ton,626842
+705,4,Simplified,111,Short Ton,613452
+705,4,Simplified,64,Long Ton,613452
+33,4,Simplified,111,Short Ton,645716
+42,4,Simplified,64,Long Ton,645716
+15,4,Simplified,111,Short Ton,645719
+18,4,Simplified,64,Long Ton,645719
+601,4,Simplified,64,Long Ton,1138867
+601,4,Simplified,111,Short Ton,1138867
+20,4,Simplified,111,Short Ton,503877
+25,4,Simplified,64,Long Ton,503877
+764,4,Simplified,111,Short Ton,1065237
+764,4,Simplified,64,Long Ton,1065237
+9,4,Simplified,111,Short Ton,1148252
+12,4,Simplified,64,Long Ton,1148252
+7,4,Simplified,111,Short Ton,0131
+9,4,Simplified,64,Long Ton,0131
+12,4,Simplified,111,Short Ton,289919
+16,4,Simplified,64,Long Ton,289919
+15,4,Simplified,111,Short Ton,505187
+19,4,Simplified,64,Long Ton,505187
+6,4,Simplified,111,Short Ton,567243
+7,4,Simplified,64,Long Ton,567243
+7,4,Simplified,111,Short Ton,588466
+8,4,Simplified,64,Long Ton,588466
+17,4,Simplified,64,Long Ton,508204
+15,4,Simplified,111,Short Ton,508204
+30,4,Simplified,111,Short Ton,505538
+38,4,Simplified,64,Long Ton,505538
+15,4,Simplified,111,Short Ton,511120
+16,4,Simplified,64,Long Ton,511120
+9,4,Simplified,111,Short Ton,599635
+11,4,Simplified,64,Long Ton,599635
+705,4,Simplified,111,Short Ton,262034
+705,4,Simplified,64,Long Ton,262034
+33,4,Simplified,64,Long Ton,692844
+27,4,Simplified,111,Short Ton,692844
+20,4,Simplified,64,Long Ton,291059
+16,4,Simplified,111,Short Ton,291059
+11,4,Simplified,64,Long Ton,989827
+11,4,Simplified,111,Short Ton,989827
+11,4,Simplified,111,Short Ton,295510
+14,4,Simplified,64,Long Ton,295510
+27,4,Simplified,111,Short Ton,626573
+34,4,Simplified,64,Long Ton,626573
+17,4,Simplified,111,Short Ton,290718
+18,4,Simplified,64,Long Ton,290718
+8,4,Simplified,64,Long Ton,284455
+7,4,Simplified,111,Short Ton,284455
+5,4,Simplified,64,Long Ton,991519
+5,4,Simplified,111,Short Ton,991519
+18,4,Simplified,111,Short Ton,1156601
+22,4,Simplified,64,Long Ton,1156601
+12,4,Simplified,111,Short Ton,270820
+13,4,Simplified,64,Long Ton,270820
+20,4,Simplified,64,Long Ton,922485
+16,4,Simplified,111,Short Ton,922485
+15,4,Simplified,64,Long Ton,1186709
+12,4,Simplified,111,Short Ton,1186709
+10647,1,Convention (Subpart B),111,Short Ton,277551
+35492,1,Convention (Subpart B),64,Long Ton,277551
+10,4,Simplified,64,Long Ton,621035
+8,4,Simplified,111,Short Ton,621035
+19,4,Simplified,111,Short Ton,596434
+24,4,Simplified,64,Long Ton,596434
+147,3,Regulatory (Subpart C or D),64,Long Ton,288198
+100,3,Regulatory (Subpart C or D),111,Short Ton,288198
+11,4,Simplified,111,Short Ton,295510
+14,4,Simplified,64,Long Ton,295510
+49499,5,Dead Weight,75,Metric Ton,1158998
+60410,6,Displacement,75,Metric Ton,1158998
+13567,1,Convention (Subpart B),111,Short Ton,1158998
+29744,1,Convention (Subpart B),64,Long Ton,1158998
+19,4,Simplified,64,Long Ton,576108
+15,4,Simplified,111,Short Ton,576108
+11,4,Simplified,111,Short Ton,295510
+14,4,Simplified,64,Long Ton,295510
+19,4,Simplified,111,Short Ton,513477
+21,4,Simplified,64,Long Ton,513477
+10,4,Simplified,64,Long Ton,1095398
+10,1,Convention (Subpart B),64,Long Ton,1095398
+7,1,Convention (Subpart B),111,Short Ton,1095398
+7,4,Simplified,111,Short Ton,1095398
+11,4,Simplified,111,Short Ton,295510
+14,4,Simplified,64,Long Ton,295510
+17,4,Simplified,111,Short Ton,241856
+21,4,Simplified,64,Long Ton,241856
+10,4,Simplified,111,Short Ton,567911
+13,4,Simplified,64,Long Ton,567911
+26,4,Simplified,64,Long Ton,500965
+21,4,Simplified,111,Short Ton,500965
+14106,4,Simplified,64,Long Ton,1046722
+12957,5,Dead Weight,120,Ton,1046722
+6724,1,Convention (Subpart B),111,Short Ton,1046722
+14276,1,Convention (Subpart B),64,Long Ton,1046722
+11285,4,Simplified,111,Short Ton,1046722
+764,4,Simplified,111,Short Ton,1089152
+764,4,Simplified,64,Long Ton,1089152
+15,4,Simplified,111,Short Ton,270266
+17,4,Simplified,64,Long Ton,270266
+41,4,Simplified,111,Short Ton,993975
+51,4,Simplified,64,Long Ton,993975
+8,4,Simplified,64,Long Ton,630529
+6,4,Simplified,111,Short Ton,630529
+21,4,Simplified,111,Short Ton,564321
+27,4,Simplified,64,Long Ton,564321
+12,4,Simplified,111,Short Ton,641567
+16,4,Simplified,64,Long Ton,641567
+21,4,Simplified,111,Short Ton,564321
+27,4,Simplified,64,Long Ton,564321
+31,4,Simplified,64,Long Ton,284066
+28,4,Simplified,111,Short Ton,284066
+9,3,Regulatory (Subpart C or D),111,Short Ton,261413
+10,3,Regulatory (Subpart C or D),64,Long Ton,261413
+22,4,Simplified,64,Long Ton,560349
+17,4,Simplified,111,Short Ton,560349
+8,4,Simplified,64,Long Ton,505886
+6,4,Simplified,111,Short Ton,505886
+8,4,Simplified,64,Long Ton,561392
+6,4,Simplified,111,Short Ton,561392
+42,4,Simplified,64,Long Ton,637675
+33,4,Simplified,111,Short Ton,637675
+17,4,Simplified,111,Short Ton,614030
+22,4,Simplified,64,Long Ton,614030
+5,4,Simplified,64,Long Ton,1050371
+5,4,Simplified,111,Short Ton,1050371
+11,4,Simplified,111,Short Ton,1054916
+11,4,Simplified,64,Long Ton,1054916
+11884,1,Convention (Subpart B),111,Short Ton,1158997
+21300,1,Convention (Subpart B),64,Long Ton,1158997
+34376,5,Dead Weight,120,Ton,1158997
+22300,6,Displacement,120,Ton,1158997
+745,4,Simplified,64,Long Ton,990528
+745,4,Simplified,111,Short Ton,990528
+13,4,Simplified,111,Short Ton,507544
+16,4,Simplified,64,Long Ton,507544
+8,4,Simplified,64,Long Ton,294692
+7,4,Simplified,111,Short Ton,294692
+12,4,Simplified,64,Long Ton,561613
+10,4,Simplified,111,Short Ton,561613
+12,4,Simplified,64,Long Ton,561613
+10,4,Simplified,111,Short Ton,561613
+65,4,Simplified,64,Long Ton,582211
+52,4,Simplified,111,Short Ton,582211
+20,4,Simplified,64,Long Ton,1110429
+16,4,Simplified,111,Short Ton,1110429
+11,4,Simplified,111,Short Ton,295510
+14,4,Simplified,64,Long Ton,295510
+21,4,Simplified,111,Short Ton,564321
+27,4,Simplified,64,Long Ton,564321
+27,4,Simplified,64,Long Ton,616328
+21,4,Simplified,111,Short Ton,616328
+14,4,Simplified,64,Long Ton,562022
+11,4,Simplified,111,Short Ton,562022
+16,4,Simplified,64,Long Ton,562635
+12,4,Simplified,111,Short Ton,562635
+9,4,Simplified,64,Long Ton,606669
+7,4,Simplified,111,Short Ton,606669
+11,4,Simplified,64,Long Ton,293828
+8,4,Simplified,111,Short Ton,293828
+19,4,Simplified,111,Short Ton,589306
+24,4,Simplified,64,Long Ton,589306
+22,4,Simplified,64,Long Ton,616794
+17,4,Simplified,111,Short Ton,616794
+15,4,Simplified,64,Long Ton,581359
+12,4,Simplified,111,Short Ton,581359
+16,4,Simplified,111,Short Ton,651990
+20,4,Simplified,64,Long Ton,651990
+7,4,Simplified,64,Long Ton,263932
+6,4,Simplified,111,Short Ton,263932
+19,4,Simplified,111,Short Ton,264863
+24,4,Simplified,64,Long Ton,264863
+8,4,Simplified,64,Long Ton,643102
+6,4,Simplified,111,Short Ton,643102
+18,4,Simplified,64,Long Ton,989830
+15,4,Simplified,111,Short Ton,989830
+8,4,Simplified,111,Short Ton,941884
+10,4,Simplified,64,Long Ton,941884
+8,4,Simplified,111,Short Ton,1052325
+9,4,Simplified,64,Long Ton,1052325
+15,4,Simplified,64,Long Ton,670500
+12,4,Simplified,111,Short Ton,670500
+30,4,Simplified,64,Long Ton,511473
+24,4,Simplified,111,Short Ton,511473
+15,4,Simplified,111,Short Ton,505190
+17,4,Simplified,64,Long Ton,505190
+69,4,Simplified,111,Short Ton,512342
+87,4,Simplified,64,Long Ton,512342
+19,4,Simplified,64,Long Ton,576108
+15,4,Simplified,111,Short Ton,576108
+12,4,Simplified,111,Short Ton,612474
+15,4,Simplified,64,Long Ton,612474
+44,4,Simplified,64,Long Ton,564778
+35,4,Simplified,111,Short Ton,564778
+9,4,Simplified,111,Short Ton,566542
+9,4,Simplified,64,Long Ton,566542
+8,4,Simplified,111,Short Ton,566543
+10,4,Simplified,64,Long Ton,566543
+26,4,Simplified,64,Long Ton,630242
+20,4,Simplified,111,Short Ton,630242
+10,4,Simplified,64,Long Ton,630243
+8,4,Simplified,111,Short Ton,630243
+397,1,Convention (Subpart B),64,Long Ton,1105394
+119,1,Convention (Subpart B),111,Short Ton,1105394
+13,4,Simplified,111,Short Ton,512671
+16,4,Simplified,64,Long Ton,512671
+28,4,Simplified,64,Long Ton,633894
+23,4,Simplified,111,Short Ton,633894
+454,4,Simplified,64,Long Ton,993704
+10,4,Simplified,64,Long Ton,616173
+8,4,Simplified,111,Short Ton,616173
+35,4,Simplified,111,Short Ton,626510
+43,4,Simplified,64,Long Ton,626510
+11,4,Simplified,111,Short Ton,503918
+13,4,Simplified,64,Long Ton,503918
+14,4,Simplified,64,Long Ton,617985
+11,4,Simplified,111,Short Ton,617985
+764,4,Simplified,111,Short Ton,1065218
+764,4,Simplified,64,Long Ton,1065218
+14,4,Simplified,64,Long Ton,210354
+11,4,Simplified,111,Short Ton,210354
+296,3,Regulatory (Subpart C or D),64,Long Ton,229004
+1077,1,Convention (Subpart B),64,Long Ton,229004
+202,3,Regulatory (Subpart C or D),111,Short Ton,229004
+323,1,Convention (Subpart B),111,Short Ton,229004
+5,4,Simplified,111,Short Ton,942077
+6,4,Simplified,64,Long Ton,942077
+15,4,Simplified,111,Short Ton,942082
+19,4,Simplified,64,Long Ton,942082
+12,4,Simplified,64,Long Ton,958828
+9,4,Simplified,111,Short Ton,958828
+8,4,Simplified,64,Long Ton,294692
+7,4,Simplified,111,Short Ton,294692
+211,4,Simplified,111,Short Ton,297877
+211,4,Simplified,64,Long Ton,297877
+8,4,Simplified,64,Long Ton,623711
+8,4,Simplified,111,Short Ton,623711
+8,4,Simplified,64,Long Ton,500160
+6,4,Simplified,111,Short Ton,500160
+9,4,Simplified,111,Short Ton,595645
+12,4,Simplified,64,Long Ton,595645
+14,4,Simplified,64,Long Ton,617985
+11,4,Simplified,111,Short Ton,617985
+36,4,Simplified,64,Long Ton,286687
+29,4,Simplified,111,Short Ton,286687
+8,4,Simplified,64,Long Ton,294692
+7,4,Simplified,111,Short Ton,294692
+8,4,Simplified,64,Long Ton,574481
+8,4,Simplified,111,Short Ton,574481
+10,4,Simplified,111,Short Ton,638205
+11,4,Simplified,64,Long Ton,638205
+12,4,Simplified,111,Short Ton,297330
+15,4,Simplified,64,Long Ton,297330
+8,4,Simplified,64,Long Ton,574481
+8,4,Simplified,111,Short Ton,574481
+4,4,Simplified,64,Long Ton,631574
+4,4,Simplified,111,Short Ton,631574
+20,4,Simplified,64,Long Ton,1186710
+16,4,Simplified,111,Short Ton,1186710
+40541,1,Convention (Subpart B),64,Long Ton,1105819
+24472,1,Convention (Subpart B),111,Short Ton,1105819
+50367,5,Dead Weight,120,Ton,1105819
+56881,6,Displacement,120,Ton,1105819
+14288,1,Convention (Subpart B),111,Short Ton,612383
+26914,1,Convention (Subpart B),64,Long Ton,612383
+44999,5,Dead Weight,75,Metric Ton,612383
+55424,6,Displacement,75,Metric Ton,612383
+14288,3,Regulatory (Subpart C or D),111,Short Ton,612383
+26914,3,Regulatory (Subpart C or D),64,Long Ton,612383
+26,4,Simplified,64,Long Ton,629888
+20,4,Simplified,111,Short Ton,629888
+13,4,Simplified,111,Short Ton,274830
+15,4,Simplified,64,Long Ton,274830
+565,4,Simplified,64,Long Ton,599971
+565,4,Simplified,111,Short Ton,599971
+14,4,Simplified,111,Short Ton,512615
+18,4,Simplified,64,Long Ton,512615
+8,4,Simplified,111,Short Ton,600679
+11,4,Simplified,64,Long Ton,600679
+19,4,Simplified,111,Short Ton,585087
+19,4,Simplified,64,Long Ton,585087
+705,4,Simplified,111,Short Ton,262029
+705,4,Simplified,64,Long Ton,262029
+4838,4,Simplified,64,Long Ton,3813
+4838,4,Simplified,111,Short Ton,3813
+34,4,Simplified,64,Long Ton,634267
+27,4,Simplified,111,Short Ton,634267
+15,4,Simplified,64,Long Ton,577923
+12,4,Simplified,111,Short Ton,577923
+823,4,Simplified,64,Long Ton,630167
+823,4,Simplified,111,Short Ton,630167
+21,4,Simplified,111,Short Ton,507367
+26,4,Simplified,64,Long Ton,507367
+21,4,Simplified,64,Long Ton,566044
+16,4,Simplified,111,Short Ton,566044
+4,4,Simplified,64,Long Ton,594624
+19,3,Regulatory (Subpart C or D),111,Short Ton,295974
+28,3,Regulatory (Subpart C or D),64,Long Ton,295974
+764,4,Simplified,64,Long Ton,954963
+764,4,Simplified,111,Short Ton,954963
+15,4,Simplified,64,Long Ton,670500
+12,4,Simplified,111,Short Ton,670500
+14,4,Simplified,64,Long Ton,279557
+12,4,Simplified,111,Short Ton,279557
+13,4,Simplified,64,Long Ton,1098900
+13,4,Simplified,111,Short Ton,1098900
+67,4,Simplified,64,Long Ton,560557
+53,4,Simplified,111,Short Ton,560557
+6,4,Simplified,111,Short Ton,1074299
+8,4,Simplified,64,Long Ton,1074299
+4,4,Simplified,64,Long Ton,594624
+12,4,Simplified,111,Short Ton,507278
+12,4,Simplified,64,Long Ton,507278
+14,4,Simplified,64,Long Ton,617985
+11,4,Simplified,111,Short Ton,617985
+9,4,Simplified,64,Long Ton,500893
+7,4,Simplified,111,Short Ton,500893
+271,1,Convention (Subpart B),64,Long Ton,955855
+81,1,Convention (Subpart B),111,Short Ton,955855
+15,4,Simplified,64,Long Ton,510611
+12,4,Simplified,111,Short Ton,510611
+21,4,Simplified,64,Long Ton,566044
+16,4,Simplified,111,Short Ton,566044
+48,4,Simplified,111,Short Ton,501621
+52,4,Simplified,64,Long Ton,501621
+59,1,Convention (Subpart B),111,Short Ton,512141
+198,1,Convention (Subpart B),64,Long Ton,512141
+22,4,Simplified,64,Long Ton,575929
+17,4,Simplified,111,Short Ton,575929
+13,4,Simplified,111,Short Ton,611908
+16,4,Simplified,64,Long Ton,611908
+9,4,Simplified,64,Long Ton,630162
+7,4,Simplified,111,Short Ton,630162
+147,3,Regulatory (Subpart C or D),64,Long Ton,288198
+100,3,Regulatory (Subpart C or D),111,Short Ton,288198
+6,4,Simplified,64,Long Ton,271177
+5,4,Simplified,111,Short Ton,271177
+108,4,Simplified,111,Short Ton,1087086
+135,4,Simplified,64,Long Ton,1087086
+26,4,Simplified,64,Long Ton,629888
+20,4,Simplified,111,Short Ton,629888
+8,4,Simplified,64,Long Ton,500160
+6,4,Simplified,111,Short Ton,500160
+5974,6,Displacement,75,Metric Ton,634249
+4354,5,Dead Weight,75,Metric Ton,634249
+3153,1,Convention (Subpart B),64,Long Ton,634249
+1789,1,Convention (Subpart B),111,Short Ton,634249
+159981,5,Dead Weight,120,Ton,565797
+83616,3,Regulatory (Subpart C or D),64,Long Ton,565797
+83616,1,Convention (Subpart B),64,Long Ton,565797
+48679,1,Convention (Subpart B),111,Short Ton,565797
+48679,3,Regulatory (Subpart C or D),111,Short Ton,565797
+11,4,Simplified,64,Long Ton,984928
+8,4,Simplified,111,Short Ton,984928
+8,3,Regulatory (Subpart C or D),64,Long Ton,174850
+5,3,Regulatory (Subpart C or D),111,Short Ton,174850
+6,4,Simplified,111,Short Ton,290084
+7,4,Simplified,64,Long Ton,290084
+25,4,Simplified,111,Short Ton,563173
+31,4,Simplified,64,Long Ton,563173
+15,4,Simplified,64,Long Ton,510883
+12,4,Simplified,111,Short Ton,510883
+17612,1,Convention (Subpart B),64,Long Ton,286248
+8594,1,Convention (Subpart B),111,Short Ton,286248
+28810,5,Dead Weight,120,Ton,286248
+37248,6,Displacement,120,Ton,286248
+18,4,Simplified,64,Long Ton,1101984
+14,4,Simplified,111,Short Ton,1101984
+8,4,Simplified,64,Long Ton,1095381
+8,4,Simplified,111,Short Ton,1095381
+8,4,Simplified,64,Long Ton,264343
+7,4,Simplified,111,Short Ton,264343
+7,4,Simplified,64,Long Ton,279843
+6,4,Simplified,111,Short Ton,279843
+7265,1,Convention (Subpart B),64,Long Ton,619375
+4279,1,Convention (Subpart B),111,Short Ton,619375
+12260,5,Dead Weight,120,Ton,619375
+15324,6,Displacement,120,Ton,619375
+104998,5,Dead Weight,75,Metric Ton,996888
+121586,6,Displacement,75,Metric Ton,996888
+31167,1,Convention (Subpart B),111,Short Ton,996888
+59259,1,Convention (Subpart B),64,Long Ton,996888
+10,4,Simplified,64,Long Ton,969641
+8,4,Simplified,111,Short Ton,969641
+9,3,Regulatory (Subpart C or D),111,Short Ton,299166
+11,3,Regulatory (Subpart C or D),64,Long Ton,299166
+30,4,Simplified,64,Long Ton,511473
+24,4,Simplified,111,Short Ton,511473
+15,4,Simplified,111,Short Ton,505190
+17,4,Simplified,64,Long Ton,505190
+67436,5,Dead Weight,120,Ton,228273
+23762,3,Regulatory (Subpart C or D),111,Short Ton,228273
+32009,3,Regulatory (Subpart C or D),64,Long Ton,228273
+17,4,Simplified,64,Long Ton,253220
+15,4,Simplified,111,Short Ton,253220
+5,4,Simplified,111,Short Ton,296245
+7,4,Simplified,64,Long Ton,296245
+25,4,Simplified,64,Long Ton,579510
+11,6,Displacement,120,Ton,579510
+23,4,Simplified,111,Short Ton,579510
+39,4,Simplified,64,Long Ton,628182
+31,4,Simplified,111,Short Ton,628182
+823,4,Simplified,64,Long Ton,630142
+823,4,Simplified,111,Short Ton,630142
+89,4,Simplified,64,Long Ton,634282
+71,4,Simplified,111,Short Ton,634282
+687,4,Simplified,111,Short Ton,1114130
+687,4,Simplified,64,Long Ton,1114130
+50,4,Simplified,64,Long Ton,506909
+40,4,Simplified,111,Short Ton,506909
+8,4,Simplified,64,Long Ton,623711
+8,4,Simplified,111,Short Ton,623711
+101,4,Simplified,111,Short Ton,948958
+127,4,Simplified,64,Long Ton,948958
+14,4,Simplified,64,Long Ton,259926
+11,4,Simplified,111,Short Ton,259926
+97,4,Simplified,64,Long Ton,989828
+77,4,Simplified,111,Short Ton,989828
+9,4,Simplified,111,Short Ton,647194
+10,4,Simplified,64,Long Ton,647194
+68404,5,Dead Weight,120,Ton,998317
+38999,6,Displacement,120,Ton,998317
+38999,4,Simplified,64,Long Ton,998317
+20758,4,Simplified,111,Short Ton,998317
+8,4,Simplified,111,Short Ton,513005
+10,4,Simplified,64,Long Ton,513005
+823,4,Simplified,111,Short Ton,929974
+823,4,Simplified,64,Long Ton,929974
+17,4,Simplified,64,Long Ton,273376
+13,4,Simplified,111,Short Ton,273376
+37,4,Simplified,64,Long Ton,574171
+29,4,Simplified,111,Short Ton,574171
+12,4,Simplified,111,Short Ton,279477
+15,4,Simplified,64,Long Ton,279477
+7,4,Simplified,111,Short Ton,588466
+8,4,Simplified,64,Long Ton,588466
+13,4,Simplified,111,Short Ton,273791
+14,4,Simplified,64,Long Ton,273791
+19,4,Simplified,64,Long Ton,1095096
+15,4,Simplified,111,Short Ton,1095096
+41987,5,Dead Weight,75,Metric Ton,1110101
+15938,1,Convention (Subpart B),111,Short Ton,1110101
+56938,6,Displacement,120,Ton,1110101
+36007,1,Convention (Subpart B),64,Long Ton,1110101
+56,4,Simplified,64,Long Ton,509885
+45,4,Simplified,111,Short Ton,509885
+138,4,Simplified,111,Short Ton,502722
+144,4,Simplified,64,Long Ton,502722
+14,4,Simplified,111,Short Ton,502719
+18,4,Simplified,64,Long Ton,502719
+14,4,Simplified,64,Long Ton,272036
+11,4,Simplified,111,Short Ton,272036
+15,4,Simplified,111,Short Ton,612019
+18,4,Simplified,64,Long Ton,612019
+13,4,Simplified,111,Short Ton,1198167
+13,4,Simplified,64,Long Ton,1198167
+4,4,Simplified,64,Long Ton,594624
+745,4,Simplified,64,Long Ton,990528
+745,4,Simplified,111,Short Ton,990528
+5,4,Simplified,111,Short Ton,257273
+6,4,Simplified,64,Long Ton,257273
+277,1,Convention (Subpart B),64,Long Ton,511518
+161,3,Regulatory (Subpart C or D),64,Long Ton,511518
+83,1,Convention (Subpart B),111,Short Ton,511518
+109,3,Regulatory (Subpart C or D),111,Short Ton,511518
+6,4,Simplified,64,Long Ton,1195380
+5,4,Simplified,111,Short Ton,1195380
+8,5,Dead Weight,120,Ton,1195380
+9,4,Simplified,111,Short Ton,1053500
+11,4,Simplified,64,Long Ton,1053500
+8,4,Simplified,111,Short Ton,1064124
+8,4,Simplified,64,Long Ton,1064124
+14,4,Simplified,64,Long Ton,272036
+11,4,Simplified,111,Short Ton,272036
+16,4,Simplified,64,Long Ton,630554
+12,4,Simplified,111,Short Ton,630554
+16,4,Simplified,64,Long Ton,266359
+15,4,Simplified,111,Short Ton,266359
+13,4,Simplified,64,Long Ton,989815
+10,4,Simplified,111,Short Ton,989815
+11,4,Simplified,111,Short Ton,1054916
+11,4,Simplified,64,Long Ton,1054916
+29736,1,Convention (Subpart B),64,Long Ton,1106122
+12287,1,Convention (Subpart B),111,Short Ton,1106122
+611397,6,Displacement,120,Ton,1106122
+49602,5,Dead Weight,120,Ton,1106122
+23683,3,Regulatory (Subpart C or D),111,Short Ton,272715
+35633,3,Regulatory (Subpart C or D),64,Long Ton,272715
+64487,5,Dead Weight,120,Ton,272715
+14,4,Simplified,111,Short Ton,1046745
+17,4,Simplified,64,Long Ton,1046745
+4,4,Simplified,64,Long Ton,594624
+14,4,Simplified,111,Short Ton,987901
+14,4,Simplified,64,Long Ton,987901
+46,1,Convention (Subpart B),111,Short Ton,996316
+66,1,Convention (Subpart B),64,Long Ton,996316
+10020,1,Convention (Subpart B),111,Short Ton,1106109
+49593,6,Displacement,75,Metric Ton,1106109
+25385,1,Convention (Subpart B),64,Long Ton,1106109
+40248,5,Dead Weight,75,Metric Ton,1106109
+7,4,Simplified,64,Long Ton,1106530
+5,4,Simplified,111,Short Ton,1106530
+62504,1,Convention (Subpart B),64,Long Ton,1107723
+35399,1,Convention (Subpart B),111,Short Ton,1107723
+113816,5,Dead Weight,120,Ton,1107723
+135071,6,Displacement,120,Ton,1107723
+78,4,Simplified,111,Short Ton,614199
+98,4,Simplified,64,Long Ton,614199
+8,4,Simplified,111,Short Ton,270840
+10,4,Simplified,64,Long Ton,270840
+31,4,Simplified,64,Long Ton,1104944
+25,4,Simplified,111,Short Ton,1104944
+14,4,Simplified,111,Short Ton,1111657
+14,4,Simplified,64,Long Ton,1111657
+7,4,Simplified,64,Long Ton,635603
+5,4,Simplified,111,Short Ton,635603
+4,4,Simplified,64,Long Ton,643935
+14,4,Simplified,111,Short Ton,289759
+18,4,Simplified,64,Long Ton,289759
+764,4,Simplified,111,Short Ton,1087641
+764,4,Simplified,64,Long Ton,1087641
+21,4,Simplified,111,Short Ton,564321
+27,4,Simplified,64,Long Ton,564321
+6,4,Simplified,111,Short Ton,279506
+8,4,Simplified,64,Long Ton,279506
+32,4,Simplified,64,Long Ton,295373
+26,4,Simplified,111,Short Ton,295373
+12,4,Simplified,64,Long Ton,664965
+11,4,Simplified,111,Short Ton,664965
+13,4,Simplified,64,Long Ton,574521
+11,4,Simplified,111,Short Ton,574521
+10,4,Simplified,111,Short Ton,667107
+12,4,Simplified,64,Long Ton,667107
+12,4,Simplified,64,Long Ton,664965
+11,4,Simplified,111,Short Ton,664965
+8,4,Simplified,111,Short Ton,614920
+10,4,Simplified,64,Long Ton,614920
+47,4,Simplified,64,Long Ton,623779
+38,4,Simplified,111,Short Ton,623779
+27,4,Simplified,64,Long Ton,271194
+21,4,Simplified,111,Short Ton,271194
+14,4,Simplified,64,Long Ton,604513
+11,4,Simplified,111,Short Ton,604513
+31,4,Simplified,111,Short Ton,942074
+34,4,Simplified,64,Long Ton,942074
+41,4,Simplified,111,Short Ton,945964
+52,4,Simplified,64,Long Ton,945964
+28270,1,Convention (Subpart B),64,Long Ton,993706
+28270,4,Simplified,64,Long Ton,993706
+13327,1,Convention (Subpart B),111,Short Ton,993706
+45881,6,Displacement,120,Ton,993706
+32971,5,Dead Weight,120,Ton,993706
+13327,4,Simplified,111,Short Ton,993706
+23,4,Simplified,64,Long Ton,272950
+18,4,Simplified,111,Short Ton,272950
+16,4,Simplified,111,Short Ton,612437
+20,4,Simplified,64,Long Ton,612437
+73,3,Regulatory (Subpart C or D),64,Long Ton,561554
+498,1,Convention (Subpart B),64,Long Ton,561554
+650,5,Dead Weight,64,Long Ton,561554
+49,3,Regulatory (Subpart C or D),111,Short Ton,561554
+149,1,Convention (Subpart B),111,Short Ton,561554
+823,4,Simplified,111,Short Ton,929959
+823,4,Simplified,64,Long Ton,929959
+7,4,Simplified,111,Short Ton,948970
+8,4,Simplified,64,Long Ton,948970
+14,4,Simplified,64,Long Ton,628174
+14,4,Simplified,111,Short Ton,628174
+9,4,Simplified,111,Short Ton,986
+11,4,Simplified,64,Long Ton,986
+35,4,Simplified,111,Short Ton,513667
+44,4,Simplified,64,Long Ton,513667
+27,4,Simplified,64,Long Ton,984009
+21,4,Simplified,111,Short Ton,984009
+6,4,Simplified,111,Short Ton,512092
+8,4,Simplified,64,Long Ton,512092
+8,4,Simplified,111,Short Ton,276863
+10,4,Simplified,64,Long Ton,276863
+9,4,Simplified,64,Long Ton,1202954
+7,4,Simplified,111,Short Ton,1202954
+16,4,Simplified,64,Long Ton,266359
+15,4,Simplified,111,Short Ton,266359
+15,4,Simplified,111,Short Ton,1178259
+19,4,Simplified,64,Long Ton,1178259
+14,4,Simplified,64,Long Ton,1117379
+11,4,Simplified,111,Short Ton,1117379
+27733,1,Convention (Subpart B),64,Long Ton,506810
+10,4,Simplified,111,Short Ton,626849
+12,4,Simplified,64,Long Ton,626849
+4,3,Regulatory (Subpart C or D),64,Long Ton,46101
+4,3,Regulatory (Subpart C or D),111,Short Ton,46101
+9,3,Regulatory (Subpart C or D),111,Short Ton,261413
+10,3,Regulatory (Subpart C or D),64,Long Ton,261413
+5,4,Simplified,111,Short Ton,126401
+7,4,Simplified,64,Long Ton,126401
+41987,5,Dead Weight,75,Metric Ton,1110101
+15938,1,Convention (Subpart B),111,Short Ton,1110101
+56938,6,Displacement,120,Ton,1110101
+36007,1,Convention (Subpart B),64,Long Ton,1110101
+31,4,Simplified,64,Long Ton,629754
+24,4,Simplified,111,Short Ton,629754
+823,4,Simplified,64,Long Ton,1110460
+823,4,Simplified,111,Short Ton,1110460
+16,4,Simplified,111,Short Ton,504689
+20,4,Simplified,64,Long Ton,504689
+8874,3,Regulatory (Subpart C or D),111,Short Ton,224431
+14211,3,Regulatory (Subpart C or D),64,Long Ton,224431
+21885,5,Dead Weight,120,Ton,224431
+15174,3,Regulatory (Subpart C or D),64,Long Ton,227317
+9604,3,Regulatory (Subpart C or D),111,Short Ton,227317
+23477,5,Dead Weight,120,Ton,227317
+21,4,Simplified,111,Short Ton,1057707
+23,4,Simplified,64,Long Ton,1057707
+182,1,Convention (Subpart B),64,Long Ton,600336
+54,1,Convention (Subpart B),111,Short Ton,600336
+63,4,Simplified,111,Short Ton,601309
+79,4,Simplified,64,Long Ton,601309
+33,4,Simplified,111,Short Ton,614194
+41,4,Simplified,64,Long Ton,614194
+9,4,Simplified,111,Short Ton,640266
+11,4,Simplified,64,Long Ton,640266
+33,4,Simplified,111,Short Ton,641551
+41,4,Simplified,64,Long Ton,641551
+70,4,Simplified,111,Short Ton,641764
+88,4,Simplified,64,Long Ton,641764
+82,4,Simplified,111,Short Ton,243406
+102,4,Simplified,64,Long Ton,243406
+16,4,Simplified,111,Short Ton,507364
+18,4,Simplified,64,Long Ton,507364
+764,4,Simplified,111,Short Ton,589642
+764,4,Simplified,64,Long Ton,589642
+19,4,Simplified,64,Long Ton,510832
+15,4,Simplified,111,Short Ton,510832
+19,4,Simplified,64,Long Ton,511269
+15,4,Simplified,111,Short Ton,511269
+11,4,Simplified,111,Short Ton,295299
+14,4,Simplified,64,Long Ton,295299
+499,1,Convention (Subpart B),64,Long Ton,578740
+499,3,Regulatory (Subpart C or D),64,Long Ton,578740
+161,1,Convention (Subpart B),111,Short Ton,578740
+161,3,Regulatory (Subpart C or D),111,Short Ton,578740
+764,4,Simplified,64,Long Ton,1184903
+764,4,Simplified,111,Short Ton,1184903
+5,4,Simplified,111,Short Ton,298022
+7,4,Simplified,64,Long Ton,298022
+45,4,Simplified,64,Long Ton,1206491
+45,4,Simplified,111,Short Ton,1206491
+22,4,Simplified,64,Long Ton,616794
+17,4,Simplified,111,Short Ton,616794
+45,4,Simplified,64,Long Ton,1206491
+45,4,Simplified,111,Short Ton,1206491
+601,4,Simplified,64,Long Ton,1121695
+601,4,Simplified,111,Short Ton,1121695
+7,4,Simplified,111,Short Ton,1076828
+9,4,Simplified,64,Long Ton,1076828
+764,4,Simplified,64,Long Ton,562078
+764,4,Simplified,111,Short Ton,562078
+12,4,Simplified,111,Short Ton,641567
+16,4,Simplified,64,Long Ton,641567
+15,4,Simplified,111,Short Ton,609007
+19,4,Simplified,64,Long Ton,609007
+10108,1,Convention (Subpart B),111,Short Ton,1080299
+17019,1,Convention (Subpart B),64,Long Ton,1080299
+6,4,Simplified,64,Long Ton,575251
+5,4,Simplified,111,Short Ton,575251
+9,4,Simplified,64,Long Ton,500950
+7,4,Simplified,111,Short Ton,500950
+5,4,Simplified,111,Short Ton,211745
+5,4,Simplified,64,Long Ton,211745
+9,4,Simplified,64,Long Ton,565290
+7,4,Simplified,111,Short Ton,565290
+105,4,Simplified,111,Short Ton,1104216
+131,4,Simplified,64,Long Ton,1104216
+28,4,Simplified,111,Short Ton,278314
+36,4,Simplified,64,Long Ton,278314
+19,4,Simplified,111,Short Ton,513477
+21,4,Simplified,64,Long Ton,513477
+1619,4,Simplified,64,Long Ton,560944
+1619,4,Simplified,111,Short Ton,560944
+12626,1,Convention (Subpart B),111,Short Ton,566616
+48631,6,Displacement,120,Ton,566616
+35977,5,Dead Weight,120,Ton,566616
+12626,4,Simplified,111,Short Ton,566616
+30024,4,Simplified,64,Long Ton,566616
+30024,1,Convention (Subpart B),64,Long Ton,566616
+29211,1,Convention (Subpart B),64,Long Ton,610548
+11658,1,Convention (Subpart B),111,Short Ton,610548
+56069,6,Displacement,75,Metric Ton,610548
+44401,5,Dead Weight,75,Metric Ton,610548
+12,4,Simplified,64,Long Ton,643366
+9,4,Simplified,111,Short Ton,643366
+13,4,Simplified,64,Long Ton,1116940
+11,4,Simplified,111,Short Ton,1116940
+21,4,Simplified,64,Long Ton,564973
+16,4,Simplified,111,Short Ton,564973
+4,4,Simplified,111,Short Ton,1042766
+48,4,Simplified,64,Long Ton,1042766
+8,4,Simplified,111,Short Ton,260029
+9,4,Simplified,64,Long Ton,260029
+7,4,Simplified,64,Long Ton,284446
+5,4,Simplified,111,Short Ton,284446
+764,4,Simplified,111,Short Ton,1060127
+764,4,Simplified,64,Long Ton,1060127
+82,4,Simplified,111,Short Ton,243406
+102,4,Simplified,64,Long Ton,243406
+82,4,Simplified,111,Short Ton,243406
+102,4,Simplified,64,Long Ton,243406
+82,4,Simplified,111,Short Ton,243406
+102,4,Simplified,64,Long Ton,243406
+19,4,Simplified,64,Long Ton,1095096
+15,4,Simplified,111,Short Ton,1095096
+27,4,Simplified,111,Short Ton,1167892
+27,4,Simplified,64,Long Ton,1167892
+5,4,Simplified,111,Short Ton,504262
+6,4,Simplified,64,Long Ton,504262
+7,4,Simplified,111,Short Ton,503698
+9,4,Simplified,64,Long Ton,503698
+34,4,Simplified,111,Short Ton,513284
+42,4,Simplified,64,Long Ton,513284
+10,4,Simplified,64,Long Ton,565395
+9,4,Simplified,111,Short Ton,565395
+18,4,Simplified,111,Short Ton,293676
+22,4,Simplified,64,Long Ton,293676
+25,4,Simplified,64,Long Ton,294920
+23,4,Simplified,111,Short Ton,294920
+37,4,Simplified,64,Long Ton,574171
+29,4,Simplified,111,Short Ton,574171
+6,4,Simplified,111,Short Ton,512092
+8,4,Simplified,64,Long Ton,512092
+1619,4,Simplified,111,Short Ton,611974
+1619,4,Simplified,64,Long Ton,611974
+20,4,Simplified,64,Long Ton,637416
+16,4,Simplified,111,Short Ton,637416
+89726,3,Regulatory (Subpart C or D),64,Long Ton,1106567
+20,4,Simplified,111,Short Ton,503877
+25,4,Simplified,64,Long Ton,503877
+18,4,Simplified,64,Long Ton,637682
+18,4,Simplified,111,Short Ton,637682
+38,4,Simplified,111,Short Ton,682766
+48,4,Simplified,64,Long Ton,682766
+21,4,Simplified,64,Long Ton,908095
+16,4,Simplified,111,Short Ton,908095
+8,4,Simplified,64,Long Ton,500160
+6,4,Simplified,111,Short Ton,500160
+19,4,Simplified,64,Long Ton,576108
+15,4,Simplified,111,Short Ton,576108
+20,4,Simplified,64,Long Ton,1050413
+18,4,Simplified,111,Short Ton,1050413
+21650,1,Convention (Subpart B),64,Long Ton,1106116
+11208,1,Convention (Subpart B),111,Short Ton,1106116
+33396,5,Dead Weight,75,Metric Ton,1106116
+41315,6,Displacement,75,Metric Ton,1106116
+10,4,Simplified,111,Short Ton,626849
+12,4,Simplified,64,Long Ton,626849
+12,4,Simplified,111,Short Ton,275466
+15,4,Simplified,64,Long Ton,275466
+22,4,Simplified,64,Long Ton,279701
+18,4,Simplified,111,Short Ton,279701
+16,4,Simplified,111,Short Ton,283841
+18,4,Simplified,64,Long Ton,283841
+17,4,Simplified,64,Long Ton,561721
+14,4,Simplified,111,Short Ton,561721
+9,4,Simplified,64,Long Ton,564780
+7,4,Simplified,111,Short Ton,564780
+23,4,Simplified,64,Long Ton,564807
+18,4,Simplified,111,Short Ton,564807
+12,4,Simplified,111,Short Ton,566537
+15,4,Simplified,64,Long Ton,566537
+18321,1,Convention (Subpart B),64,Long Ton,991584
+23224,5,Dead Weight,120,Ton,991584
+32071,6,Displacement,120,Ton,991584
+10392,1,Convention (Subpart B),111,Short Ton,991584
+19672,1,Convention (Subpart B),111,Short Ton,1153411
+35708,1,Convention (Subpart B),64,Long Ton,1153411
+41534,5,Dead Weight,120,Ton,1153411
+17025,3,Regulatory (Subpart C or D),64,Long Ton,1190926
+17025,1,Convention (Subpart B),64,Long Ton,1190926
+10108,1,Convention (Subpart B),111,Short Ton,1190926
+34753,6,Displacement,75,Metric Ton,1190926
+28509,5,Dead Weight,75,Metric Ton,1190926
+10108,3,Regulatory (Subpart C or D),111,Short Ton,1190926
+823,4,Simplified,111,Short Ton,511036
+823,4,Simplified,64,Long Ton,511036
+20,4,Simplified,111,Short Ton,270737
+25,4,Simplified,64,Long Ton,270737
+17,4,Simplified,111,Short Ton,568268
+21,4,Simplified,64,Long Ton,568268
+705,4,Simplified,111,Short Ton,262034
+705,4,Simplified,64,Long Ton,262034
+1810,5,Dead Weight,120,Ton,587247
+4407,1,Convention (Subpart B),64,Long Ton,587247
+11,4,Simplified,111,Short Ton,270645
+12,4,Simplified,64,Long Ton,270645
+12,4,Simplified,111,Short Ton,273608
+16,4,Simplified,64,Long Ton,273608
+11,4,Simplified,64,Long Ton,644184
+10,4,Simplified,111,Short Ton,644184
+8,4,Simplified,111,Short Ton,297548
+9,4,Simplified,64,Long Ton,297548
+45,4,Simplified,64,Long Ton,630794
+36,4,Simplified,111,Short Ton,630794
+40,4,Simplified,64,Long Ton,510425
+32,4,Simplified,111,Short Ton,510425
+12,4,Simplified,111,Short Ton,516632
+15,4,Simplified,64,Long Ton,516632
+16,4,Simplified,64,Long Ton,509655
+13,4,Simplified,111,Short Ton,509655
+91373,1,Convention (Subpart B),64,Long Ton,1110418
+58745,1,Convention (Subpart B),111,Short Ton,1110418
+177925,5,Dead Weight,75,Metric Ton,1110418
+202712,6,Displacement,75,Metric Ton,1110418
+823,4,Simplified,64,Long Ton,1110453
+823,4,Simplified,111,Short Ton,1110453
+49,4,Simplified,64,Long Ton,1208491
+49,4,Simplified,111,Short Ton,1208491
+40037,1,Convention (Subpart B),64,Long Ton,611533
+20900,1,Convention (Subpart B),111,Short Ton,611533
+73004,5,Dead Weight,120,Ton,611533
+86123,6,Displacement,120,Ton,611533
+17,4,Simplified,111,Short Ton,568268
+21,4,Simplified,64,Long Ton,568268
+672,4,Simplified,64,Long Ton,273238
+672,4,Simplified,111,Short Ton,273238
+17,4,Simplified,111,Short Ton,567019
+21,4,Simplified,64,Long Ton,567019
+25,4,Simplified,64,Long Ton,1218799
+23,4,Simplified,111,Short Ton,1218799
+32,4,Simplified,64,Long Ton,297913
+25,4,Simplified,111,Short Ton,297913
+16,4,Simplified,64,Long Ton,273292
+12,4,Simplified,111,Short Ton,273292
+30,4,Simplified,111,Short Ton,278271
+37,4,Simplified,64,Long Ton,278271
+5,4,Simplified,111,Short Ton,1198160
+6,4,Simplified,64,Long Ton,1198160
+6,4,Simplified,111,Short Ton,257240
+8,4,Simplified,64,Long Ton,257240
+7,4,Simplified,111,Short Ton,270908
+8,4,Simplified,64,Long Ton,270908
+15,4,Simplified,111,Short Ton,609007
+19,4,Simplified,64,Long Ton,609007
+51,4,Simplified,64,Long Ton,1126097
+41,4,Simplified,111,Short Ton,1126097
+12,4,Simplified,64,Long Ton,240322
+10,4,Simplified,111,Short Ton,240322
+21,4,Simplified,111,Short Ton,564321
+27,4,Simplified,64,Long Ton,564321
+13,4,Simplified,111,Short Ton,569601
+16,4,Simplified,64,Long Ton,569601
+159981,5,Dead Weight,120,Ton,565797
+83616,3,Regulatory (Subpart C or D),64,Long Ton,565797
+83616,1,Convention (Subpart B),64,Long Ton,565797
+48679,1,Convention (Subpart B),111,Short Ton,565797
+48679,3,Regulatory (Subpart C or D),111,Short Ton,565797
+20,4,Simplified,111,Short Ton,1057082
+23,4,Simplified,64,Long Ton,1057082
+1619,4,Simplified,64,Long Ton,560944
+1619,4,Simplified,111,Short Ton,560944
+159981,5,Dead Weight,120,Ton,565797
+83616,3,Regulatory (Subpart C or D),64,Long Ton,565797
+83616,1,Convention (Subpart B),64,Long Ton,565797
+48679,1,Convention (Subpart B),111,Short Ton,565797
+48679,3,Regulatory (Subpart C or D),111,Short Ton,565797
+23,4,Simplified,111,Short Ton,295630
+28,4,Simplified,64,Long Ton,295630
+15,4,Simplified,111,Short Ton,511120
+16,4,Simplified,64,Long Ton,511120
+8,4,Simplified,111,Short Ton,290088
+10,4,Simplified,64,Long Ton,290088
+15,4,Simplified,111,Short Ton,651210
+18,4,Simplified,64,Long Ton,651210
+70,4,Simplified,111,Short Ton,1066477
+88,4,Simplified,64,Long Ton,1066477
+47,4,Simplified,64,Long Ton,628935
+37,4,Simplified,111,Short Ton,628935
+82,4,Simplified,111,Short Ton,243406
+102,4,Simplified,64,Long Ton,243406
+14,4,Simplified,111,Short Ton,292626
+14,4,Simplified,64,Long Ton,292626
+5,4,Simplified,111,Short Ton,299737
+7,4,Simplified,64,Long Ton,299737
+1619,4,Simplified,64,Long Ton,560944
+1619,4,Simplified,111,Short Ton,560944
+7,4,Simplified,64,Long Ton,1165016
+6,4,Simplified,111,Short Ton,1165016
+12,4,Simplified,64,Long Ton,288967
+11,4,Simplified,111,Short Ton,288967
+3849,1,Convention (Subpart B),64,Long Ton,1195766
+1798,1,Convention (Subpart B),111,Short Ton,1195766
+499,1,Convention (Subpart B),64,Long Ton,578740
+499,3,Regulatory (Subpart C or D),64,Long Ton,578740
+161,1,Convention (Subpart B),111,Short Ton,578740
+161,3,Regulatory (Subpart C or D),111,Short Ton,578740
+25,4,Simplified,64,Long Ton,535854
+25,4,Simplified,111,Short Ton,535854
+31,4,Simplified,64,Long Ton,284066
+28,4,Simplified,111,Short Ton,284066
+11,4,Simplified,111,Short Ton,295510
+14,4,Simplified,64,Long Ton,295510
+11,4,Simplified,64,Long Ton,500995
+8,4,Simplified,111,Short Ton,500995
+11,4,Simplified,111,Short Ton,1130366
+12,4,Simplified,64,Long Ton,1130366
+7,4,Simplified,111,Short Ton,647184
+9,4,Simplified,64,Long Ton,647184
+9,4,Simplified,64,Long Ton,287746
+7,4,Simplified,111,Short Ton,287746
+14,4,Simplified,111,Short Ton,614262
+18,4,Simplified,64,Long Ton,614262
+11,4,Simplified,111,Short Ton,295299
+14,4,Simplified,64,Long Ton,295299
+13,4,Simplified,111,Short Ton,507544
+16,4,Simplified,64,Long Ton,507544
+87720,1,Convention (Subpart B),64,Long Ton,1099662
+8,4,Simplified,111,Short Ton,601308
+10,4,Simplified,64,Long Ton,601308
+8,4,Simplified,64,Long Ton,624063
+8,4,Simplified,111,Short Ton,624063
+17,4,Simplified,64,Long Ton,624193
+13,4,Simplified,111,Short Ton,624193
+20471,1,Convention (Subpart B),64,Long Ton,624196
+38045,6,Displacement,75,Metric Ton,624196
+27691,5,Dead Weight,75,Metric Ton,624196
+10630,1,Convention (Subpart B),111,Short Ton,624196
+33,4,Simplified,111,Short Ton,641551
+41,4,Simplified,64,Long Ton,641551
+21,4,Simplified,111,Short Ton,1040135
+26,4,Simplified,64,Long Ton,1040135
+8,4,Simplified,64,Long Ton,1163920
+6,4,Simplified,111,Short Ton,1163920
+6,4,Simplified,64,Long Ton,577910
+5,4,Simplified,111,Short Ton,577910
+8,4,Simplified,111,Short Ton,567126
+10,4,Simplified,64,Long Ton,567126
+13,4,Simplified,64,Long Ton,1104495
+10,4,Simplified,111,Short Ton,1104495
+67,1,Convention (Subpart B),111,Short Ton,566885
+124,3,Regulatory (Subpart C or D),111,Short Ton,566885
+225,1,Convention (Subpart B),64,Long Ton,566885
+183,3,Regulatory (Subpart C or D),64,Long Ton,566885
+69,4,Simplified,111,Short Ton,512342
+87,4,Simplified,64,Long Ton,512342
+5415,6,Displacement,111,Short Ton,611977
+1619,4,Simplified,111,Short Ton,611977
+1619,4,Simplified,64,Long Ton,611977
+745,4,Simplified,64,Long Ton,506770
+745,4,Simplified,111,Short Ton,506770
+12,4,Simplified,64,Long Ton,240322
+10,4,Simplified,111,Short Ton,240322
+42,4,Simplified,64,Long Ton,637601
+33,4,Simplified,111,Short Ton,637601
+15,4,Simplified,64,Long Ton,510611
+12,4,Simplified,111,Short Ton,510611
+687,4,Simplified,111,Short Ton,589995
+687,4,Simplified,64,Long Ton,589995
+21,4,Simplified,111,Short Ton,662943
+26,4,Simplified,64,Long Ton,662943
+54,4,Simplified,111,Short Ton,662944
+67,4,Simplified,64,Long Ton,662944
+6,4,Simplified,111,Short Ton,297173
+7,4,Simplified,64,Long Ton,297173
+8,4,Simplified,111,Short Ton,659664
+8,4,Simplified,64,Long Ton,659664
+745,4,Simplified,64,Long Ton,990527
+745,4,Simplified,111,Short Ton,990527
+25,4,Simplified,111,Short Ton,614221
+28,4,Simplified,64,Long Ton,614221
+19,4,Simplified,111,Short Ton,513477
+21,4,Simplified,64,Long Ton,513477
+7,4,Simplified,64,Long Ton,291677
+6,4,Simplified,111,Short Ton,291677
+3,4,Simplified,64,Long Ton,1054883
+764,4,Simplified,64,Long Ton,1222453
+764,4,Simplified,111,Short Ton,1222453
+14,4,Simplified,64,Long Ton,617985
+11,4,Simplified,111,Short Ton,617985
+12,4,Simplified,111,Short Ton,600740
+15,4,Simplified,64,Long Ton,600740
+16,4,Simplified,111,Short Ton,647390
+18,4,Simplified,64,Long Ton,647390
+37,4,Simplified,64,Long Ton,574171
+29,4,Simplified,111,Short Ton,574171
+8,4,Simplified,111,Short Ton,290088
+10,4,Simplified,64,Long Ton,290088
+764,4,Simplified,64,Long Ton,1184904
+764,4,Simplified,111,Short Ton,1184904
+764,4,Simplified,64,Long Ton,1184915
+764,4,Simplified,111,Short Ton,1184915
+764,4,Simplified,64,Long Ton,509367
+764,4,Simplified,111,Short Ton,509367
+25,4,Simplified,111,Short Ton,563173
+31,4,Simplified,64,Long Ton,563173
+12,4,Simplified,111,Short Ton,289724
+15,4,Simplified,64,Long Ton,289724
+764,4,Simplified,64,Long Ton,1215323
+764,4,Simplified,111,Short Ton,1215323
+9,4,Simplified,111,Short Ton,647380
+11,4,Simplified,64,Long Ton,647380
+19,4,Simplified,111,Short Ton,513477
+21,4,Simplified,64,Long Ton,513477
+18207,1,Convention (Subpart B),111,Short Ton,589809
+30053,1,Convention (Subpart B),64,Long Ton,589809
+52420,5,Dead Weight,120,Ton,589809
+60771,6,Displacement,120,Ton,589809
+9,4,Simplified,111,Short Ton,601772
+12,4,Simplified,64,Long Ton,601772
+5,4,Simplified,111,Short Ton,1060137
+5,4,Simplified,64,Long Ton,1060137
+6,4,Simplified,64,Long Ton,1206579
+5,4,Simplified,111,Short Ton,1206579
+8,4,Simplified,64,Long Ton,264343
+7,4,Simplified,111,Short Ton,264343
+15,4,Simplified,111,Short Ton,651210
+18,4,Simplified,64,Long Ton,651210
+49741,1,Convention (Subpart B),111,Short Ton,945957
+93496,1,Convention (Subpart B),64,Long Ton,945957
+109000,5,Dead Weight,75,Metric Ton,945957
+146777,6,Displacement,75,Metric Ton,945957
+10,4,Simplified,111,Short Ton,587272
+11,4,Simplified,64,Long Ton,587272
+13,4,Simplified,111,Short Ton,512671
+16,4,Simplified,64,Long Ton,512671
+14,4,Simplified,64,Long Ton,254693
+11,4,Simplified,111,Short Ton,254693
+9,4,Simplified,64,Long Ton,565290
+7,4,Simplified,111,Short Ton,565290
+58,4,Simplified,111,Short Ton,292072
+73,4,Simplified,64,Long Ton,292072
+12,4,Simplified,64,Long Ton,621096
+9,4,Simplified,111,Short Ton,621096
+6,4,Simplified,64,Long Ton,575251
+5,4,Simplified,111,Short Ton,575251
+15,4,Simplified,111,Short Ton,505190
+17,4,Simplified,64,Long Ton,505190
+14,4,Simplified,64,Long Ton,617985
+11,4,Simplified,111,Short Ton,617985
+9,4,Simplified,111,Short Ton,639651
+11,4,Simplified,64,Long Ton,639651
+16,4,Simplified,111,Short Ton,507364
+18,4,Simplified,64,Long Ton,507364
+25,4,Simplified,64,Long Ton,272258
+23,4,Simplified,111,Short Ton,272258
+54,4,Simplified,111,Short Ton,566831
+68,4,Simplified,64,Long Ton,566831
+20,4,Simplified,111,Short Ton,930837
+22,4,Simplified,64,Long Ton,930837
+8,4,Simplified,111,Short Ton,513005
+10,4,Simplified,64,Long Ton,513005
+12,4,Simplified,64,Long Ton,664965
+11,4,Simplified,111,Short Ton,664965
+14,4,Simplified,64,Long Ton,511889
+11,4,Simplified,111,Short Ton,511889
+18,4,Simplified,111,Short Ton,511916
+23,4,Simplified,64,Long Ton,511916
+57,4,Simplified,64,Long Ton,1108222
+45,4,Simplified,111,Short Ton,1108222
+31,4,Simplified,64,Long Ton,629754
+24,4,Simplified,111,Short Ton,629754
+11,4,Simplified,111,Short Ton,1182445
+12,4,Simplified,64,Long Ton,1182445
+13,4,Simplified,64,Long Ton,1104495
+10,4,Simplified,111,Short Ton,1104495
+26,4,Simplified,64,Long Ton,500333
+21,4,Simplified,111,Short Ton,500333
+6,4,Simplified,111,Short Ton,512092
+8,4,Simplified,64,Long Ton,512092
+8,4,Simplified,64,Long Ton,500160
+6,4,Simplified,111,Short Ton,500160
+10,4,Simplified,111,Short Ton,571076
+13,4,Simplified,64,Long Ton,571076
+15,4,Simplified,64,Long Ton,1208724
+12,4,Simplified,111,Short Ton,1208724
+20,4,Simplified,64,Long Ton,600552
+18,4,Simplified,111,Short Ton,600552
+19,4,Simplified,64,Long Ton,643848
+15,4,Simplified,111,Short Ton,643848
+8,4,Simplified,64,Long Ton,959818
+8,4,Simplified,111,Short Ton,959818
+30,4,Simplified,111,Short Ton,299319
+38,4,Simplified,64,Long Ton,299319
+7,4,Simplified,64,Long Ton,562018
+5,4,Simplified,111,Short Ton,562018
+10411,3,Regulatory (Subpart C or D),111,Short Ton,274839
+31016,5,Dead Weight,120,Ton,274839
+18249,3,Regulatory (Subpart C or D),64,Long Ton,274839
+20,4,Simplified,64,Long Ton,600552
+18,4,Simplified,111,Short Ton,600552
+147,3,Regulatory (Subpart C or D),64,Long Ton,288198
+100,3,Regulatory (Subpart C or D),111,Short Ton,288198
+10,4,Simplified,111,Short Ton,571076
+13,4,Simplified,64,Long Ton,571076
+17,4,Simplified,111,Short Ton,659639
+22,4,Simplified,64,Long Ton,659639
+12,4,Simplified,64,Long Ton,633501
+9,4,Simplified,111,Short Ton,633501
+147,3,Regulatory (Subpart C or D),64,Long Ton,288198
+100,3,Regulatory (Subpart C or D),111,Short Ton,288198
+11,4,Simplified,64,Long Ton,500995
+8,4,Simplified,111,Short Ton,500995
+40037,1,Convention (Subpart B),64,Long Ton,611533
+20900,1,Convention (Subpart B),111,Short Ton,611533
+73004,5,Dead Weight,120,Ton,611533
+86123,6,Displacement,120,Ton,611533
+9,4,Simplified,111,Short Ton,1225821
+12,4,Simplified,64,Long Ton,1225821
+764,4,Simplified,111,Short Ton,19
+764,4,Simplified,64,Long Ton,19
+14,4,Simplified,64,Long Ton,291624
+11,4,Simplified,111,Short Ton,291624
+18,4,Simplified,64,Long Ton,628936
+14,4,Simplified,111,Short Ton,628936
+276,4,Simplified,111,Short Ton,647139
+276,4,Simplified,64,Long Ton,647139
+20,4,Simplified,111,Short Ton,503877
+25,4,Simplified,64,Long Ton,503877
+9,4,Simplified,64,Long Ton,606669
+7,4,Simplified,111,Short Ton,606669
+11,4,Simplified,111,Short Ton,612393
+13,4,Simplified,64,Long Ton,612393
+9,4,Simplified,64,Long Ton,635960
+7,4,Simplified,111,Short Ton,635960
+19,4,Simplified,111,Short Ton,273675
+24,4,Simplified,64,Long Ton,273675
+31,4,Simplified,64,Long Ton,296555
+28,4,Simplified,111,Short Ton,296555
+3,4,Simplified,64,Long Ton,621154
+3,4,Simplified,111,Short Ton,621154
+12,4,Simplified,64,Long Ton,508931
+9,4,Simplified,111,Short Ton,508931
+8,4,Simplified,111,Short Ton,566543
+10,4,Simplified,64,Long Ton,566543
+21967,1,Convention (Subpart B),111,Short Ton,1054870
+91368,6,Displacement,120,Ton,1054870
+76577,5,Dead Weight,120,Ton,1054870
+43885,1,Convention (Subpart B),64,Long Ton,1054870
+21967,3,Regulatory (Subpart C or D),111,Short Ton,1054870
+43885,3,Regulatory (Subpart C or D),64,Long Ton,1054870
+8,4,Simplified,64,Long Ton,623711
+8,4,Simplified,111,Short Ton,623711
+9,4,Simplified,64,Long Ton,643710
+7,4,Simplified,111,Short Ton,643710
+31,4,Simplified,64,Long Ton,284066
+28,4,Simplified,111,Short Ton,284066
+69,4,Simplified,111,Short Ton,512342
+87,4,Simplified,64,Long Ton,512342
+20,4,Simplified,64,Long Ton,1102493
+18,4,Simplified,111,Short Ton,1102493
+44,4,Simplified,64,Long Ton,287518
+35,4,Simplified,111,Short Ton,287518
+28,4,Simplified,64,Long Ton,633894
+23,4,Simplified,111,Short Ton,633894
+7,4,Simplified,111,Short Ton,512111
+7,4,Simplified,64,Long Ton,512111
+41,4,Simplified,111,Short Ton,507417
+45,4,Simplified,64,Long Ton,507417
+7,4,Simplified,111,Short Ton,512111
+7,4,Simplified,64,Long Ton,512111
+14,4,Simplified,64,Long Ton,291624
+11,4,Simplified,111,Short Ton,291624
+14,4,Simplified,64,Long Ton,254693
+11,4,Simplified,111,Short Ton,254693
+235,4,Simplified,111,Short Ton,503554
+235,4,Simplified,64,Long Ton,503554
+499,1,Convention (Subpart B),64,Long Ton,578740
+499,3,Regulatory (Subpart C or D),64,Long Ton,578740
+161,1,Convention (Subpart B),111,Short Ton,578740
+161,3,Regulatory (Subpart C or D),111,Short Ton,578740
+10,4,Simplified,111,Short Ton,916312
+13,4,Simplified,64,Long Ton,916312
+7,4,Simplified,111,Short Ton,1228177
+7,4,Simplified,64,Long Ton,1228177
+8,4,Simplified,111,Short Ton,1228719
+10,4,Simplified,64,Long Ton,1228719
+5,4,Simplified,111,Short Ton,274333
+6,4,Simplified,64,Long Ton,274333
+9,4,Simplified,64,Long Ton,661437
+9,4,Simplified,111,Short Ton,661437
+6,4,Simplified,111,Short Ton,512092
+8,4,Simplified,64,Long Ton,512092
+11,4,Simplified,64,Long Ton,500995
+8,4,Simplified,111,Short Ton,500995
+9,4,Simplified,64,Long Ton,606669
+7,4,Simplified,111,Short Ton,606669
+14,4,Simplified,64,Long Ton,967620
+14,4,Simplified,111,Short Ton,967620
+21,4,Simplified,111,Short Ton,1020430
+26,4,Simplified,64,Long Ton,1020430
+764,4,Simplified,111,Short Ton,1058129
+764,4,Simplified,64,Long Ton,1058129
+10,4,Simplified,111,Short Ton,571076
+13,4,Simplified,64,Long Ton,571076
+9,4,Simplified,64,Long Ton,661437
+9,4,Simplified,111,Short Ton,661437
+25,4,Simplified,111,Short Ton,1226414
+32,4,Simplified,64,Long Ton,1226414
+9,4,Simplified,64,Long Ton,661437
+9,4,Simplified,111,Short Ton,661437
+13,4,Simplified,64,Long Ton,258367
+12,4,Simplified,111,Short Ton,258367
+28,4,Simplified,64,Long Ton,634271
+23,4,Simplified,111,Short Ton,634271
+8,4,Simplified,64,Long Ton,561392
+6,4,Simplified,111,Short Ton,561392
+735,4,Simplified,64,Long Ton,561563
+735,4,Simplified,111,Short Ton,561563
+16,4,Simplified,111,Short Ton,1079995
+21,4,Simplified,64,Long Ton,1079995
+9,4,Simplified,111,Short Ton,504678
+11,4,Simplified,64,Long Ton,504678
+15,4,Simplified,111,Short Ton,505190
+17,4,Simplified,64,Long Ton,505190
+13,4,Simplified,64,Long Ton,1031766
+10,4,Simplified,111,Short Ton,1031766
+13,4,Simplified,64,Long Ton,637332
+10,4,Simplified,111,Short Ton,637332
+7,4,Simplified,111,Short Ton,1064881
+9,4,Simplified,64,Long Ton,1064881
+11,4,Simplified,64,Long Ton,1101983
+9,4,Simplified,111,Short Ton,1101983
+6,4,Simplified,111,Short Ton,512092
+8,4,Simplified,64,Long Ton,512092
+5,4,Simplified,111,Short Ton,274333
+6,4,Simplified,64,Long Ton,274333
+18,4,Simplified,111,Short Ton,292728
+22,4,Simplified,64,Long Ton,292728
+14,4,Simplified,111,Short Ton,290780
+18,4,Simplified,64,Long Ton,290780
+13,4,Simplified,64,Long Ton,511777
+10,4,Simplified,111,Short Ton,511777
+7,4,Simplified,64,Long Ton,562018
+5,4,Simplified,111,Short Ton,562018
+11,4,Simplified,111,Short Ton,627551
+14,4,Simplified,64,Long Ton,627551
+5,4,Simplified,111,Short Ton,607281
+7,4,Simplified,64,Long Ton,607281
+44,4,Simplified,111,Short Ton,1029595
+56,4,Simplified,64,Long Ton,1029595
+10,4,Simplified,111,Short Ton,567911
+13,4,Simplified,64,Long Ton,567911
+79,4,Simplified,64,Long Ton,1218075
+63,4,Simplified,111,Short Ton,1218075
+16,4,Simplified,64,Long Ton,273292
+12,4,Simplified,111,Short Ton,273292
+19,4,Simplified,64,Long Ton,937470
+19,4,Simplified,111,Short Ton,937470
+12,4,Simplified,64,Long Ton,240322
+10,4,Simplified,111,Short Ton,240322
+54884,1,Convention (Subpart B),111,Short Ton,1057260
+141076,6,Displacement,75,Metric Ton,1057260
+94407,1,Convention (Subpart B),64,Long Ton,1057260
+108677,5,Dead Weight,75,Metric Ton,1057260
+823,4,Simplified,111,Short Ton,1119345
+823,4,Simplified,64,Long Ton,1119345
+10,4,Simplified,64,Long Ton,564788
+8,4,Simplified,111,Short Ton,564788
+12,4,Simplified,64,Long Ton,664965
+11,4,Simplified,111,Short Ton,664965
+20,4,Simplified,111,Short Ton,260969
+25,4,Simplified,64,Long Ton,260969
+11,4,Simplified,64,Long Ton,630587
+11,4,Simplified,111,Short Ton,630587
+11,4,Simplified,64,Long Ton,500995
+8,4,Simplified,111,Short Ton,500995
+3356,3,Regulatory (Subpart C or D),64,Long Ton,263106
+4450,5,Dead Weight,120,Ton,263106
+8,4,Simplified,111,Short Ton,290088
+10,4,Simplified,64,Long Ton,290088
+26,4,Simplified,111,Short Ton,614185
+33,4,Simplified,64,Long Ton,614185
+9,4,Simplified,64,Long Ton,624060
+8,4,Simplified,111,Short Ton,624060
+8,4,Simplified,64,Long Ton,624063
+8,4,Simplified,111,Short Ton,624063
+45,4,Simplified,64,Long Ton,628940
+36,4,Simplified,111,Short Ton,628940
+15,4,Simplified,111,Short Ton,641552
+19,4,Simplified,64,Long Ton,641552
+20,4,Simplified,64,Long Ton,272142
+16,4,Simplified,111,Short Ton,272142
+17,4,Simplified,111,Short Ton,567019
+21,4,Simplified,64,Long Ton,567019
+3,3,Regulatory (Subpart C or D),111,Short Ton,503299
+4,3,Regulatory (Subpart C or D),64,Long Ton,503299
+4,4,Simplified,64,Long Ton,594624
+11,4,Simplified,64,Long Ton,1195396
+9,4,Simplified,111,Short Ton,1195396
+8,4,Simplified,64,Long Ton,294128
+7,4,Simplified,111,Short Ton,294128
+12,4,Simplified,64,Long Ton,664965
+11,4,Simplified,111,Short Ton,664965
+28369,3,Regulatory (Subpart C or D),111,Short Ton,1
+50350,1,Convention (Subpart B),111,Short Ton,1
+28369,3,Regulatory (Subpart C or D),64,Long Ton,1
+50350,1,Convention (Subpart B),64,Long Ton,1
+59093,5,Dead Weight,120,Ton,1
+15,4,Simplified,64,Long Ton,1204988
+12,4,Simplified,111,Short Ton,1204988
+9,4,Simplified,111,Short Ton,1231312
+10,4,Simplified,64,Long Ton,1231312
+11,4,Simplified,64,Long Ton,616791
+10,4,Simplified,111,Short Ton,616791
+12,4,Simplified,64,Long Ton,509787
+11,4,Simplified,111,Short Ton,509787
+211,4,Simplified,111,Short Ton,503553
+211,4,Simplified,64,Long Ton,503553
+235,4,Simplified,111,Short Ton,503554
+235,4,Simplified,64,Long Ton,503554
+1619,4,Simplified,111,Short Ton,512469
+1619,4,Simplified,64,Long Ton,512469
+28,4,Simplified,64,Long Ton,699752
+25,4,Simplified,111,Short Ton,699752
+68570,1,Convention (Subpart B),64,Long Ton,968392
+25418,1,Convention (Subpart B),111,Short Ton,968392
+71283,5,Dead Weight,120,Ton,968392
+95660,6,Displacement,120,Ton,968392
+14,4,Simplified,64,Long Ton,1117379
+11,4,Simplified,111,Short Ton,1117379
+71,4,Simplified,111,Short Ton,250344
+89,4,Simplified,64,Long Ton,250344
+65,4,Simplified,111,Short Ton,638556
+82,4,Simplified,64,Long Ton,638556
+14,4,Simplified,64,Long Ton,1108544
+11,4,Simplified,111,Short Ton,1108544
+14,4,Simplified,64,Long Ton,1117379
+11,4,Simplified,111,Short Ton,1117379
+19,4,Simplified,111,Short Ton,273675
+24,4,Simplified,64,Long Ton,273675
+276,4,Simplified,111,Short Ton,647139
+276,4,Simplified,64,Long Ton,647139
+764,4,Simplified,64,Long Ton,1222454
+764,4,Simplified,111,Short Ton,1222454
+8643,5,Dead Weight,75,Metric Ton,1228548
+13317,6,Displacement,75,Metric Ton,1228548
+2403,1,Convention (Subpart B),111,Short Ton,1228548
+8009,1,Convention (Subpart B),64,Long Ton,1228548
+5,4,Simplified,111,Short Ton,671641
+5,4,Simplified,64,Long Ton,671641
+8,4,Simplified,111,Short Ton,290088
+10,4,Simplified,64,Long Ton,290088
+28,4,Simplified,111,Short Ton,503329
+31,4,Simplified,64,Long Ton,503329
+9530,3,Regulatory (Subpart C or D),111,Short Ton,224455
+16342,3,Regulatory (Subpart C or D),64,Long Ton,224455
+26998,5,Dead Weight,120,Ton,224455
+23,4,Simplified,111,Short Ton,279032
+29,4,Simplified,64,Long Ton,279032
+46180,5,Dead Weight,75,Metric Ton,1106129
+56661,6,Displacement,75,Metric Ton,1106129
+29657,1,Convention (Subpart B),64,Long Ton,1106129
+12287,1,Convention (Subpart B),111,Short Ton,1106129
+9,4,Simplified,64,Long Ton,606669
+7,4,Simplified,111,Short Ton,606669
+15,4,Simplified,64,Long Ton,619403
+12,4,Simplified,111,Short Ton,619403
+15,4,Simplified,64,Long Ton,630137
+12,4,Simplified,111,Short Ton,630137
+10108,1,Convention (Subpart B),111,Short Ton,1108091
+17019,1,Convention (Subpart B),64,Long Ton,1108091
+28219,5,Dead Weight,120,Ton,1108091
+34753,6,Displacement,120,Ton,1108091
+14,4,Simplified,111,Short Ton,614262
+18,4,Simplified,64,Long Ton,614262
+44673,1,Convention (Subpart B),64,Long Ton,624103
+44673,3,Regulatory (Subpart C or D),64,Long Ton,624103
+49996,5,Dead Weight,75,Metric Ton,624103
+67629,6,Displacement,75,Metric Ton,624103
+13402,1,Convention (Subpart B),111,Short Ton,624103
+21,4,Simplified,111,Short Ton,507367
+26,4,Simplified,64,Long Ton,507367
+5,4,Simplified,111,Short Ton,274333
+6,4,Simplified,64,Long Ton,274333
+28369,3,Regulatory (Subpart C or D),111,Short Ton,1
+50350,1,Convention (Subpart B),111,Short Ton,1
+28369,3,Regulatory (Subpart C or D),64,Long Ton,1
+50350,1,Convention (Subpart B),64,Long Ton,1
+59093,5,Dead Weight,120,Ton,1
+20,4,Simplified,111,Short Ton,503877
+25,4,Simplified,64,Long Ton,503877
+764,4,Simplified,111,Short Ton,1065234
+764,4,Simplified,64,Long Ton,1065234
+7,4,Simplified,111,Short Ton,647184
+9,4,Simplified,64,Long Ton,647184
+30,4,Simplified,64,Long Ton,643657
+24,4,Simplified,111,Short Ton,643657
+69,4,Simplified,111,Short Ton,512342
+87,4,Simplified,64,Long Ton,512342
+7,4,Simplified,111,Short Ton,588466
+8,4,Simplified,64,Long Ton,588466
+147,3,Regulatory (Subpart C or D),64,Long Ton,288198
+100,3,Regulatory (Subpart C or D),111,Short Ton,288198
+7,4,Simplified,111,Short Ton,270272
+9,4,Simplified,64,Long Ton,270272
+20,4,Simplified,111,Short Ton,655630
+25,4,Simplified,64,Long Ton,655630
+23,4,Simplified,64,Long Ton,272950
+18,4,Simplified,111,Short Ton,272950
+25,4,Simplified,64,Long Ton,272165
+20,4,Simplified,111,Short Ton,272165
+5,4,Simplified,111,Short Ton,214670
+6,4,Simplified,64,Long Ton,214670
+10,4,Simplified,111,Short Ton,587272
+11,4,Simplified,64,Long Ton,587272
+20,4,Simplified,64,Long Ton,505863
+16,4,Simplified,111,Short Ton,505863
+1998,3,Regulatory (Subpart C or D),111,Short Ton,277557
+5602,5,Dead Weight,120,Ton,277557
+5707,3,Regulatory (Subpart C or D),64,Long Ton,277557
+31,4,Simplified,111,Short Ton,569720
+39,4,Simplified,64,Long Ton,569720
+8,4,Simplified,64,Long Ton,285106
+7,4,Simplified,111,Short Ton,285106
+8,4,Simplified,64,Long Ton,287131
+7,4,Simplified,111,Short Ton,287131
+14,4,Simplified,64,Long Ton,989820
+11,4,Simplified,111,Short Ton,989820
+10,4,Simplified,64,Long Ton,253895
+8,4,Simplified,111,Short Ton,253895
+5,4,Simplified,111,Short Ton,470029
+7,4,Simplified,64,Long Ton,470029
+18,4,Simplified,64,Long Ton,643918
+15,4,Simplified,111,Short Ton,643918
+7,4,Simplified,111,Short Ton,512111
+7,4,Simplified,64,Long Ton,512111
+6,4,Simplified,111,Short Ton,276627
+8,4,Simplified,64,Long Ton,276627
+1998,3,Regulatory (Subpart C or D),111,Short Ton,277557
+5602,5,Dead Weight,120,Ton,277557
+5707,3,Regulatory (Subpart C or D),64,Long Ton,277557
+169,3,Regulatory (Subpart C or D),64,Long Ton,284059
+124,3,Regulatory (Subpart C or D),111,Short Ton,284059
+11,4,Simplified,64,Long Ton,574610
+9,4,Simplified,111,Short Ton,574610
+25,4,Simplified,64,Long Ton,272165
+20,4,Simplified,111,Short Ton,272165
+12,4,Simplified,111,Short Ton,993976
+15,4,Simplified,64,Long Ton,993976
+24,4,Simplified,64,Long Ton,1124058
+22,4,Simplified,111,Short Ton,1124058
+7,4,Simplified,111,Short Ton,1228525
+9,4,Simplified,64,Long Ton,1228525
+20,4,Simplified,64,Long Ton,680357
+16,4,Simplified,111,Short Ton,680357
+8,4,Simplified,64,Long Ton,967592
+6,4,Simplified,111,Short Ton,967592
+18070,1,Convention (Subpart B),111,Short Ton,1226412
+53533,5,Dead Weight,75,Metric Ton,1226412
+65095,6,Displacement,75,Metric Ton,1226412
+32637,1,Convention (Subpart B),64,Long Ton,1226412
+28,4,Simplified,64,Long Ton,990993
+22,4,Simplified,111,Short Ton,990993
+31,4,Simplified,64,Long Ton,509915
+24,4,Simplified,111,Short Ton,509915
+10,4,Simplified,64,Long Ton,1225510
+10,4,Simplified,111,Short Ton,1225510
+20,4,Simplified,111,Short Ton,503877
+25,4,Simplified,64,Long Ton,503877
+7,4,Simplified,111,Short Ton,1198217
+9,4,Simplified,64,Long Ton,1198217
+9,3,Regulatory (Subpart C or D),111,Short Ton,299166
+11,3,Regulatory (Subpart C or D),64,Long Ton,299166
+15,4,Simplified,64,Long Ton,271784
+12,4,Simplified,111,Short Ton,271784
+32712,1,Convention (Subpart B),64,Long Ton,1214916
+32712,4,Simplified,64,Long Ton,1214916
+18563,4,Simplified,111,Short Ton,1214916
+16,4,Simplified,111,Short Ton,647390
+18,4,Simplified,64,Long Ton,647390
+22,4,Simplified,111,Short Ton,1226459
+27,4,Simplified,64,Long Ton,1226459
+296,3,Regulatory (Subpart C or D),64,Long Ton,229004
+1077,1,Convention (Subpart B),64,Long Ton,229004
+202,3,Regulatory (Subpart C or D),111,Short Ton,229004
+323,1,Convention (Subpart B),111,Short Ton,229004
+15,4,Simplified,111,Short Ton,505190
+17,4,Simplified,64,Long Ton,505190
+17,4,Simplified,111,Short Ton,567019
+21,4,Simplified,64,Long Ton,567019
+17,4,Simplified,64,Long Ton,293607
+16,4,Simplified,111,Short Ton,293607
+9,3,Regulatory (Subpart C or D),111,Short Ton,299166
+11,3,Regulatory (Subpart C or D),64,Long Ton,299166
+118,1,Convention (Subpart B),64,Long Ton,500523
+35,1,Convention (Subpart B),111,Short Ton,500523
+11,4,Simplified,64,Long Ton,1223249
+11,4,Simplified,111,Short Ton,1223249
+716,4,Simplified,64,Long Ton,505721
+716,4,Simplified,111,Short Ton,505721
+50895,5,Dead Weight,75,Metric Ton,1159001
+61327,6,Displacement,75,Metric Ton,1159001
+13613,1,Convention (Subpart B),111,Short Ton,1159001
+29814,1,Convention (Subpart B),64,Long Ton,1159001
+21,4,Simplified,64,Long Ton,630222
+17,4,Simplified,111,Short Ton,630222
+54,4,Simplified,111,Short Ton,566831
+68,4,Simplified,64,Long Ton,566831
+7,4,Simplified,64,Long Ton,671291
+6,4,Simplified,111,Short Ton,671291
+9,4,Simplified,111,Short Ton,135
+11,4,Simplified,64,Long Ton,135
+7,4,Simplified,111,Short Ton,512081
+8,4,Simplified,64,Long Ton,512081
+13,4,Simplified,111,Short Ton,279030
+14,4,Simplified,64,Long Ton,279030
+12,4,Simplified,64,Long Ton,643366
+9,4,Simplified,111,Short Ton,643366
+14,4,Simplified,64,Long Ton,1208454
+11,4,Simplified,111,Short Ton,1208454
+10411,3,Regulatory (Subpart C or D),111,Short Ton,274839
+31016,5,Dead Weight,120,Ton,274839
+18249,3,Regulatory (Subpart C or D),64,Long Ton,274839
+14,4,Simplified,64,Long Ton,241248
+11,4,Simplified,111,Short Ton,241248
+17136,1,Convention (Subpart B),64,Long Ton,961681
+8917,1,Convention (Subpart B),111,Short Ton,961681
+33190,6,Displacement,120,Ton,961681
+26520,5,Dead Weight,120,Ton,961681
+159981,5,Dead Weight,120,Ton,565797
+83616,3,Regulatory (Subpart C or D),64,Long Ton,565797
+83616,1,Convention (Subpart B),64,Long Ton,565797
+48679,1,Convention (Subpart B),111,Short Ton,565797
+48679,3,Regulatory (Subpart C or D),111,Short Ton,565797
+65,4,Simplified,111,Short Ton,680231
+82,4,Simplified,64,Long Ton,680231
+24,4,Simplified,111,Short Ton,680234
+30,4,Simplified,64,Long Ton,680234
+25,4,Simplified,64,Long Ton,287829
+20,4,Simplified,111,Short Ton,287829
+5,4,Simplified,111,Short Ton,1231040
+5,4,Simplified,64,Long Ton,1231040
+13,4,Simplified,111,Short Ton,274942
+17,4,Simplified,64,Long Ton,274942
+13,4,Simplified,111,Short Ton,274942
+17,4,Simplified,64,Long Ton,274942
+10,4,Simplified,64,Long Ton,507015
+9,4,Simplified,111,Short Ton,507015
+81285,5,Dead Weight,75,Metric Ton,1223373
+95128,6,Displacement,75,Metric Ton,1223373
+27662,1,Convention (Subpart B),111,Short Ton,1223373
+43990,1,Convention (Subpart B),64,Long Ton,1223373
+29499,1,Convention (Subpart B),64,Long Ton,636187
+17889,1,Convention (Subpart B),111,Short Ton,636187
+52064,5,Dead Weight,120,Ton,636187
+60531,6,Displacement,120,Ton,636187
+5,4,Simplified,111,Short Ton,1064846
+5,4,Simplified,64,Long Ton,1064846
+31,4,Simplified,64,Long Ton,629754
+24,4,Simplified,111,Short Ton,629754
+3,4,Simplified,64,Long Ton,572916
+3,4,Simplified,111,Short Ton,572916
+15,4,Simplified,111,Short Ton,651185
+18,4,Simplified,64,Long Ton,651185
+21,4,Simplified,64,Long Ton,990467
+17,4,Simplified,111,Short Ton,990467
+15,4,Simplified,111,Short Ton,1168245
+19,4,Simplified,64,Long Ton,1168245
+74,4,Simplified,64,Long Ton,564341
+59,4,Simplified,111,Short Ton,564341
+7,4,Simplified,111,Short Ton,261329
+8,4,Simplified,64,Long Ton,261329
+672,4,Simplified,64,Long Ton,273238
+672,4,Simplified,111,Short Ton,273238
+12,4,Simplified,111,Short Ton,275049
+15,4,Simplified,64,Long Ton,275049
+6,4,Simplified,64,Long Ton,1235070
+5,4,Simplified,111,Short Ton,1235070
+8,4,Simplified,64,Long Ton,251877
+7,4,Simplified,111,Short Ton,251877
+31,4,Simplified,64,Long Ton,629754
+24,4,Simplified,111,Short Ton,629754
+745,4,Simplified,111,Short Ton,1229342
+745,4,Simplified,64,Long Ton,1229342
+11,4,Simplified,111,Short Ton,292153
+14,4,Simplified,64,Long Ton,292153
+12,4,Simplified,64,Long Ton,998330
+10,4,Simplified,111,Short Ton,998330
+8,4,Simplified,64,Long Ton,251877
+7,4,Simplified,111,Short Ton,251877
+8,4,Simplified,111,Short Ton,1239202
+8,4,Simplified,64,Long Ton,1239202
+12,4,Simplified,111,Short Ton,582430
+15,4,Simplified,64,Long Ton,582430
+22,4,Simplified,111,Short Ton,290076
+28,4,Simplified,64,Long Ton,290076
+32,4,Simplified,64,Long Ton,561963
+26,4,Simplified,111,Short Ton,561963
+27,4,Simplified,64,Long Ton,1233867
+22,4,Simplified,111,Short Ton,1233867
+9,4,Simplified,111,Short Ton,278650
+10,4,Simplified,64,Long Ton,278650
+10,4,Simplified,111,Short Ton,512604
+13,4,Simplified,64,Long Ton,512604
+19,4,Simplified,64,Long Ton,955889
+15,4,Simplified,111,Short Ton,955889
+9,4,Simplified,111,Short Ton,236505
+10,4,Simplified,64,Long Ton,236505
+6326,1,Convention (Subpart B),111,Short Ton,975597
+19701,5,Dead Weight,120,Ton,975597
+25180,6,Displacement,120,Ton,975597
+11645,1,Convention (Subpart B),64,Long Ton,975597
+14,4,Simplified,111,Short Ton,292626
+14,4,Simplified,64,Long Ton,292626
+33,4,Simplified,64,Long Ton,562688
+26,4,Simplified,111,Short Ton,562688
+7,4,Simplified,64,Long Ton,1186714
+6,4,Simplified,111,Short Ton,1186714
+22,4,Simplified,64,Long Ton,575929
+17,4,Simplified,111,Short Ton,575929
+25,4,Simplified,64,Long Ton,287829
+20,4,Simplified,111,Short Ton,287829
+11,4,Simplified,111,Short Ton,503918
+13,4,Simplified,64,Long Ton,503918
+14,4,Simplified,64,Long Ton,617985
+11,4,Simplified,111,Short Ton,617985
+7,4,Simplified,64,Long Ton,1063768
+6,4,Simplified,111,Short Ton,1063768
+8,4,Simplified,64,Long Ton,561392
+6,4,Simplified,111,Short Ton,561392
+15,4,Simplified,111,Short Ton,278780
+16,4,Simplified,64,Long Ton,278780
+7,4,Simplified,111,Short Ton,1174301
+7,4,Simplified,64,Long Ton,1174301
+6,4,Simplified,111,Short Ton,265184
+7,4,Simplified,64,Long Ton,265184
+14,4,Simplified,64,Long Ton,606075
+11,4,Simplified,111,Short Ton,606075
+31,4,Simplified,64,Long Ton,630586
+25,4,Simplified,111,Short Ton,630586
+6,4,Simplified,111,Short Ton,1225582
+7,4,Simplified,64,Long Ton,1225582
+31,4,Simplified,64,Long Ton,629754
+24,4,Simplified,111,Short Ton,629754
+745,4,Simplified,111,Short Ton,1229342
+745,4,Simplified,64,Long Ton,1229342
+8,3,Regulatory (Subpart C or D),111,Short Ton,96044
+10,3,Regulatory (Subpart C or D),64,Long Ton,96044
+26,4,Simplified,111,Short Ton,261152
+29,4,Simplified,64,Long Ton,261152
+6,4,Simplified,111,Short Ton,586350
+7,4,Simplified,64,Long Ton,586350
+33,4,Simplified,64,Long Ton,562688
+26,4,Simplified,111,Short Ton,562688
+20,4,Simplified,111,Short Ton,567988
+26,4,Simplified,64,Long Ton,567988
+802,1,Convention (Subpart B),64,Long Ton,1053010
+19,4,Simplified,111,Short Ton,1114113
+21,4,Simplified,64,Long Ton,1114113
+7,4,Simplified,111,Short Ton,596450
+9,4,Simplified,64,Long Ton,596450
+10,4,Simplified,64,Long Ton,565395
+9,4,Simplified,111,Short Ton,565395
+89000,5,Dead Weight,120,Ton,508468
+48937,4,Simplified,64,Long Ton,508468
+28041,4,Simplified,111,Short Ton,508468
+35,4,Simplified,111,Short Ton,586641
+44,4,Simplified,64,Long Ton,586641
+9,4,Simplified,64,Long Ton,287746
+7,4,Simplified,111,Short Ton,287746
+9,4,Simplified,64,Long Ton,577889
+7,4,Simplified,111,Short Ton,577889
+29,4,Simplified,111,Short Ton,289740
+36,4,Simplified,64,Long Ton,289740
+25,4,Simplified,64,Long Ton,272165
+20,4,Simplified,111,Short Ton,272165
+15,4,Simplified,64,Long Ton,1218299
+12,4,Simplified,111,Short Ton,1218299
+8,4,Simplified,64,Long Ton,272878
+7,4,Simplified,111,Short Ton,272878
+5,4,Simplified,64,Long Ton,1242437
+5,4,Simplified,111,Short Ton,1242437
+9,4,Simplified,64,Long Ton,501953
+7,4,Simplified,111,Short Ton,501953
+26,4,Simplified,111,Short Ton,1074455
+33,4,Simplified,64,Long Ton,1074455
+9,4,Simplified,111,Short Ton,1180461
+11,4,Simplified,64,Long Ton,1180461
+20,4,Simplified,64,Long Ton,600552
+18,4,Simplified,111,Short Ton,600552
+11,4,Simplified,111,Short Ton,615231
+11,4,Simplified,64,Long Ton,615231
+6,4,Simplified,111,Short Ton,1093857
+7,4,Simplified,64,Long Ton,1093857
+13,4,Simplified,64,Long Ton,1224269
+10,4,Simplified,111,Short Ton,1224269
+9,3,Regulatory (Subpart C or D),111,Short Ton,176216
+10,3,Regulatory (Subpart C or D),64,Long Ton,176216
+764,4,Simplified,64,Long Ton,1222454
+764,4,Simplified,111,Short Ton,1222454
+25,4,Simplified,64,Long Ton,272258
+23,4,Simplified,111,Short Ton,272258
+15,4,Simplified,111,Short Ton,278780
+16,4,Simplified,64,Long Ton,278780
+10,4,Simplified,64,Long Ton,628923
+8,4,Simplified,111,Short Ton,628923
+70,4,Simplified,111,Short Ton,641764
+88,4,Simplified,64,Long Ton,641764
+20763,1,Convention (Subpart B),64,Long Ton,1115792
+41799,6,Displacement,120,Ton,1115792
+33270,5,Dead Weight,120,Ton,1115792
+11627,1,Convention (Subpart B),111,Short Ton,1115792
+11,4,Simplified,64,Long Ton,293828
+8,4,Simplified,111,Short Ton,293828
+7,4,Simplified,111,Short Ton,270272
+9,4,Simplified,64,Long Ton,270272
+6,4,Simplified,64,Long Ton,625680
+5,4,Simplified,111,Short Ton,625680
+5,4,Simplified,111,Short Ton,638122
+6,4,Simplified,64,Long Ton,638122
+940,4,Simplified,111,Short Ton,1227265
+940,4,Simplified,64,Long Ton,1227265
+58065,5,Dead Weight,120,Ton,1238092
+67802,6,Displacement,120,Ton,1238092
+19458,1,Convention (Subpart B),111,Short Ton,1238092
+32319,1,Convention (Subpart B),64,Long Ton,1238092
+7,4,Simplified,64,Long Ton,1234051
+6,4,Simplified,111,Short Ton,1234051
+16,4,Simplified,64,Long Ton,562640
+12,4,Simplified,111,Short Ton,562640
+14,4,Simplified,64,Long Ton,1207518
+12,4,Simplified,111,Short Ton,1207518
+17,4,Simplified,64,Long Ton,561721
+14,4,Simplified,111,Short Ton,561721
+9,4,Simplified,111,Short Ton,279288
+10,4,Simplified,64,Long Ton,279288
+9,4,Simplified,111,Short Ton,502672
+11,4,Simplified,64,Long Ton,502672
+764,4,Simplified,111,Short Ton,996854
+764,4,Simplified,64,Long Ton,996854
+6,4,Simplified,64,Long Ton,625680
+5,4,Simplified,111,Short Ton,625680
+7,4,Simplified,64,Long Ton,665826
+6,4,Simplified,111,Short Ton,665826
+19,4,Simplified,111,Short Ton,4110
+23,4,Simplified,64,Long Ton,4110
+14,4,Simplified,64,Long Ton,617087
+11,4,Simplified,111,Short Ton,617087
+21,4,Simplified,111,Short Ton,264738
+26,4,Simplified,64,Long Ton,264738
+46180,5,Dead Weight,75,Metric Ton,1106129
+56661,6,Displacement,75,Metric Ton,1106129
+29657,1,Convention (Subpart B),64,Long Ton,1106129
+12287,1,Convention (Subpart B),111,Short Ton,1106129
+28,4,Simplified,64,Long Ton,1085704
+22,4,Simplified,111,Short Ton,1085704
+19,4,Simplified,111,Short Ton,273675
+24,4,Simplified,64,Long Ton,273675
+11,4,Simplified,64,Long Ton,965975
+9,4,Simplified,111,Short Ton,965975
+13,4,Simplified,111,Short Ton,274942
+17,4,Simplified,64,Long Ton,274942
+13,4,Simplified,64,Long Ton,1116556
+10,4,Simplified,111,Short Ton,1116556
+1619,4,Simplified,111,Short Ton,1249583
+1619,4,Simplified,64,Long Ton,1249583
+10,4,Simplified,64,Long Ton,575031
+9,4,Simplified,111,Short Ton,575031
+18,4,Simplified,111,Short Ton,1226425
+22,4,Simplified,64,Long Ton,1226425
+6,4,Simplified,64,Long Ton,510479
+6,4,Simplified,111,Short Ton,510479
+823,4,Simplified,111,Short Ton,511044
+823,4,Simplified,64,Long Ton,511044
+453,3,Regulatory (Subpart C or D),64,Long Ton,222221
+265,3,Regulatory (Subpart C or D),111,Short Ton,222221
+1044,5,Dead Weight,120,Ton,222221
+764,4,Simplified,111,Short Ton,19
+764,4,Simplified,64,Long Ton,19
+5,4,Simplified,111,Short Ton,276940
+5,4,Simplified,64,Long Ton,276940
+745,4,Simplified,111,Short Ton,501564
+745,4,Simplified,64,Long Ton,501564
+12,4,Simplified,111,Short Ton,289724
+15,4,Simplified,64,Long Ton,289724
+2161,1,Convention (Subpart B),64,Long Ton,1224866
+648,1,Convention (Subpart B),111,Short Ton,1224866
+10,4,Simplified,111,Short Ton,505166
+13,4,Simplified,64,Long Ton,505166
+24,4,Simplified,111,Short Ton,1198216
+30,4,Simplified,64,Long Ton,1198216
+21,4,Simplified,111,Short Ton,641814
+27,4,Simplified,64,Long Ton,641814
+15,4,Simplified,64,Long Ton,510471
+12,4,Simplified,111,Short Ton,510471
+15,4,Simplified,64,Long Ton,665626
+12,4,Simplified,111,Short Ton,665626
+15,4,Simplified,111,Short Ton,511120
+16,4,Simplified,64,Long Ton,511120
+11,4,Simplified,64,Long Ton,293828
+8,4,Simplified,111,Short Ton,293828
+3144,5,Dead Weight,75,Metric Ton,1215995
+4860,1,Convention (Subpart B),64,Long Ton,1215995
+774,6,Displacement,120,Ton,1215995
+12,4,Simplified,64,Long Ton,264464
+11,4,Simplified,111,Short Ton,264464
+19,3,Regulatory (Subpart C or D),111,Short Ton,295974
+28,3,Regulatory (Subpart C or D),64,Long Ton,295974
+12,4,Simplified,111,Short Ton,981672
+15,4,Simplified,64,Long Ton,981672
+8,4,Simplified,64,Long Ton,285106
+7,4,Simplified,111,Short Ton,285106
+10,4,Simplified,111,Short Ton,588434
+11,4,Simplified,64,Long Ton,588434
+159981,5,Dead Weight,120,Ton,565797
+83616,3,Regulatory (Subpart C or D),64,Long Ton,565797
+83616,1,Convention (Subpart B),64,Long Ton,565797
+48679,1,Convention (Subpart B),111,Short Ton,565797
+48679,3,Regulatory (Subpart C or D),111,Short Ton,565797
+14,4,Simplified,111,Short Ton,626682
+16,4,Simplified,64,Long Ton,626682
+245,4,Simplified,64,Long Ton,287108
+245,4,Simplified,111,Short Ton,287108
+20,4,Simplified,64,Long Ton,621149
+16,4,Simplified,111,Short Ton,621149
+33,4,Simplified,111,Short Ton,569742
+42,4,Simplified,64,Long Ton,569742
+9,4,Simplified,64,Long Ton,1071022
+7,4,Simplified,111,Short Ton,1071022
+7,4,Simplified,111,Short Ton,596450
+9,4,Simplified,64,Long Ton,596450
+35283,5,Dead Weight,120,Ton,1048318
+44731,6,Displacement,120,Ton,1048318
+12019,1,Convention (Subpart B),111,Short Ton,1048318
+22402,1,Convention (Subpart B),64,Long Ton,1048318
+745,4,Simplified,111,Short Ton,1150430
+745,4,Simplified,64,Long Ton,1150430
+764,4,Simplified,64,Long Ton,1218170
+764,4,Simplified,111,Short Ton,1218170
+17,4,Simplified,111,Short Ton,568268
+21,4,Simplified,64,Long Ton,568268
+5,4,Simplified,111,Short Ton,274333
+6,4,Simplified,64,Long Ton,274333
+13,4,Simplified,111,Short Ton,586978
+15,4,Simplified,64,Long Ton,586978
+30,4,Simplified,111,Short Ton,505538
+38,4,Simplified,64,Long Ton,505538
+22,4,Simplified,111,Short Ton,567959
+28,4,Simplified,64,Long Ton,567959
+82,4,Simplified,111,Short Ton,243406
+102,4,Simplified,64,Long Ton,243406
+16,4,Simplified,64,Long Ton,291793
+14,4,Simplified,111,Short Ton,291793
+15,4,Simplified,111,Short Ton,511120
+16,4,Simplified,64,Long Ton,511120
+17,4,Simplified,64,Long Ton,288919
+13,4,Simplified,111,Short Ton,288919
+12,4,Simplified,111,Short Ton,645654
+16,4,Simplified,64,Long Ton,645654
+159981,5,Dead Weight,120,Ton,565797
+83616,3,Regulatory (Subpart C or D),64,Long Ton,565797
+83616,1,Convention (Subpart B),64,Long Ton,565797
+48679,1,Convention (Subpart B),111,Short Ton,565797
+48679,3,Regulatory (Subpart C or D),111,Short Ton,565797
+13,4,Simplified,111,Short Ton,659953
+17,4,Simplified,64,Long Ton,659953
+12,4,Simplified,111,Short Ton,507384
+15,4,Simplified,64,Long Ton,507384
+11,4,Simplified,64,Long Ton,293828
+8,4,Simplified,111,Short Ton,293828
+236,1,Convention (Subpart B),64,Long Ton,1224873
+70,1,Convention (Subpart B),111,Short Ton,1224873
+25,4,Simplified,64,Long Ton,272165
+20,4,Simplified,111,Short Ton,272165
+22,4,Simplified,111,Short Ton,275615
+28,4,Simplified,64,Long Ton,275615
+14,4,Simplified,111,Short Ton,566997
+18,4,Simplified,64,Long Ton,566997
+49,4,Simplified,111,Short Ton,501747
+61,4,Simplified,64,Long Ton,501747
+21,4,Simplified,111,Short Ton,264738
+26,4,Simplified,64,Long Ton,264738
+33,4,Simplified,64,Long Ton,562688
+26,4,Simplified,111,Short Ton,562688
+154,1,Convention (Subpart B),111,Short Ton,615683
+62,3,Regulatory (Subpart C or D),111,Short Ton,615683
+369,1,Convention (Subpart B),64,Long Ton,615683
+92,3,Regulatory (Subpart C or D),64,Long Ton,615683
+17178,3,Regulatory (Subpart C or D),111,Short Ton,1099732
+47046,1,Convention (Subpart B),64,Long Ton,1099732
+47046,3,Regulatory (Subpart C or D),64,Long Ton,1099732
+17178,1,Convention (Subpart B),111,Short Ton,1099732
+58591,5,Dead Weight,120,Ton,1099732
+77523,6,Displacement,120,Ton,1099732
+5,4,Simplified,111,Short Ton,1231040
+5,4,Simplified,64,Long Ton,1231040
+11,4,Simplified,111,Short Ton,206972
+14,4,Simplified,64,Long Ton,206972
+51,4,Simplified,111,Short Ton,211746
+64,4,Simplified,64,Long Ton,211746
+17,4,Simplified,64,Long Ton,506693
+13,4,Simplified,111,Short Ton,506693
+10,4,Simplified,64,Long Ton,1095398
+10,1,Convention (Subpart B),64,Long Ton,1095398
+7,1,Convention (Subpart B),111,Short Ton,1095398
+7,4,Simplified,111,Short Ton,1095398
+11,4,Simplified,64,Long Ton,500995
+8,4,Simplified,111,Short Ton,500995
+142,4,Simplified,64,Long Ton,1054933
+24,4,Simplified,111,Short Ton,1230075
+30,4,Simplified,64,Long Ton,1230075
+6,4,Simplified,111,Short Ton,501619
+7,4,Simplified,64,Long Ton,501619
+12,4,Simplified,111,Short Ton,516632
+15,4,Simplified,64,Long Ton,516632
+11,4,Simplified,64,Long Ton,500995
+8,4,Simplified,111,Short Ton,500995
+7,4,Simplified,111,Short Ton,270272
+9,4,Simplified,64,Long Ton,270272
+9,4,Simplified,111,Short Ton,501068
+11,4,Simplified,64,Long Ton,501068
+9,4,Simplified,111,Short Ton,668036
+9,4,Simplified,64,Long Ton,668036
+34,4,Simplified,111,Short Ton,1054844
+43,4,Simplified,64,Long Ton,1054844
+802,4,Simplified,111,Short Ton,1059905
+802,4,Simplified,64,Long Ton,1059905
+18,4,Simplified,111,Short Ton,1052208
+23,4,Simplified,64,Long Ton,1052208
+56828,1,Convention (Subpart B),111,Short Ton,1099653
+88944,1,Convention (Subpart B),64,Long Ton,1099653
+169831,5,Dead Weight,75,Metric Ton,1099653
+194189,6,Displacement,75,Metric Ton,1099653
+30068,1,Convention (Subpart B),64,Long Ton,989833
+13648,1,Convention (Subpart B),111,Short Ton,989833
+49805,5,Dead Weight,75,Metric Ton,989833
+60033,6,Displacement,75,Metric Ton,989833
+83,4,Simplified,111,Short Ton,586904
+104,4,Simplified,64,Long Ton,586904
+17,4,Simplified,111,Short Ton,567019
+21,4,Simplified,64,Long Ton,567019
+5,4,Simplified,111,Short Ton,1251936
+6,4,Simplified,64,Long Ton,1251936
+33,4,Simplified,111,Short Ton,501625
+41,4,Simplified,64,Long Ton,501625
+7,4,Simplified,64,Long Ton,284446
+5,4,Simplified,111,Short Ton,284446
+14436,3,Regulatory (Subpart C or D),111,Short Ton,612974
+15694,5,Dead Weight,120,Ton,612974
+23800,6,Displacement,120,Ton,612974
+23255,3,Regulatory (Subpart C or D),64,Long Ton,612974
+35,4,Simplified,64,Long Ton,1109839
+28,4,Simplified,111,Short Ton,1109839
+9,4,Simplified,111,Short Ton,507264
+12,4,Simplified,64,Long Ton,507264
+33,4,Simplified,64,Long Ton,562688
+26,4,Simplified,111,Short Ton,562688
+19,3,Regulatory (Subpart C or D),64,Long Ton,266552
+12,3,Regulatory (Subpart C or D),111,Short Ton,266552
+13,4,Simplified,64,Long Ton,1116940
+11,4,Simplified,111,Short Ton,1116940
+10,4,Simplified,111,Short Ton,595875
+12,4,Simplified,64,Long Ton,595875
+12,4,Simplified,64,Long Ton,240322
+10,4,Simplified,111,Short Ton,240322
+6,4,Simplified,64,Long Ton,968063
+5,4,Simplified,111,Short Ton,968063
+28,4,Simplified,111,Short Ton,1054885
+35,4,Simplified,64,Long Ton,1054885
+18070,1,Convention (Subpart B),111,Short Ton,1228603
+53481,5,Dead Weight,75,Metric Ton,1228603
+32637,6,Displacement,75,Metric Ton,1228603
+32637,1,Convention (Subpart B),64,Long Ton,1228603
+802,4,Simplified,111,Short Ton,1059897
+802,4,Simplified,64,Long Ton,1059897
+10,4,Simplified,111,Short Ton,626849
+12,4,Simplified,64,Long Ton,626849
+7,4,Simplified,64,Long Ton,1218873
+6,4,Simplified,111,Short Ton,1218873
+14,4,Simplified,111,Short Ton,1052048
+14,4,Simplified,64,Long Ton,1052048
+15,4,Simplified,111,Short Ton,511120
+16,4,Simplified,64,Long Ton,511120
+18,4,Simplified,111,Short Ton,1226425
+22,4,Simplified,64,Long Ton,1226425
+38,4,Simplified,64,Long Ton,1244349
+31,4,Simplified,111,Short Ton,1244349
+8,4,Simplified,64,Long Ton,581300
+6,4,Simplified,111,Short Ton,581300
+9,4,Simplified,111,Short Ton,1058066
+11,4,Simplified,64,Long Ton,1058066
+20,4,Simplified,111,Short Ton,503877
+25,4,Simplified,64,Long Ton,503877
+29,4,Simplified,111,Short Ton,299649
+36,4,Simplified,64,Long Ton,299649
+7,4,Simplified,64,Long Ton,665826
+6,4,Simplified,111,Short Ton,665826
+7,4,Simplified,64,Long Ton,630477
+6,4,Simplified,111,Short Ton,630477
+159981,5,Dead Weight,120,Ton,565797
+83616,3,Regulatory (Subpart C or D),64,Long Ton,565797
+83616,1,Convention (Subpart B),64,Long Ton,565797
+48679,1,Convention (Subpart B),111,Short Ton,565797
+48679,3,Regulatory (Subpart C or D),111,Short Ton,565797
+745,4,Simplified,64,Long Ton,506770
+745,4,Simplified,111,Short Ton,506770
+22,4,Simplified,111,Short Ton,1236225
+28,4,Simplified,64,Long Ton,1236225
+43,4,Simplified,111,Short Ton,1054901
+53,4,Simplified,64,Long Ton,1054901
+31,4,Simplified,111,Short Ton,569720
+39,4,Simplified,64,Long Ton,569720
+11,4,Simplified,111,Short Ton,656069
+14,4,Simplified,64,Long Ton,656069
+12,4,Simplified,64,Long Ton,240322
+10,4,Simplified,111,Short Ton,240322
+745,4,Simplified,64,Long Ton,1214038
+745,4,Simplified,111,Short Ton,1214038
+17,4,Simplified,111,Short Ton,567019
+21,4,Simplified,64,Long Ton,567019
+10,4,Simplified,111,Short Ton,626849
+12,4,Simplified,64,Long Ton,626849
+16,4,Simplified,111,Short Ton,278472
+20,4,Simplified,64,Long Ton,278472
+15,4,Simplified,64,Long Ton,506852
+13,4,Simplified,111,Short Ton,506852
+745,4,Simplified,111,Short Ton,1150400
+745,4,Simplified,64,Long Ton,1150400
+5,4,Simplified,111,Short Ton,1231040
+5,4,Simplified,64,Long Ton,1231040
+764,4,Simplified,111,Short Ton,1228618
+764,4,Simplified,64,Long Ton,1228618
+46,1,Convention (Subpart B),111,Short Ton,996316
+66,1,Convention (Subpart B),64,Long Ton,996316
+11,4,Simplified,111,Short Ton,1167873
+14,4,Simplified,64,Long Ton,1167873
+36,4,Simplified,64,Long Ton,1211556
+33,4,Simplified,111,Short Ton,1211556
+69,4,Simplified,64,Long Ton,1212224
+55,4,Simplified,111,Short Ton,1212224
+427,1,Convention (Subpart B),111,Short Ton,1249788
+1426,1,Convention (Subpart B),64,Long Ton,1249788
+716,4,Simplified,64,Long Ton,505721
+716,4,Simplified,111,Short Ton,505721
+13,4,Simplified,111,Short Ton,680627
+17,4,Simplified,64,Long Ton,680627
+14,4,Simplified,111,Short Ton,614262
+18,4,Simplified,64,Long Ton,614262
+28561,1,Convention (Subpart B),64,Long Ton,1121714
+13754,1,Convention (Subpart B),111,Short Ton,1121714
+39164,5,Dead Weight,120,Ton,1121714
+50560,6,Displacement,120,Ton,1121714
+23,4,Simplified,111,Short Ton,297588
+26,4,Simplified,64,Long Ton,297588
+7,4,Simplified,64,Long Ton,296459
+6,4,Simplified,111,Short Ton,296459
+15,4,Simplified,64,Long Ton,510611
+12,4,Simplified,111,Short Ton,510611
+29810,1,Convention (Subpart B),111,Short Ton,1041448
+55898,1,Convention (Subpart B),64,Long Ton,1041448
+107049,6,Displacement,75,Metric Ton,1041448
+105419,5,Dead Weight,75,Metric Ton,1041448
+13,4,Simplified,64,Long Ton,1116940
+11,4,Simplified,111,Short Ton,1116940
+20,4,Simplified,111,Short Ton,270737
+25,4,Simplified,64,Long Ton,270737
+20,4,Simplified,111,Short Ton,260969
+25,4,Simplified,64,Long Ton,260969
+22,4,Simplified,111,Short Ton,1132494
+22,4,Simplified,64,Long Ton,1132494
+21,4,Simplified,111,Short Ton,930224
+26,4,Simplified,64,Long Ton,930224
+5,4,Simplified,111,Short Ton,504262
+6,4,Simplified,64,Long Ton,504262
+20,4,Simplified,111,Short Ton,503877
+25,4,Simplified,64,Long Ton,503877
+6,4,Simplified,111,Short Ton,512092
+8,4,Simplified,64,Long Ton,512092
+15,4,Simplified,64,Long Ton,1208724
+12,4,Simplified,111,Short Ton,1208724
+20,4,Simplified,64,Long Ton,272142
+16,4,Simplified,111,Short Ton,272142
+39564,1,Convention (Subpart B),111,Short Ton,994784
+75246,1,Convention (Subpart B),64,Long Ton,994784
+78612,5,Dead Weight,120,Ton,994784
+107537,6,Displacement,120,Ton,994784
+17,4,Simplified,111,Short Ton,1169704
+18,4,Simplified,64,Long Ton,1169704
+8,4,Simplified,111,Short Ton,1236211
+10,4,Simplified,64,Long Ton,1236211
+10,4,Simplified,111,Short Ton,1239492
+12,4,Simplified,64,Long Ton,1239492
+6,4,Simplified,64,Long Ton,1232723
+5,4,Simplified,111,Short Ton,1232723
+7,4,Simplified,111,Short Ton,647184
+9,4,Simplified,64,Long Ton,647184
+83,4,Simplified,111,Short Ton,586904
+104,4,Simplified,64,Long Ton,586904
+40037,1,Convention (Subpart B),64,Long Ton,611533
+20900,1,Convention (Subpart B),111,Short Ton,611533
+73004,5,Dead Weight,120,Ton,611533
+86123,6,Displacement,120,Ton,611533
+19,4,Simplified,111,Short Ton,588445
+24,4,Simplified,64,Long Ton,588445
+159981,5,Dead Weight,120,Ton,565797
+83616,3,Regulatory (Subpart C or D),64,Long Ton,565797
+83616,1,Convention (Subpart B),64,Long Ton,565797
+48679,1,Convention (Subpart B),111,Short Ton,565797
+48679,3,Regulatory (Subpart C or D),111,Short Ton,565797
+716,4,Simplified,64,Long Ton,505721
+716,4,Simplified,111,Short Ton,505721
+11,4,Simplified,64,Long Ton,500995
+8,4,Simplified,111,Short Ton,500995
+499,1,Convention (Subpart B),64,Long Ton,578740
+499,3,Regulatory (Subpart C or D),64,Long Ton,578740
+161,1,Convention (Subpart B),111,Short Ton,578740
+161,3,Regulatory (Subpart C or D),111,Short Ton,578740
+12,4,Simplified,111,Short Ton,296186
+16,4,Simplified,64,Long Ton,296186
+823,4,Simplified,111,Short Ton,1229939
+823,4,Simplified,64,Long Ton,1229939
+9,4,Simplified,111,Short Ton,511394
+10,4,Simplified,64,Long Ton,511394
+14,4,Simplified,111,Short Ton,614262
+18,4,Simplified,64,Long Ton,614262
+26,4,Simplified,64,Long Ton,561219
+21,4,Simplified,111,Short Ton,561219
+10,4,Simplified,111,Short Ton,1040965
+10,4,Simplified,64,Long Ton,1040965
+15,4,Simplified,111,Short Ton,652589
+19,4,Simplified,64,Long Ton,652589
+764,4,Simplified,111,Short Ton,996854
+764,4,Simplified,64,Long Ton,996854
+8,4,Simplified,111,Short Ton,1247862
+11,4,Simplified,64,Long Ton,1247862
+11,4,Simplified,111,Short Ton,503918
+13,4,Simplified,64,Long Ton,503918
+8,4,Simplified,111,Short Ton,567947
+11,4,Simplified,64,Long Ton,567947
+33,4,Simplified,64,Long Ton,906554
+26,4,Simplified,111,Short Ton,906554
+7,4,Simplified,111,Short Ton,614238
+8,4,Simplified,64,Long Ton,614238
+38,4,Simplified,64,Long Ton,1071569
+38,4,Simplified,111,Short Ton,1071569
+764,4,Simplified,64,Long Ton,562078
+764,4,Simplified,111,Short Ton,562078
+159981,5,Dead Weight,120,Ton,565797
+83616,3,Regulatory (Subpart C or D),64,Long Ton,565797
+83616,1,Convention (Subpart B),64,Long Ton,565797
+48679,1,Convention (Subpart B),111,Short Ton,565797
+48679,3,Regulatory (Subpart C or D),111,Short Ton,565797
+14436,3,Regulatory (Subpart C or D),111,Short Ton,612974
+15694,5,Dead Weight,120,Ton,612974
+23800,6,Displacement,120,Ton,612974
+23255,3,Regulatory (Subpart C or D),64,Long Ton,612974
+14,4,Simplified,64,Long Ton,998264
+11,4,Simplified,111,Short Ton,998264
+28,4,Simplified,111,Short Ton,238301
+35,4,Simplified,64,Long Ton,238301
+9,4,Simplified,64,Long Ton,630364
+7,4,Simplified,111,Short Ton,630364
+159981,5,Dead Weight,120,Ton,565797
+83616,3,Regulatory (Subpart C or D),64,Long Ton,565797
+83616,1,Convention (Subpart B),64,Long Ton,565797
+48679,1,Convention (Subpart B),111,Short Ton,565797
+48679,3,Regulatory (Subpart C or D),111,Short Ton,565797
+29,4,Simplified,64,Long Ton,506165
+23,4,Simplified,111,Short Ton,506165
+104998,5,Dead Weight,75,Metric Ton,996888
+121586,6,Displacement,75,Metric Ton,996888
+31167,1,Convention (Subpart B),111,Short Ton,996888
+59259,1,Convention (Subpart B),64,Long Ton,996888
+13,4,Simplified,111,Short Ton,274942
+17,4,Simplified,64,Long Ton,274942
+823,4,Simplified,64,Long Ton,1110436
+823,4,Simplified,111,Short Ton,1110436
+21,4,Simplified,111,Short Ton,612998
+23,4,Simplified,64,Long Ton,612998
+7,4,Simplified,64,Long Ton,1186524
+7,4,Simplified,111,Short Ton,1186524
+17,4,Simplified,111,Short Ton,568268
+21,4,Simplified,64,Long Ton,568268
+48020,5,Dead Weight,120,Ton,1130376
+58025,6,Displacement,120,Ton,1130376
+12582,1,Convention (Subpart B),111,Short Ton,1130376
+28802,1,Convention (Subpart B),64,Long Ton,1130376
+9,4,Simplified,64,Long Ton,287746
+7,4,Simplified,111,Short Ton,287746
+6,4,Simplified,111,Short Ton,626842
+8,4,Simplified,64,Long Ton,626842
+2,4,Simplified,111,Short Ton,568295
+2,4,Simplified,64,Long Ton,568295
+0,1,Convention (Subpart B),64,Long Ton,568295
+11,4,Simplified,64,Long Ton,1193138
+10,4,Simplified,111,Short Ton,1193138
+5,4,Simplified,111,Short Ton,638122
+6,4,Simplified,64,Long Ton,638122
+18,3,Regulatory (Subpart C or D),111,Short Ton,271680
+20,3,Regulatory (Subpart C or D),64,Long Ton,271680
+7,4,Simplified,111,Short Ton,672306
+9,4,Simplified,64,Long Ton,672306
+12,4,Simplified,64,Long Ton,957153
+10,4,Simplified,111,Short Ton,957153
+16,4,Simplified,64,Long Ton,272085
+12,4,Simplified,111,Short Ton,272085
+35,4,Simplified,111,Short Ton,626510
+43,4,Simplified,64,Long Ton,626510
+235,4,Simplified,111,Short Ton,503554
+235,4,Simplified,64,Long Ton,503554
+9,4,Simplified,111,Short Ton,502672
+11,4,Simplified,64,Long Ton,502672
+705,4,Simplified,111,Short Ton,1231050
+705,4,Simplified,64,Long Ton,1231050
+21,4,Simplified,111,Short Ton,1274395
+24,4,Simplified,64,Long Ton,1274395
+157,4,Simplified,64,Long Ton,1107373
+126,4,Simplified,111,Short Ton,1107373
+36,4,Simplified,64,Long Ton,296711
+29,4,Simplified,111,Short Ton,296711
+9,4,Simplified,64,Long Ton,661437
+9,4,Simplified,111,Short Ton,661437
+13,4,Simplified,111,Short Ton,274942
+17,4,Simplified,64,Long Ton,274942
+28,4,Simplified,64,Long Ton,279589
+22,4,Simplified,111,Short Ton,279589
+22,4,Simplified,111,Short Ton,979854
+27,4,Simplified,64,Long Ton,979854
+13,4,Simplified,111,Short Ton,274942
+17,4,Simplified,64,Long Ton,274942
+28,4,Simplified,111,Short Ton,651232
+31,4,Simplified,64,Long Ton,651232
+8,4,Simplified,111,Short Ton,298109
+9,4,Simplified,64,Long Ton,298109
+25,4,Simplified,111,Short Ton,614221
+28,4,Simplified,64,Long Ton,614221
+20,4,Simplified,64,Long Ton,272142
+16,4,Simplified,111,Short Ton,272142
+20763,1,Convention (Subpart B),64,Long Ton,1115792
+41799,6,Displacement,120,Ton,1115792
+33270,5,Dead Weight,120,Ton,1115792
+11627,1,Convention (Subpart B),111,Short Ton,1115792
+33188,1,Convention (Subpart B),64,Long Ton,1219541
+10479,6,Displacement,120,Ton,1219541
+58705,5,Dead Weight,120,Ton,1219541
+19143,1,Convention (Subpart B),111,Short Ton,1219541
+14,4,Simplified,64,Long Ton,264140
+13,4,Simplified,111,Short Ton,264140
+12892,1,Convention (Subpart B),64,Long Ton,1108552
+12892,3,Regulatory (Subpart C or D),64,Long Ton,1108552
+7920,5,Dead Weight,120,Ton,1108552
+4765,1,Convention (Subpart B),111,Short Ton,1108552
+4765,3,Regulatory (Subpart C or D),111,Short Ton,1108552
+20,4,Simplified,64,Long Ton,272142
+16,4,Simplified,111,Short Ton,272142
+69,4,Simplified,111,Short Ton,512342
+87,4,Simplified,64,Long Ton,512342
+135,4,Simplified,111,Short Ton,1251209
+169,4,Simplified,64,Long Ton,1251209
+11,4,Simplified,64,Long Ton,1193138
+10,4,Simplified,111,Short Ton,1193138
+14,4,Simplified,64,Long Ton,506725
+11,4,Simplified,111,Short Ton,506725
+12,4,Simplified,64,Long Ton,500868
+11,4,Simplified,111,Short Ton,500868
+42,4,Simplified,111,Short Ton,1167877
+53,4,Simplified,64,Long Ton,1167877
+36935,1,Convention (Subpart B),111,Short Ton,1230605
+115455,5,Dead Weight,120,Ton,1230605
+134306,6,Displacement,120,Ton,1230605
+64769,1,Convention (Subpart B),64,Long Ton,1230605
+6,4,Simplified,111,Short Ton,1256114
+6,4,Simplified,64,Long Ton,1256114
+159981,5,Dead Weight,120,Ton,565797
+83616,3,Regulatory (Subpart C or D),64,Long Ton,565797
+83616,1,Convention (Subpart B),64,Long Ton,565797
+48679,1,Convention (Subpart B),111,Short Ton,565797
+48679,3,Regulatory (Subpart C or D),111,Short Ton,565797
+9,4,Simplified,64,Long Ton,1071022
+7,4,Simplified,111,Short Ton,1071022
+69,4,Simplified,111,Short Ton,512342
+87,4,Simplified,64,Long Ton,512342
+11,4,Simplified,64,Long Ton,291565
+9,4,Simplified,111,Short Ton,291565
+32987,1,Convention (Subpart B),64,Long Ton,1276194
+67681,6,Displacement,120,Ton,1276194
+56724,5,Dead Weight,120,Ton,1276194
+19231,1,Convention (Subpart B),111,Short Ton,1276194
+142,4,Simplified,64,Long Ton,562533
+114,4,Simplified,111,Short Ton,562533
+17,4,Simplified,111,Short Ton,1227791
+17,4,Simplified,64,Long Ton,1227791
+15314,4,Simplified,64,Long Ton,1099871
+8355,6,Displacement,120,Ton,1099871
+17674,5,Dead Weight,120,Ton,1099871
+20,4,Simplified,111,Short Ton,260969
+25,4,Simplified,64,Long Ton,260969
+745,4,Simplified,64,Long Ton,506770
+745,4,Simplified,111,Short Ton,506770
+8,4,Simplified,111,Short Ton,569388
+9,4,Simplified,64,Long Ton,569388
+63,4,Simplified,64,Long Ton,572722
+50,4,Simplified,111,Short Ton,572722
+8,4,Simplified,64,Long Ton,623711
+8,4,Simplified,111,Short Ton,623711
+159981,5,Dead Weight,120,Ton,565797
+83616,3,Regulatory (Subpart C or D),64,Long Ton,565797
+83616,1,Convention (Subpart B),64,Long Ton,565797
+48679,1,Convention (Subpart B),111,Short Ton,565797
+48679,3,Regulatory (Subpart C or D),111,Short Ton,565797
+149,4,Simplified,64,Long Ton,1245035
+119,4,Simplified,111,Short Ton,1245035
+6,4,Simplified,111,Short Ton,297251
+8,4,Simplified,64,Long Ton,297251
+109149,1,Convention (Subpart B),64,Long Ton,1110104
+52743,1,Convention (Subpart B),111,Short Ton,1110104
+144477,6,Displacement,75,Metric Ton,1110104
+107493,5,Dead Weight,75,Metric Ton,1110104
+9,4,Simplified,111,Short Ton,599512
+11,4,Simplified,64,Long Ton,599512
+11,4,Simplified,111,Short Ton,634
+13,4,Simplified,64,Long Ton,634
+8,4,Simplified,64,Long Ton,580352
+6,4,Simplified,111,Short Ton,580352
+5,4,Simplified,111,Short Ton,274333
+6,4,Simplified,64,Long Ton,274333
+21,4,Simplified,64,Long Ton,990467
+17,4,Simplified,111,Short Ton,990467
+38,4,Simplified,64,Long Ton,990466
+34,4,Simplified,111,Short Ton,990466
+14,4,Simplified,64,Long Ton,1106544
+14,4,Simplified,111,Short Ton,1106544
+802,4,Simplified,111,Short Ton,1059893
+802,4,Simplified,64,Long Ton,1059893
+802,4,Simplified,111,Short Ton,1059895
+802,4,Simplified,64,Long Ton,1059895
+18,4,Simplified,111,Short Ton,1076667
+22,4,Simplified,64,Long Ton,1076667
+8,4,Simplified,64,Long Ton,294678
+7,4,Simplified,111,Short Ton,294678
+13,4,Simplified,111,Short Ton,279030
+14,4,Simplified,64,Long Ton,279030
+26,4,Simplified,64,Long Ton,577912
+21,4,Simplified,111,Short Ton,577912
+7,4,Simplified,111,Short Ton,647184
+9,4,Simplified,64,Long Ton,647184
+13,4,Simplified,64,Long Ton,1104495
+10,4,Simplified,111,Short Ton,1104495
+20,4,Simplified,64,Long Ton,574373
+16,4,Simplified,111,Short Ton,574373
+13,4,Simplified,111,Short Ton,274942
+17,4,Simplified,64,Long Ton,274942
+12,4,Simplified,111,Short Ton,292719
+16,4,Simplified,64,Long Ton,292719
+53,4,Simplified,111,Short Ton,512099
+66,4,Simplified,64,Long Ton,512099
+35,4,Simplified,64,Long Ton,922736
+28,4,Simplified,111,Short Ton,922736
+5,4,Simplified,111,Short Ton,274333
+6,4,Simplified,64,Long Ton,274333
+14,4,Simplified,64,Long Ton,1221907
+11,4,Simplified,111,Short Ton,1221907
+823,4,Simplified,111,Short Ton,1229936
+823,4,Simplified,64,Long Ton,1229936
+672,4,Simplified,64,Long Ton,273238
+672,4,Simplified,111,Short Ton,273238
+25,4,Simplified,64,Long Ton,287829
+20,4,Simplified,111,Short Ton,287829
+40465,1,Convention (Subpart B),64,Long Ton,1234732
+23892,1,Convention (Subpart B),111,Short Ton,1234732
+49984,5,Dead Weight,75,Metric Ton,1234732
+67906,6,Displacement,75,Metric Ton,1234732
+11,4,Simplified,111,Short Ton,651477
+14,4,Simplified,64,Long Ton,651477
+8,4,Simplified,111,Short Ton,659664
+8,4,Simplified,64,Long Ton,659664
+9,4,Simplified,64,Long Ton,967571
+7,4,Simplified,111,Short Ton,967571
+63301,5,Dead Weight,120,Ton,1229162
+21224,1,Convention (Subpart B),111,Short Ton,1229162
+35812,1,Convention (Subpart B),64,Long Ton,1229162
+70,4,Simplified,111,Short Ton,982927
+130,4,Simplified,64,Long Ton,982927
+16,4,Simplified,64,Long Ton,268970
+13,4,Simplified,111,Short Ton,268970
+15,4,Simplified,111,Short Ton,511120
+16,4,Simplified,64,Long Ton,511120
+7,4,Simplified,111,Short Ton,1029592
+8,4,Simplified,64,Long Ton,1029592
+21967,1,Convention (Subpart B),111,Short Ton,1054870
+91368,6,Displacement,120,Ton,1054870
+76577,5,Dead Weight,120,Ton,1054870
+43885,1,Convention (Subpart B),64,Long Ton,1054870
+21967,3,Regulatory (Subpart C or D),111,Short Ton,1054870
+43885,3,Regulatory (Subpart C or D),64,Long Ton,1054870
+10647,1,Convention (Subpart B),111,Short Ton,277551
+35492,1,Convention (Subpart B),64,Long Ton,277551
+7,4,Simplified,111,Short Ton,1130368
+8,4,Simplified,64,Long Ton,1130368
+15,4,Simplified,111,Short Ton,278780
+16,4,Simplified,64,Long Ton,278780
+7,4,Simplified,111,Short Ton,1237224
+7,4,Simplified,64,Long Ton,1237224
+8,4,Simplified,111,Short Ton,270840
+10,4,Simplified,64,Long Ton,270840
+16,4,Simplified,64,Long Ton,1233644
+13,4,Simplified,111,Short Ton,1233644
+170000,1,Convention (Subpart B),64,Long Ton,1097105
+17,4,Simplified,64,Long Ton,293607
+16,4,Simplified,111,Short Ton,293607
+19,4,Simplified,111,Short Ton,284238
+25,4,Simplified,64,Long Ton,284238
+9,4,Simplified,64,Long Ton,561892
+9,4,Simplified,111,Short Ton,561892
+19,4,Simplified,64,Long Ton,576108
+15,4,Simplified,111,Short Ton,576108
+18,3,Regulatory (Subpart C or D),111,Short Ton,271680
+20,3,Regulatory (Subpart C or D),64,Long Ton,271680
+4,3,Regulatory (Subpart C or D),64,Long Ton,1238110
+30241,1,Convention (Subpart B),64,Long Ton,1105902
+14702,1,Convention (Subpart B),111,Short Ton,1105902
+49999,5,Dead Weight,75,Metric Ton,1105902
+61913,6,Displacement,75,Metric Ton,1105902
+8,4,Simplified,64,Long Ton,520414
+8,4,Simplified,111,Short Ton,520414
+6,4,Simplified,111,Short Ton,1198194
+7,4,Simplified,64,Long Ton,1198194
+13,4,Simplified,64,Long Ton,294088
+12,4,Simplified,111,Short Ton,294088
+16,4,Simplified,64,Long Ton,568139
+12,4,Simplified,111,Short Ton,568139
+17,4,Simplified,64,Long Ton,1121723
+17,4,Simplified,111,Short Ton,1121723
+14,4,Simplified,64,Long Ton,606075
+11,4,Simplified,111,Short Ton,606075
+28,4,Simplified,111,Short Ton,503329
+31,4,Simplified,64,Long Ton,503329
+12,4,Simplified,64,Long Ton,294413
+11,4,Simplified,111,Short Ton,294413
+15576,4,Simplified,111,Short Ton,1041866
+17406,5,Dead Weight,120,Ton,1041866
+31984,6,Displacement,120,Ton,1041866
+51917,1,Convention (Subpart B),64,Long Ton,1041866
+51917,4,Simplified,64,Long Ton,1041866
+705,4,Simplified,111,Short Ton,1240010
+705,4,Simplified,64,Long Ton,1240010
+17,4,Simplified,64,Long Ton,561721
+14,4,Simplified,111,Short Ton,561721
+6,4,Simplified,111,Short Ton,586350
+7,4,Simplified,64,Long Ton,586350
+15,4,Simplified,64,Long Ton,1208724
+12,4,Simplified,111,Short Ton,1208724
+159981,5,Dead Weight,120,Ton,565797
+83616,3,Regulatory (Subpart C or D),64,Long Ton,565797
+83616,1,Convention (Subpart B),64,Long Ton,565797
+48679,1,Convention (Subpart B),111,Short Ton,565797
+48679,3,Regulatory (Subpart C or D),111,Short Ton,565797
+17,4,Simplified,64,Long Ton,561721
+14,4,Simplified,111,Short Ton,561721
+60,3,Regulatory (Subpart C or D),111,Short Ton,1273130
+350,1,Convention (Subpart B),111,Short Ton,1273130
+89,3,Regulatory (Subpart C or D),64,Long Ton,1273130
+680,6,Displacement,64,Long Ton,1273130
+1300,5,Dead Weight,64,Long Ton,1273130
+879,1,Convention (Subpart B),64,Long Ton,1273130
+15,4,Simplified,64,Long Ton,288474
+12,4,Simplified,111,Short Ton,288474
+31,4,Simplified,64,Long Ton,284066
+28,4,Simplified,111,Short Ton,284066
+15,4,Simplified,64,Long Ton,1220386
+12,4,Simplified,111,Short Ton,1220386
+13,4,Simplified,64,Long Ton,294844
+11,4,Simplified,111,Short Ton,294844
+14,4,Simplified,64,Long Ton,617985
+11,4,Simplified,111,Short Ton,617985
+15,4,Simplified,111,Short Ton,264736
+18,4,Simplified,64,Long Ton,264736
+823,4,Simplified,111,Short Ton,929973
+823,4,Simplified,64,Long Ton,929973
+27645,1,Convention (Subpart B),64,Long Ton,937458
+12616,1,Convention (Subpart B),111,Short Ton,937458
+46152,5,Dead Weight,120,Ton,937458
+55768,6,Displacement,120,Ton,937458
+30,4,Simplified,64,Long Ton,937471
+24,4,Simplified,111,Short Ton,937471
+6,4,Simplified,111,Short Ton,1093857
+7,4,Simplified,64,Long Ton,1093857
+40,4,Simplified,64,Long Ton,510425
+32,4,Simplified,111,Short Ton,510425
+56,4,Simplified,64,Long Ton,509885
+45,4,Simplified,111,Short Ton,509885
+21,4,Simplified,64,Long Ton,1243139
+19,4,Simplified,111,Short Ton,1243139
+12,4,Simplified,111,Short Ton,614212
+15,4,Simplified,64,Long Ton,614212
+20,4,Simplified,64,Long Ton,1244419
+18,4,Simplified,111,Short Ton,1244419
+13,4,Simplified,64,Long Ton,1116940
+11,4,Simplified,111,Short Ton,1116940
+8,4,Simplified,111,Short Ton,567947
+11,4,Simplified,64,Long Ton,567947
+6,4,Simplified,111,Short Ton,586350
+7,4,Simplified,64,Long Ton,586350
+7,4,Simplified,64,Long Ton,286386
+5,4,Simplified,111,Short Ton,286386
+9,4,Simplified,111,Short Ton,504813
+12,4,Simplified,64,Long Ton,504813
+20,4,Simplified,64,Long Ton,600552
+18,4,Simplified,111,Short Ton,600552
+33,4,Simplified,111,Short Ton,296818
+42,4,Simplified,64,Long Ton,296818
+302,3,Regulatory (Subpart C or D),111,Short Ton,275810
+302,3,Regulatory (Subpart C or D),64,Long Ton,275810
+59835,1,Convention (Subpart B),64,Long Ton,1235976
+25783,1,Convention (Subpart B),111,Short Ton,1235976
+22308,5,Dead Weight,75,Metric Ton,1235976
+42726,6,Displacement,75,Metric Ton,1235976
+55657,5,Dead Weight,120,Ton,1103337
+64567,6,Displacement,120,Ton,1103337
+18516,1,Convention (Subpart B),111,Short Ton,1103337
+18516,3,Regulatory (Subpart C or D),111,Short Ton,1103337
+31259,1,Convention (Subpart B),64,Long Ton,1103337
+31259,3,Regulatory (Subpart C or D),64,Long Ton,1103337
+13,4,Simplified,64,Long Ton,294088
+12,4,Simplified,111,Short Ton,294088
+16,4,Simplified,111,Short Ton,504892
+20,4,Simplified,64,Long Ton,504892
+15,4,Simplified,64,Long Ton,608537
+12,4,Simplified,111,Short Ton,608537
+57,4,Simplified,111,Short Ton,569214
+72,4,Simplified,64,Long Ton,569214
+15,4,Simplified,111,Short Ton,944471
+19,4,Simplified,64,Long Ton,944471
+101,4,Simplified,111,Short Ton,1264718
+127,4,Simplified,64,Long Ton,1264718
+6,4,Simplified,64,Long Ton,575251
+5,4,Simplified,111,Short Ton,575251
+10,4,Simplified,64,Long Ton,565395
+9,4,Simplified,111,Short Ton,565395
+19,3,Regulatory (Subpart C or D),111,Short Ton,298198
+28,3,Regulatory (Subpart C or D),64,Long Ton,298198
+26,4,Simplified,111,Short Ton,942072
+28,4,Simplified,64,Long Ton,942072
+1549,1,Convention (Subpart B),64,Long Ton,990998
+464,1,Convention (Subpart B),111,Short Ton,990998
+1050,6,Displacement,120,Ton,990998
+15,4,Simplified,111,Short Ton,278780
+16,4,Simplified,64,Long Ton,278780
+8,4,Simplified,64,Long Ton,581300
+6,4,Simplified,111,Short Ton,581300
+8,4,Simplified,111,Short Ton,1283026
+10,4,Simplified,64,Long Ton,1283026
+25,4,Simplified,64,Long Ton,287829
+20,4,Simplified,111,Short Ton,287829
+8,4,Simplified,111,Short Ton,280097
+10,4,Simplified,64,Long Ton,280097
+10,4,Simplified,111,Short Ton,1078621
+13,4,Simplified,64,Long Ton,1078621
+2115,1,Convention (Subpart B),64,Long Ton,1063183
+634,1,Convention (Subpart B),111,Short Ton,1063183
+69,4,Simplified,111,Short Ton,512342
+87,4,Simplified,64,Long Ton,512342
+601,4,Simplified,111,Short Ton,1282990
+601,4,Simplified,64,Long Ton,1282990
+10,4,Simplified,111,Short Ton,512604
+13,4,Simplified,64,Long Ton,512604
+21,4,Simplified,111,Short Ton,564321
+27,4,Simplified,64,Long Ton,564321
+716,4,Simplified,64,Long Ton,505721
+716,4,Simplified,111,Short Ton,505721
+23,4,Simplified,64,Long Ton,266871
+19,4,Simplified,111,Short Ton,266871
+44,4,Simplified,64,Long Ton,273278
+40,4,Simplified,111,Short Ton,273278
+5,4,Simplified,111,Short Ton,274333
+6,4,Simplified,64,Long Ton,274333
+33,4,Simplified,111,Short Ton,586238
+41,4,Simplified,64,Long Ton,586238
+8,4,Simplified,111,Short Ton,1236027
+10,4,Simplified,64,Long Ton,1236027
+20,4,Simplified,64,Long Ton,574373
+16,4,Simplified,111,Short Ton,574373
+16,4,Simplified,111,Short Ton,1257187
+20,4,Simplified,64,Long Ton,1257187
+8,4,Simplified,111,Short Ton,567947
+11,4,Simplified,64,Long Ton,567947
+59440,1,Convention (Subpart B),111,Short Ton,1284534
+112967,1,Convention (Subpart B),64,Long Ton,1284534
+157211,6,Displacement,75,Metric Ton,1284534
+119402,5,Dead Weight,75,Metric Ton,1284534
+61164,1,Convention (Subpart B),111,Short Ton,1284536
+141823,1,Convention (Subpart B),64,Long Ton,1284536
+184788,6,Displacement,75,Metric Ton,1284536
+140637,5,Dead Weight,75,Metric Ton,1284536
+6,4,Simplified,111,Short Ton,1284537
+8,4,Simplified,64,Long Ton,1284537
+12,4,Simplified,64,Long Ton,571729
+10,4,Simplified,111,Short Ton,571729
+40,4,Simplified,64,Long Ton,1224228
+32,4,Simplified,111,Short Ton,1224228
+16,4,Simplified,111,Short Ton,1257187
+20,4,Simplified,64,Long Ton,1257187
+17,4,Simplified,64,Long Ton,561721
+14,4,Simplified,111,Short Ton,561721
+33,4,Simplified,111,Short Ton,296818
+42,4,Simplified,64,Long Ton,296818
+25,4,Simplified,111,Short Ton,290177
+31,4,Simplified,64,Long Ton,290177
+101,4,Simplified,64,Long Ton,611088
+81,4,Simplified,111,Short Ton,611088
+16,4,Simplified,64,Long Ton,1186490
+14,4,Simplified,111,Short Ton,1186490
+19,4,Simplified,111,Short Ton,273675
+24,4,Simplified,64,Long Ton,273675
+12,4,Simplified,64,Long Ton,1289481
+12,4,Simplified,111,Short Ton,1289481
+20,4,Simplified,111,Short Ton,1076671
+25,4,Simplified,64,Long Ton,1076671
+15,4,Simplified,111,Short Ton,278780
+16,4,Simplified,64,Long Ton,278780
+24,4,Simplified,64,Long Ton,286092
+19,4,Simplified,111,Short Ton,286092
+9,3,Regulatory (Subpart C or D),111,Short Ton,261413
+10,3,Regulatory (Subpart C or D),64,Long Ton,261413
+19,4,Simplified,64,Long Ton,560346
+15,4,Simplified,111,Short Ton,560346
+18,4,Simplified,64,Long Ton,643918
+15,4,Simplified,111,Short Ton,643918
+6,4,Simplified,111,Short Ton,1232110
+8,4,Simplified,64,Long Ton,1232110
+745,4,Simplified,64,Long Ton,1214035
+745,4,Simplified,111,Short Ton,1214035
+9,4,Simplified,111,Short Ton,257293
+10,4,Simplified,64,Long Ton,257293
+14,4,Simplified,111,Short Ton,1238538
+17,4,Simplified,64,Long Ton,1238538
+35,4,Simplified,64,Long Ton,284077
+28,4,Simplified,111,Short Ton,284077
+15,4,Simplified,64,Long Ton,1208724
+12,4,Simplified,111,Short Ton,1208724
+25,4,Simplified,64,Long Ton,272165
+20,4,Simplified,111,Short Ton,272165
+9,4,Simplified,64,Long Ton,1124053
+8,4,Simplified,111,Short Ton,1124053
+17,4,Simplified,111,Short Ton,1169704
+18,4,Simplified,64,Long Ton,1169704
+74,4,Simplified,111,Short Ton,1254741
+93,4,Simplified,64,Long Ton,1254741
+5,4,Simplified,111,Short Ton,512034
+6,4,Simplified,64,Long Ton,512034
+31,4,Simplified,64,Long Ton,284066
+28,4,Simplified,111,Short Ton,284066
+11,4,Simplified,64,Long Ton,500995
+8,4,Simplified,111,Short Ton,500995
+6500,4,Simplified,64,Long Ton,1097887
+22,4,Simplified,64,Long Ton,1108607
+18,4,Simplified,111,Short Ton,1108607
+705,4,Simplified,64,Long Ton,1221704
+705,4,Simplified,111,Short Ton,1221704
+6,4,Simplified,111,Short Ton,1130520
+7,4,Simplified,64,Long Ton,1130520
+12,4,Simplified,111,Short Ton,516632
+15,4,Simplified,64,Long Ton,516632
+7,4,Simplified,111,Short Ton,605506
+7,4,Simplified,64,Long Ton,605506
+10,4,Simplified,64,Long Ton,263098
+8,4,Simplified,111,Short Ton,263098
+10,4,Simplified,64,Long Ton,910891
+8,4,Simplified,111,Short Ton,910891
+6,4,Simplified,111,Short Ton,501619
+7,4,Simplified,64,Long Ton,501619
+15,4,Simplified,111,Short Ton,651528
+19,4,Simplified,64,Long Ton,651528
+12,4,Simplified,111,Short Ton,516632
+15,4,Simplified,64,Long Ton,516632
+8482,3,Regulatory (Subpart C or D),111,Short Ton,225822
+14538,3,Regulatory (Subpart C or D),64,Long Ton,225822
+22356,5,Dead Weight,120,Ton,225822
+45,4,Simplified,64,Long Ton,230656
+40,4,Simplified,111,Short Ton,230656
+159981,5,Dead Weight,120,Ton,565797
+83616,3,Regulatory (Subpart C or D),64,Long Ton,565797
+83616,1,Convention (Subpart B),64,Long Ton,565797
+48679,1,Convention (Subpart B),111,Short Ton,565797
+48679,3,Regulatory (Subpart C or D),111,Short Ton,565797
+53,4,Simplified,111,Short Ton,512099
+66,4,Simplified,64,Long Ton,512099
+128,4,Simplified,111,Short Ton,1297983
+160,4,Simplified,64,Long Ton,1297983
+35,4,Simplified,64,Long Ton,284077
+28,4,Simplified,111,Short Ton,284077
+159981,5,Dead Weight,120,Ton,565797
+83616,3,Regulatory (Subpart C or D),64,Long Ton,565797
+83616,1,Convention (Subpart B),64,Long Ton,565797
+48679,1,Convention (Subpart B),111,Short Ton,565797
+48679,3,Regulatory (Subpart C or D),111,Short Ton,565797
+58,4,Simplified,111,Short Ton,1253023
+72,4,Simplified,64,Long Ton,1253023
+6,4,Simplified,64,Long Ton,625680
+5,4,Simplified,111,Short Ton,625680
+764,4,Simplified,64,Long Ton,1217297
+764,4,Simplified,111,Short Ton,1217297
+9,4,Simplified,64,Long Ton,606669
+7,4,Simplified,111,Short Ton,606669
+11,4,Simplified,64,Long Ton,643716
+10,4,Simplified,111,Short Ton,643716
+12,4,Simplified,64,Long Ton,664965
+11,4,Simplified,111,Short Ton,664965
+26,4,Simplified,64,Long Ton,577912
+21,4,Simplified,111,Short Ton,577912
+16,4,Simplified,64,Long Ton,273292
+12,4,Simplified,111,Short Ton,273292
+19,4,Simplified,111,Short Ton,513477
+21,4,Simplified,64,Long Ton,513477
+44499,5,Dead Weight,75,Metric Ton,1158999
+57860,6,Displacement,75,Metric Ton,1158999
+13613,1,Convention (Subpart B),111,Short Ton,1158999
+29814,1,Convention (Subpart B),64,Long Ton,1158999
+15,4,Simplified,111,Short Ton,1225575
+18,4,Simplified,64,Long Ton,1225575
+8,4,Simplified,111,Short Ton,998494
+10,4,Simplified,64,Long Ton,998494
+12,4,Simplified,64,Long Ton,664965
+11,4,Simplified,111,Short Ton,664965
+8,4,Simplified,111,Short Ton,1156600
+11,4,Simplified,64,Long Ton,1156600
+9,4,Simplified,64,Long Ton,287746
+7,4,Simplified,111,Short Ton,287746
+15,4,Simplified,64,Long Ton,992475
+12,4,Simplified,111,Short Ton,992475
+15,4,Simplified,111,Short Ton,1225575
+18,4,Simplified,64,Long Ton,1225575
+764,4,Simplified,111,Short Ton,1065239
+764,4,Simplified,64,Long Ton,1065239
+764,4,Simplified,64,Long Ton,1109007
+764,4,Simplified,111,Short Ton,1109007
+14,4,Simplified,64,Long Ton,254693
+11,4,Simplified,111,Short Ton,254693
+28,4,Simplified,64,Long Ton,625120
+22,4,Simplified,111,Short Ton,625120
+10,4,Simplified,111,Short Ton,1239492
+12,4,Simplified,64,Long Ton,1239492
+5,4,Simplified,64,Long Ton,1193277
+5,4,Simplified,111,Short Ton,1193277
+59,1,Convention (Subpart B),111,Short Ton,512141
+198,1,Convention (Subpart B),64,Long Ton,512141
+21,4,Simplified,111,Short Ton,930224
+26,4,Simplified,64,Long Ton,930224
+6,4,Simplified,64,Long Ton,288062
+5,4,Simplified,111,Short Ton,288062
+20,4,Simplified,111,Short Ton,1267551
+23,4,Simplified,64,Long Ton,1267551
+12,4,Simplified,64,Long Ton,664965
+11,4,Simplified,111,Short Ton,664965
+16,4,Simplified,111,Short Ton,647390
+18,4,Simplified,64,Long Ton,647390
+13,4,Simplified,111,Short Ton,1198168
+16,4,Simplified,64,Long Ton,1198168
+8,4,Simplified,64,Long Ton,1121720
+8,4,Simplified,111,Short Ton,1121720
+8,4,Simplified,111,Short Ton,627050
+10,4,Simplified,64,Long Ton,627050
+9,4,Simplified,64,Long Ton,661437
+9,4,Simplified,111,Short Ton,661437
+19,4,Simplified,64,Long Ton,1208642
+15,4,Simplified,111,Short Ton,1208642
+56668,1,Convention (Subpart B),111,Short Ton,1223817
+89510,1,Convention (Subpart B),64,Long Ton,1223817
+6,4,Simplified,111,Short Ton,513017
+7,4,Simplified,64,Long Ton,513017
+6,4,Simplified,111,Short Ton,1292802
+6,4,Simplified,64,Long Ton,1292802
+9,4,Simplified,64,Long Ton,608464
+7,4,Simplified,111,Short Ton,608464
+53,4,Simplified,111,Short Ton,512099
+66,4,Simplified,64,Long Ton,512099
+14,4,Simplified,64,Long Ton,286085
+12,4,Simplified,111,Short Ton,286085
+13,4,Simplified,111,Short Ton,298925
+16,4,Simplified,64,Long Ton,298925
+8,4,Simplified,111,Short Ton,290088
+10,4,Simplified,64,Long Ton,290088
+32,4,Simplified,64,Long Ton,297913
+25,4,Simplified,111,Short Ton,297913
+18,4,Simplified,64,Long Ton,287890
+14,4,Simplified,111,Short Ton,287890
+22,4,Simplified,111,Short Ton,54
+27,4,Simplified,64,Long Ton,54
+11,4,Simplified,111,Short Ton,652357
+12,4,Simplified,64,Long Ton,652357
+14,4,Simplified,64,Long Ton,628726
+14,4,Simplified,111,Short Ton,628726
+13,4,Simplified,111,Short Ton,1055480
+16,4,Simplified,64,Long Ton,1055480
+7,4,Simplified,111,Short Ton,1228278
+7,4,Simplified,64,Long Ton,1228278
+8,3,Regulatory (Subpart C or D),111,Short Ton,170993
+11,3,Regulatory (Subpart C or D),64,Long Ton,170993
+7,4,Simplified,64,Long Ton,510349
+6,4,Simplified,111,Short Ton,510349
+22,4,Simplified,64,Long Ton,1085416
+17,4,Simplified,111,Short Ton,1085416
+5,4,Simplified,64,Long Ton,1275818
+5,4,Simplified,111,Short Ton,1275818
+44,4,Simplified,64,Long Ton,273278
+40,4,Simplified,111,Short Ton,273278
+25,4,Simplified,64,Long Ton,296301
+20,4,Simplified,111,Short Ton,296301
+7,4,Simplified,111,Short Ton,282380
+8,4,Simplified,64,Long Ton,282380
+6,4,Simplified,111,Short Ton,1093857
+7,4,Simplified,64,Long Ton,1093857
+31,4,Simplified,64,Long Ton,284066
+28,4,Simplified,111,Short Ton,284066
+7,4,Simplified,111,Short Ton,1029592
+8,4,Simplified,64,Long Ton,1029592
+7,4,Simplified,64,Long Ton,1186487
+6,4,Simplified,111,Short Ton,1186487
+79702,1,Convention (Subpart B),64,Long Ton,1101122
+46051,1,Convention (Subpart B),111,Short Ton,1101122
+115832,6,Displacement,120,Ton,1101122
+87621,5,Dead Weight,120,Ton,1101122
+10,4,Simplified,64,Long Ton,1233874
+8,4,Simplified,111,Short Ton,1233874
+1375,4,Simplified,111,Short Ton,1268038
+1375,4,Simplified,64,Long Ton,1268038
+7,4,Simplified,64,Long Ton,562018
+5,4,Simplified,111,Short Ton,562018
+7,4,Simplified,64,Long Ton,28512
+6,4,Simplified,111,Short Ton,28512
+12,4,Simplified,64,Long Ton,1233649
+10,4,Simplified,111,Short Ton,1233649
+17,4,Simplified,64,Long Ton,607968
+15,4,Simplified,111,Short Ton,607968
+22,3,Regulatory (Subpart C or D),64,Long Ton,264006
+15,3,Regulatory (Subpart C or D),111,Short Ton,264006
+7,4,Simplified,64,Long Ton,291752
+6,4,Simplified,111,Short Ton,291752
+14,4,Simplified,64,Long Ton,617985
+11,4,Simplified,111,Short Ton,617985
+20209,1,Convention (Subpart B),111,Short Ton,1268942
+34875,1,Convention (Subpart B),64,Long Ton,1268942
+61377,5,Dead Weight,75,Metric Ton,1268942
+72322,6,Displacement,75,Metric Ton,1268942
+12,4,Simplified,111,Short Ton,516632
+15,4,Simplified,64,Long Ton,516632
+10,4,Simplified,64,Long Ton,955857
+8,4,Simplified,111,Short Ton,955857
+18,4,Simplified,64,Long Ton,1208684
+14,4,Simplified,111,Short Ton,1208684
+7,4,Simplified,111,Short Ton,1258264
+7,4,Simplified,64,Long Ton,1258264
+12581,1,Convention (Subpart B),111,Short Ton,1268963
+29923,1,Convention (Subpart B),64,Long Ton,1268963
+49151,5,Dead Weight,120,Ton,1268963
+9,4,Simplified,64,Long Ton,287746
+7,4,Simplified,111,Short Ton,287746
+1375,4,Simplified,111,Short Ton,1268035
+1375,4,Simplified,64,Long Ton,1268035
+11,4,Simplified,111,Short Ton,1299686
+13,4,Simplified,64,Long Ton,1299686
+499,1,Convention (Subpart B),64,Long Ton,578740
+499,3,Regulatory (Subpart C or D),64,Long Ton,578740
+161,1,Convention (Subpart B),111,Short Ton,578740
+161,3,Regulatory (Subpart C or D),111,Short Ton,578740
+10,4,Simplified,111,Short Ton,571076
+13,4,Simplified,64,Long Ton,571076
+12,4,Simplified,64,Long Ton,664965
+11,4,Simplified,111,Short Ton,664965
+823,4,Simplified,111,Short Ton,1229925
+823,4,Simplified,64,Long Ton,1229925
+41000,1,Convention (Subpart B),64,Long Ton,912893
+10851,5,Dead Weight,75,Metric Ton,912893
+156,4,Simplified,111,Short Ton,1283025
+195,4,Simplified,64,Long Ton,1283025
+40037,1,Convention (Subpart B),64,Long Ton,611533
+20900,1,Convention (Subpart B),111,Short Ton,611533
+73004,5,Dead Weight,120,Ton,611533
+86123,6,Displacement,120,Ton,611533
+14,4,Simplified,111,Short Ton,614262
+18,4,Simplified,64,Long Ton,614262
+7,4,Simplified,64,Long Ton,621982
+5,4,Simplified,111,Short Ton,621982
+9,4,Simplified,64,Long Ton,561892
+9,4,Simplified,111,Short Ton,561892
+21,4,Simplified,111,Short Ton,1040135
+26,4,Simplified,64,Long Ton,1040135
+51032,1,Convention (Subpart B),64,Long Ton,1223399
+29164,1,Convention (Subpart B),111,Short Ton,1223399
+82177,5,Dead Weight,75,Metric Ton,1267076
+94350,6,Displacement,75,Metric Ton,1267076
+27239,1,Convention (Subpart B),111,Short Ton,1267076
+43022,1,Convention (Subpart B),64,Long Ton,1267076
+51,4,Simplified,111,Short Ton,261953
+64,4,Simplified,64,Long Ton,261953
+339,3,Regulatory (Subpart C or D),111,Short Ton,275588
+339,3,Regulatory (Subpart C or D),64,Long Ton,275588
+69919,6,Displacement,75,Metric Ton,1219909
+58713,5,Dead Weight,75,Metric Ton,1219909
+34349,1,Convention (Subpart B),64,Long Ton,1219909
+19968,1,Convention (Subpart B),111,Short Ton,1219909
+15,4,Simplified,111,Short Ton,505188
+19,4,Simplified,64,Long Ton,505188
+16,4,Simplified,64,Long Ton,670104
+12,4,Simplified,111,Short Ton,670104
+823,4,Simplified,111,Short Ton,1044432
+823,4,Simplified,64,Long Ton,1044432
+9,4,Simplified,64,Long Ton,636165
+7,4,Simplified,111,Short Ton,636165
+15,4,Simplified,64,Long Ton,259193
+12,4,Simplified,111,Short Ton,259193
+20,4,Simplified,64,Long Ton,600552
+18,4,Simplified,111,Short Ton,600552
+51,4,Simplified,64,Long Ton,1103018
+46,4,Simplified,111,Short Ton,1103018
+13,4,Simplified,64,Long Ton,634724
+12,4,Simplified,111,Short Ton,634724
+21,4,Simplified,64,Long Ton,566044
+16,4,Simplified,111,Short Ton,566044
+8,4,Simplified,111,Short Ton,659664
+8,4,Simplified,64,Long Ton,659664
+13,4,Simplified,111,Short Ton,285271
+16,4,Simplified,64,Long Ton,285271
+8,4,Simplified,64,Long Ton,955861
+7,4,Simplified,111,Short Ton,955861
+9,4,Simplified,111,Short Ton,1245774
+11,4,Simplified,64,Long Ton,1245774
+6,4,Simplified,64,Long Ton,288062
+5,4,Simplified,111,Short Ton,288062
+10,4,Simplified,111,Short Ton,641865
+12,4,Simplified,64,Long Ton,641865
+19,4,Simplified,64,Long Ton,560346
+15,4,Simplified,111,Short Ton,560346
+10411,3,Regulatory (Subpart C or D),111,Short Ton,274839
+31016,5,Dead Weight,120,Ton,274839
+18249,3,Regulatory (Subpart C or D),64,Long Ton,274839
+10,4,Simplified,64,Long Ton,287797
+10,4,Simplified,111,Short Ton,287797
+11,4,Simplified,111,Short Ton,589419
+12,4,Simplified,64,Long Ton,589419
+7,4,Simplified,111,Short Ton,1174301
+7,4,Simplified,64,Long Ton,1174301
+23,4,Simplified,111,Short Ton,641766
+29,4,Simplified,64,Long Ton,641766
+9,4,Simplified,64,Long Ton,574683
+7,4,Simplified,111,Short Ton,574683
+13,4,Simplified,111,Short Ton,611908
+16,4,Simplified,64,Long Ton,611908
+26,4,Simplified,64,Long Ton,1224874
+23,4,Simplified,111,Short Ton,1224874
+9,4,Simplified,64,Long Ton,1119053
+7,4,Simplified,111,Short Ton,1119053
+13,4,Simplified,111,Short Ton,502693
+16,4,Simplified,64,Long Ton,502693
+92079,4,Simplified,64,Long Ton,1119384
+12,4,Simplified,111,Short Ton,275049
+15,4,Simplified,64,Long Ton,275049
+823,4,Simplified,111,Short Ton,1229921
+823,4,Simplified,64,Long Ton,1229921
+10,4,Simplified,64,Long Ton,565395
+9,4,Simplified,111,Short Ton,565395
+63155,5,Dead Weight,75,Metric Ton,1315976
+75086,6,Displacement,75,Metric Ton,1315976
+21292,1,Convention (Subpart B),111,Short Ton,1315976
+36518,1,Convention (Subpart B),64,Long Ton,1315976
+17,4,Simplified,111,Short Ton,916834
+21,4,Simplified,64,Long Ton,916834
+705,4,Simplified,64,Long Ton,1221711
+705,4,Simplified,111,Short Ton,1221711
+29644,1,Convention (Subpart B),64,Long Ton,1106124
+56661,6,Displacement,75,Metric Ton,1106124
+46265,5,Dead Weight,75,Metric Ton,1106124
+12287,1,Convention (Subpart B),111,Short Ton,1106124
+764,4,Simplified,64,Long Ton,562078
+764,4,Simplified,111,Short Ton,562078
+10,4,Simplified,64,Long Ton,287797
+10,4,Simplified,111,Short Ton,287797
+1857,4,Simplified,111,Short Ton,1249487
+1857,4,Simplified,64,Long Ton,1249487
+5,4,Simplified,64,Long Ton,1275818
+5,4,Simplified,111,Short Ton,1275818
+13,4,Simplified,64,Long Ton,571629
+10,4,Simplified,111,Short Ton,571629
+10,4,Simplified,64,Long Ton,287797
+10,4,Simplified,111,Short Ton,287797
+8,4,Simplified,64,Long Ton,628324
+7,4,Simplified,111,Short Ton,628324
+25,4,Simplified,64,Long Ton,272165
+20,4,Simplified,111,Short Ton,272165
+12,4,Simplified,111,Short Ton,516632
+15,4,Simplified,64,Long Ton,516632
+159981,5,Dead Weight,120,Ton,565797
+83616,3,Regulatory (Subpart C or D),64,Long Ton,565797
+83616,1,Convention (Subpart B),64,Long Ton,565797
+48679,1,Convention (Subpart B),111,Short Ton,565797
+48679,3,Regulatory (Subpart C or D),111,Short Ton,565797
+8,4,Simplified,111,Short Ton,567947
+11,4,Simplified,64,Long Ton,567947
+33084,1,Convention (Subpart B),64,Long Ton,1227222
+19142,1,Convention (Subpart B),111,Short Ton,1227222
+19,4,Simplified,64,Long Ton,506543
+15,4,Simplified,111,Short Ton,506543
+1375,4,Simplified,111,Short Ton,1268031
+1375,4,Simplified,64,Long Ton,1268031
+13,4,Simplified,111,Short Ton,1268046
+13,4,Simplified,64,Long Ton,1268046
+1857,4,Simplified,111,Short Ton,1249486
+1857,4,Simplified,64,Long Ton,1249486
+35,4,Simplified,64,Long Ton,1109839
+28,4,Simplified,111,Short Ton,1109839
+159981,5,Dead Weight,120,Ton,565797
+83616,3,Regulatory (Subpart C or D),64,Long Ton,565797
+83616,1,Convention (Subpart B),64,Long Ton,565797
+48679,1,Convention (Subpart B),111,Short Ton,565797
+48679,3,Regulatory (Subpart C or D),111,Short Ton,565797
+8,4,Simplified,64,Long Ton,1095979
+4,4,Simplified,111,Short Ton,1095979
+11,4,Simplified,64,Long Ton,500995
+8,4,Simplified,111,Short Ton,500995
+35,4,Simplified,111,Short Ton,626510
+43,4,Simplified,64,Long Ton,626510
+166,1,Convention (Subpart B),64,Long Ton,1244969
+49,1,Convention (Subpart B),111,Short Ton,1244969
+22,4,Simplified,64,Long Ton,1214019
+18,4,Simplified,111,Short Ton,1214019
+22,4,Simplified,111,Short Ton,1267269
+27,4,Simplified,64,Long Ton,1267269
+16,4,Simplified,64,Long Ton,287444
+13,4,Simplified,111,Short Ton,287444
+22,4,Simplified,111,Short Ton,1273720
+28,4,Simplified,64,Long Ton,1273720
+9690,3,Regulatory (Subpart C or D),64,Long Ton,505295
+15,4,Simplified,64,Long Ton,608537
+12,4,Simplified,111,Short Ton,608537
+11,4,Simplified,64,Long Ton,239004
+8,4,Simplified,111,Short Ton,239004
+23,4,Simplified,64,Long Ton,1215983
+20,4,Simplified,111,Short Ton,1215983
+25,4,Simplified,111,Short Ton,614221
+28,4,Simplified,64,Long Ton,614221
+20,4,Simplified,64,Long Ton,574373
+16,4,Simplified,111,Short Ton,574373
+12,4,Simplified,64,Long Ton,506289
+9,4,Simplified,111,Short Ton,506289
+1619,4,Simplified,111,Short Ton,1258630
+1619,4,Simplified,64,Long Ton,1258630
+823,4,Simplified,64,Long Ton,1212599
+823,4,Simplified,111,Short Ton,1212599
+995,1,Convention (Subpart B),111,Short Ton,1266146
+2200,3,Regulatory (Subpart C or D),111,Short Ton,1266146
+3319,1,Convention (Subpart B),64,Long Ton,1266146
+2200,3,Regulatory (Subpart C or D),64,Long Ton,1266146
+7,3,Regulatory (Subpart C or D),111,Short Ton,275027
+9,3,Regulatory (Subpart C or D),64,Long Ton,275027
+11,4,Simplified,64,Long Ton,287919
+9,4,Simplified,111,Short Ton,287919
+7,4,Simplified,111,Short Ton,1256706
+7,4,Simplified,64,Long Ton,1256706
+14,4,Simplified,111,Short Ton,1255066
+14,4,Simplified,64,Long Ton,1255066
+9,4,Simplified,64,Long Ton,661437
+9,4,Simplified,111,Short Ton,661437
+51,4,Simplified,64,Long Ton,1126097
+41,4,Simplified,111,Short Ton,1126097
+14,4,Simplified,111,Short Ton,1250407
+17,4,Simplified,64,Long Ton,1250407
+15,4,Simplified,111,Short Ton,1260352
+18,4,Simplified,64,Long Ton,1260352
+6,4,Simplified,111,Short Ton,640586
+6,4,Simplified,64,Long Ton,640586
+18,4,Simplified,64,Long Ton,643918
+15,4,Simplified,111,Short Ton,643918
+276,4,Simplified,111,Short Ton,647139
+276,4,Simplified,64,Long Ton,647139
+12,4,Simplified,111,Short Ton,516632
+15,4,Simplified,64,Long Ton,516632
+17862,1,Convention (Subpart B),64,Long Ton,1116897
+6796,1,Convention (Subpart B),111,Short Ton,1116897
+25145,5,Dead Weight,75,Metric Ton,1116897
+32829,6,Displacement,75,Metric Ton,1116897
+17,4,Simplified,64,Long Ton,1219225
+14,4,Simplified,111,Short Ton,1219225
+20928,1,Convention (Subpart B),64,Long Ton,1221689
+11786,1,Convention (Subpart B),111,Short Ton,1221689
+41748,6,Displacement,120,Ton,1221689
+32203,5,Dead Weight,120,Ton,1221689
+705,4,Simplified,64,Long Ton,1221706
+705,4,Simplified,111,Short Ton,1221706
+705,4,Simplified,64,Long Ton,1221708
+705,4,Simplified,111,Short Ton,1221708
+26,4,Simplified,111,Short Ton,1245032
+32,4,Simplified,64,Long Ton,1245032
+15,4,Simplified,64,Long Ton,566281
+12,4,Simplified,111,Short Ton,566281
+13,4,Simplified,111,Short Ton,611908
+16,4,Simplified,64,Long Ton,611908
+11,4,Simplified,111,Short Ton,1239505
+14,4,Simplified,64,Long Ton,1239505
+159981,5,Dead Weight,120,Ton,565797
+83616,3,Regulatory (Subpart C or D),64,Long Ton,565797
+83616,1,Convention (Subpart B),64,Long Ton,565797
+48679,1,Convention (Subpart B),111,Short Ton,565797
+48679,3,Regulatory (Subpart C or D),111,Short Ton,565797
+8,4,Simplified,111,Short Ton,290088
+10,4,Simplified,64,Long Ton,290088
+24,4,Simplified,64,Long Ton,1186497
+19,4,Simplified,111,Short Ton,1186497
+14053,4,Simplified,64,Long Ton,1218417
+5373,4,Simplified,111,Short Ton,1218417
+20,4,Simplified,111,Short Ton,1324773
+25,4,Simplified,64,Long Ton,1324773
+7,4,Simplified,64,Long Ton,1165107
+5,4,Simplified,111,Short Ton,1165107
+82,4,Simplified,111,Short Ton,1228588
+102,4,Simplified,64,Long Ton,1228588
+17,4,Simplified,64,Long Ton,1195979
+14,4,Simplified,111,Short Ton,1195979
+7,4,Simplified,111,Short Ton,284286
+8,4,Simplified,64,Long Ton,284286
+0,1,Convention (Subpart B),111,Short Ton,223766
+11584,3,Regulatory (Subpart C or D),111,Short Ton,223766
+28592,1,Convention (Subpart B),64,Long Ton,223766
+30432,3,Regulatory (Subpart C or D),64,Long Ton,223766
+31814,5,Dead Weight,120,Ton,223766
+528,1,Convention (Subpart B),111,Short Ton,1323239
+203,3,Regulatory (Subpart C or D),111,Short Ton,1323239
+1763,1,Convention (Subpart B),64,Long Ton,1323239
+299,3,Regulatory (Subpart C or D),64,Long Ton,1323239
+69,3,Regulatory (Subpart C or D),111,Short Ton,276500
+101,3,Regulatory (Subpart C or D),64,Long Ton,276500
+1857,4,Simplified,111,Short Ton,1249486
+1857,4,Simplified,64,Long Ton,1249486
+9,4,Simplified,111,Short Ton,507264
+12,4,Simplified,64,Long Ton,507264
+823,4,Simplified,111,Short Ton,1225938
+823,4,Simplified,64,Long Ton,1225938
+745,4,Simplified,64,Long Ton,990531
+745,4,Simplified,111,Short Ton,990531
+8,4,Simplified,111,Short Ton,290088
+10,4,Simplified,64,Long Ton,290088
+21,4,Simplified,111,Short Ton,1045196
+26,4,Simplified,64,Long Ton,1045196
+13,4,Simplified,111,Short Ton,502693
+16,4,Simplified,64,Long Ton,502693
+31752,6,Displacement,120,Ton,1208496
+31753,1,Convention (Subpart B),64,Long Ton,1208496
+823,4,Simplified,64,Long Ton,1110462
+823,4,Simplified,111,Short Ton,1110462
+11,4,Simplified,111,Short Ton,503918
+13,4,Simplified,64,Long Ton,503918
+8,4,Simplified,64,Long Ton,205213
+7,4,Simplified,111,Short Ton,205213
+15,4,Simplified,111,Short Ton,504212
+19,4,Simplified,64,Long Ton,504212
+9,4,Simplified,111,Short Ton,1259044
+9,4,Simplified,64,Long Ton,1259044
+23,4,Simplified,64,Long Ton,272950
+18,4,Simplified,111,Short Ton,272950
+7,4,Simplified,111,Short Ton,282380
+8,4,Simplified,64,Long Ton,282380
+7,4,Simplified,111,Short Ton,647184
+9,4,Simplified,64,Long Ton,647184
+14,4,Simplified,64,Long Ton,280262
+13,4,Simplified,111,Short Ton,280262
+28,4,Simplified,111,Short Ton,570081
+35,4,Simplified,64,Long Ton,570081
+15,4,Simplified,111,Short Ton,651528
+19,4,Simplified,64,Long Ton,651528
+10,4,Simplified,111,Short Ton,1334027
+13,4,Simplified,64,Long Ton,1334027
+11574,1,Convention (Subpart B),111,Short Ton,1114610
+34601,5,Dead Weight,120,Ton,1114610
+43631,6,Displacement,120,Ton,1114610
+22988,1,Convention (Subpart B),64,Long Ton,1114610
+7,4,Simplified,111,Short Ton,1175704
+8,4,Simplified,64,Long Ton,1175704
+20,4,Simplified,64,Long Ton,272142
+16,4,Simplified,111,Short Ton,272142
+10,4,Simplified,64,Long Ton,287797
+10,4,Simplified,111,Short Ton,287797
+79702,1,Convention (Subpart B),64,Long Ton,1101122
+46051,1,Convention (Subpart B),111,Short Ton,1101122
+115832,6,Displacement,120,Ton,1101122
+87621,5,Dead Weight,120,Ton,1101122
+16,4,Simplified,111,Short Ton,1331497
+20,4,Simplified,64,Long Ton,1331497
+15,4,Simplified,64,Long Ton,560090
+12,4,Simplified,111,Short Ton,560090
